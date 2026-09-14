@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Oliver Harman"
+  description: "Oliver Harman is an economic geographer and spatial economist at LSE and the University of Oxford, working on decentralisation, urbanisation and local public goods in Africa, and on global value chains and regional development."
+  site-url: https://www.oliverharman.me
+  favicon: assets/favicon.png
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+
+  navbar:
+    logo: ""
+    title: "Oliver Harman"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: policy.qmd
+        text: Policy work
+      - href: commentary.qmd
+        text: Commentary
+    right:
+      - icon: envelope
+        href: mailto:o.harman@lse.ac.uk
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=SLb3QHIAAAAJ
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/oharman/
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "Oliver Harman &middot; o.harman@lse.ac.uk"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 2
+    toc-title: "On this page"
+    anchor-sections: false
+    link-external-newwindow: true
+    email-obfuscation: references
+    citations-hover: true

@@ -1,0 +1,166 @@
+---
+title: "Research"
+description: "Working papers, publications and data on decentralisation, urbanisation and local public goods in Africa, and on global value chains and regional development."
+---
+
+My research asks where authority and public money sit inside developing
+countries, and what that placement does to economic outcomes. One strand
+measures decentralisation and the provision of local public goods across
+African cities. The other asks how foreign investment and global value chains
+land in particular regions, and whether the green transition changes who
+captures the value.
+
+[**Primary fields:** urban and regional economics; political economy of
+development; economic geography. **Secondary:** fiscal decentralisation and
+local public finance; global value chains and foreign direct investment;
+computational measurement of institutions.]{.fields}
+
+Drafts not linked below are available on request.
+
+## Featured paper
+
+::: {.pubs}
+- **Status without Power: The Political Economy of Administrative Unit Creation in Uganda**
+  [Single-authored]{.authors}
+  [Submitted to the CSAE Conference 2027]{.venue}
+  [Uganda has repeatedly carved new administrative units out of old ones, often for political reasons. This paper treats that politically selected, block adoption of new units as a quasi-experiment and uses a staggered difference-in-differences design with spatial structure to measure what the new units actually do once they exist.]{.desc}
+  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Status%20without%20Power)]{.links}
+:::
+
+## Working papers
+
+::: {.pubs}
+- **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Eight Countries, 1994–2024**
+  [Harman, O., Hayward, J., and Sampó, G.]{.authors}
+  [IGC Working Paper, in preparation]{.venue}
+  [Extends the Hooghe–Marks Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. National constitutional and statutory instruments are coded with large language models and validated against in-country experts and legislative sources.]{.desc}
+
+- **Green Foreign Direct Investment in Africa**
+  [Alvarez-Vilanova, J., Crescenzi, R., Harman, O., and Lippitsch, C.]{.authors}
+  [In preparation]{.venue}
+  [Asks whether green investment in Africa builds industrial capability in the places that host it, or moves the value elsewhere.]{.desc}
+
+- **Transforming SME Integration into Global Value Chains**
+  [Harman, O., Shukla, R., and Nasir, R.]{.authors}
+  [In preparation]{.venue}
+
+- **Degree of Urbanisation in Ethiopia**
+  [Franklin, S., Harman, O., Kakoulaki, G., Molla, K., and Read, M.]{.authors}
+  [In preparation]{.venue}
+:::
+
+## Publications
+
+### Articles
+
+::: {.pubs}
+- **Unequal Progress and Barriers for Women in Economics**
+  [Berland, O., Harman, O., and Moreau-Kastler, N.]{.authors}
+  [In press, *Reviews of Economic Literature*, Stanford University Press. Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
+  [Reviews recent evidence on the barriers women face in economics. Gender gaps have narrowed over the past decade, but unevenly across institutions and countries and mostly at senior levels, and the evidence points to differences in evaluation standards, lower recognition of women's contributions and signs of a hostile environment.]{.desc}
+  [[Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4879332) [IGC version](https://www.theigc.org/publications/pipelines-or-pyramids-review-barriers-women-economics)]{.links}
+:::
+
+### Books
+
+::: {.pubs}
+- **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
+  [Crescenzi, R., and Harman, O. (2023)]{.authors}
+  [Regional Studies Policy Impact Book Series, Routledge]{.venue}
+  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [LSE Research for the World](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains)]{.links}
+
+- **Green Global Value Chains for Sustainable Regional Development**
+  [Crescenzi, R., and Harman, O.]{.authors}
+  [Cambridge Elements, Cambridge University Press. Under contract]{.venue}
+  [[Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
+:::
+
+### Book chapters
+
+::: {.pubs}
+- **Local and Regional Development**
+  [Crescenzi, R., and Harman, O. (2026)]{.authors}
+  [In De Marchi, V., Rabellotti, R., and Van Assche, A. (eds), *Encyclopedia of Global Value Chains*, Edward Elgar]{.venue}
+
+- **From Local Regions in the EU to Those in Ukraine (and Back Again): How FDI and Global Value Chains Tie Our Local Economies Together**
+  [Crescenzi, R., and Harman, O. (2023)]{.authors}
+  [Chapter 24 in Gorodnichenko, Y., and Rashkovan, V. (eds), *Supporting Ukraine: More Critical Than Ever*, CEPR Press]{.venue}
+  [[Chapter](https://cepr.org/system/files/publication-files/182384-supporting_ukraine_more_critical_than_ever.pdf#page=118)]{.links}
+
+- **A Policy Framework for Infrastructure Development and Global Value Chains**
+  [Crescenzi, R., and Harman, O. (2021)]{.authors}
+  [Chapter 6 in *Asian Infrastructure Finance 2021: Sustaining Global Value Chains*, Asian Infrastructure Investment Bank]{.venue}
+  [[Chapter](https://www.aiib.org/en/news-events/asian-infrastructure-finance/_common/pdf/AIIB-Asian-Infrastructure-Finance-2021.pdf#page=74)]{.links}
+:::
+
+## Doctoral thesis
+
+::: {.pubs}
+- **Power and Place: Decentralisation, Urbanisation and Local Economic Development in Africa**
+  [DPhil in Sustainable Urban Development, University of Oxford, in progress. Supervised by Vlad Mykhnenko]{.venue}
+  [Asks how decentralisation is changing across Africa and what follows for local economic development. The thesis builds a framework of capacity, authority and means, applies it to eight countries across three decades, and studies the creation of new administrative units in Uganda as a quasi-experiment.]{.desc}
+:::
+
+## Data
+
+::: {.pubs}
+- **RAI(Metro) Africa**
+  [A Regional Authority Index at the metropolitan tier for eight African countries, 1994–2024, coded from national legislation against the Hooghe–Marks codebook and validated with in-country experts. Open release of the data and coding pipeline in preparation]{.venue}
+
+- **CAM Africa Database**
+  [Capacity, authority and means indicators for sub-national governments across eight African countries. Citable deposit in preparation]{.venue}
+
+- **Mapping Municipal Finance Reform in Developing Countries**
+  [Interactive data visualisation, International Growth Centre]{.venue}
+  [[View](https://www.theigc.org/media-items/mapping-municipal-finance-reform-developing-countries)]{.links}
+:::
+
+## Grants
+
+::: {.talks}
+- [2025]{.date} **Green Foreign Direct Investment in Africa**, with J. Alvarez-Vilanova, R. Crescenzi and C. Lippitsch [£15k+]{.amount}
+- [2025]{.date} **Authority in African Cities**, International Growth Centre. Co-investigator, with V. Mykhnenko (PI) [£10k+]{.amount}
+- [2025]{.date} **Regional Studies Association Research Network on Green(ing) Global Value Chains for Sustainable Regional Development**, with V. De Marchi, R. Crescenzi and C. Hulke [£10k+]{.amount}
+- [2024]{.date} **Urban Expansion and Drivers of Emissions in Cities**, with S. Barzin and C. Riom [£15k+]{.amount}
+- [2023]{.date} **Spatial Vulnerabilities in Punjab**, with G. Bryan, H. Shaikh and N. Tsivanidis [£15k+]{.amount}
+- [2021]{.date} **COVID-19 Economic Evidence Grant**, UKRI. Co-thematic lead, cities research [Programme £1m+]{.amount}
+- [2021]{.date} **Transformative Economic Policy Programme, Bangladesh**, FCDO. Thematic lead, cities research [Programme £2.25m+]{.amount}
+:::
+
+## Selected presentations
+
+::: {.talks}
+- [2026]{.date} *Still Too Early—or Too Slow? Urbanisation and Unequal Public Goods in African Cities*. CSAE Conference, University of Oxford
+- [2025]{.date} *Authority in African Cities*. Sustainable Urban Development Seminar, University of Oxford
+- [2025]{.date} *(Local) Public Goods in Africa*. RSA Student and Early Career Conference, London
+- [2025]{.date} *Urban Government Capacity and Decentralisation Hotspots in Africa*. CSAE Conference, University of Oxford
+- [2024]{.date} *Urban Government Capacity and Decentralisation Hotspots in Africa*. ODI Global Public Financial Management Workshop, London; RSA Winter Conference, London; RSA Student and Early Career Conference, Cambridge
+- [2024]{.date} *Green Global Value Chains for Sustainable Regional Development*. International Business Seminar, Henley Business School, University of Reading
+- [2024]{.date} *Introducing the Cities Spatial Model*. World Urban Forum, Cairo
+- [2023]{.date} *Green Global Value Chains for Sustainable Regional Development*. Opening plenary, RSA Summer Conference, Ljubljana
+- [2023]{.date} *Upgrading as a Pathway to Structural Transformation*. UNU-WIDER and ACRC workshop on African urbanisation and structural transformation
+- [2022]{.date} *Harnessing Global Value Chains for Regional Development*. Book launch, LSE
+- [2020]{.date} *Spatial Productivity for Regional and Local Development*. OECD Spatial Productivity Lab, Trento
+:::
+
+## Service
+
+::: {.pubs}
+- **Co-organiser, Urbanisation and Poverty Reduction Research Conference** (2019–2025)
+  [6th to 9th editions, with the World Bank and George Washington University]{.venue}
+  [[9th, Cape Town](https://www.theigc.org/events/9th-urbanization-and-development-conference) [8th](https://www.theigc.org/events/8th-urbanisation-and-poverty-reduction-conference) [7th](https://www.theigc.org/events/7th-urbanisation-and-poverty-reduction-research-conference) [6th](https://www.theigc.org/events/6th-urbanization-and-poverty-reduction-research-conference)]{.links}
+
+- **Regional Studies Association Research Network on Green Global Value Chains for Sustainable Regional Development** (2025–)
+  [With V. De Marchi, R. Crescenzi and C. Hulke]{.venue}
+  [[Network](https://www.regionalstudies.org/network/ggvc4srd/)]{.links}
+
+- **Special session co-organiser**
+  [RSA Annual Conference, Florence, and RSA Winter Conference, London (2024); RSA Regions in Recovery Global E-Festival (2021)]{.venue}
+
+- **Editorial board**, Global Investments and Local Development blog, LSE (2024–)
+
+- **Pre-scoping contributor**, IPCC Special Report on Climate Change and Cities (2024)
+
+- **Referee**
+  [*Cambridge Journal of Regions, Economy and Society*; *Economic Development Quarterly*; *Environment and Urbanization*; *Journal of Economic Geography*; *Spatial Economic Analysis*; Edward Elgar; Routledge; Regional Studies Association; C40 Cities; International Centre for Tax and Development; International Growth Centre]{.venue}
+:::

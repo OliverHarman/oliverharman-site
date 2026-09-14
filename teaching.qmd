@@ -1,0 +1,85 @@
+---
+title: "Teaching"
+description: "Courses, guest lectures and student support in urban economics, economic geography and applied quantitative methods."
+---
+
+I teach urban and spatial economics to undergraduates, PhD students and
+mid-career practitioners. In 2026 I received the Class Teacher Award in LSE's
+Department of Geography and Environment, having been nominated by the LSE
+Students' Union for Outstanding Teacher of the Year the year before.
+
+## Teaching interests
+
+Urban and regional economics; economic geography; the political economy of
+development and of local government; and applied quantitative methods for
+development, including causal inference with administrative and spatial data
+and text-as-data.
+
+I would be glad to supervise PhD and master's students working on cities,
+decentralisation or global value chains.
+
+## Courses
+
+::: {.pubs}
+- **The Economics of Cities** (2024–2026)
+  [Guest teacher. BSc second and third year, Department of Geography and Environment, LSE. Convened by Prof. Henry Overman]{.venue}
+  [Class Teacher Award, selected by the Head of Department (2026). Nominated for Outstanding Teacher of the Year by the LSE Students' Union (2025). Rated 4.9/5 (2026) and 4.6/5 (2025).]{.desc}
+
+- **BREAD-IGC Virtual PhD Course on Urban Economics** (2024)
+  [Co-convener and co-host, with faculty lead Prof. Edward Glaeser]{.venue}
+  [A nine-week certified course for PhD students. 1,436 students from 91 countries took part; 99% were satisfied, and 78% said the course affected their research trajectory.]{.desc}
+  [[Reading lists and lectures](https://www.theigc.org/events/bread-igc-virtual-phd-course-urban-economics)]{.links}
+
+- **Urban Economics** (2025–2026)
+  [Lecturer and module co-creator. Professional Diploma, Africa Urban Lab, African School of Economics, Zanzibar]{.venue}
+  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background. Rated 4.8/5 as lecturer and 4.6/5 for the module (2025); 98% of students rated it very valuable.]{.desc}
+
+- **Using Economics in Government** (2023–2025)
+  [Seminar leader. BSc third year, School of Politics and Economics, King's College London. Convened by Dr Maia King]{.venue}
+  [Cohorts of 34, 44 and 46 students, with responsibility for marking. Rated 4.2/5 (2023), 4.8/5 (2024) and 4.7/5 (2025).]{.desc}
+
+- **Winter School on Urban and Regional Economics in Africa** (2025)
+  [Organising committee. University of Cape Town, with ERSA, the IGC and the World Bank]{.venue}
+  [[Reading list and lectures](https://www.theigc.org/events/winter-school-urban-and-regional-economics-africa)]{.links}
+:::
+
+## Guest lectures
+
+::: {.pubs}
+- **Green global value chains for sustainable regional development** (2025–2026)
+  [Stanford–Oxford Week on Sustainability Changemakers, Magdalen College, University of Oxford]{.venue}
+
+- **Funding fast-growing cities in developing countries** (2024)
+  [MSc Sustainable Urban Development, Department for Continuing Education, University of Oxford]{.venue}
+
+- **Using urban economics research in government** (2023–2024)
+  [Using Economics in Government, BSc and MSc, King's College London]{.venue}
+
+- **Sustainable urbanisation in developing countries** (2023)
+  [Sustainability and Society, BA, Adelphi University, New York]{.venue}
+
+- **Sustainable urbanisation** (2021–2022)
+  [Invited speaker, Blavatnik School of Government, University of Oxford]{.venue}
+:::
+
+## Student support and mentoring
+
+::: {.pubs}
+- **IGC PhD Summer Placement** (2024–2025)
+  [Co-creator and co-organiser. Addis Ababa (2024) and global (2025)]{.venue}
+
+- **Young Urban Economist Workshop** (2023–2025)
+  [Co-organiser. Early career researchers present to senior faculty at the 7th, 8th and 9th Urbanisation and Poverty Reduction Research Conferences, Washington DC and Cape Town]{.venue}
+
+- **Freetown City Council MPP Summer Placement** (2021–2022)
+  [Co-creator and co-organiser, with the Blavatnik School of Government and Freetown City Council, Sierra Leone]{.venue}
+
+- **Feedback and matchmaking, IGC Bangladesh Young Economists** (2023)
+  [Resilient and Resurgent Bangladesh Conference, Dhaka]{.venue}
+
+- **Mentor** (2021–2024)
+  [Oxford Society for International Development, University of Oxford]{.venue}
+
+- **College Advisor and Tutor** (2021–2022)
+  [St Antony's College, University of Oxford]{.venue}
+:::

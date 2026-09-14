@@ -1,0 +1,150 @@
+---
+title: "Commentary"
+description: "Writing, video and podcasts for wider audiences on cities, regions and global value chains."
+---
+
+Shorter pieces for wider audiences, in outlets including the World Economic
+Forum, OECD Development Matters, Ideas for India, LSE Business Review and the
+IGC blog.
+
+## 2026
+
+::: {.pubs}
+- **[Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)**
+  [LSE Business Review, with Riccardo Crescenzi]{.venue}
+:::
+
+## 2025
+
+::: {.pubs}
+- **[From 4 to 54: Hits and misses in India's waste reforms](https://www.ideasforindia.in/topics/environment/from-4-to-54-hits-and-misses-in-india-s-waste-reforms)**
+  [Ideas for India]{.venue}
+  [[Hindi](https://www.ideasforindia.in/topics/environment/from-4-to-54-hits-and-misses-in-india-s-waste-reforms-hindi)]{.links}
+
+- **[Creating cleaner cities: Sustainable strategies for urban waste management](https://www.theigc.org/blogs/cleaner-cities-urban-waste-management)**
+  [IGC blog, with Erin Spence]{.venue}
+
+- **[Politics of trash: How waste management can build trust in cities](https://www.theigc.org/blogs/politics-trash-waste-management-trust-cities)**
+  [IGC blog, with Victoria Delbridge]{.venue}
+
+- **[What's in the bin? Cities' waste data can guide smarter decisions](https://www.theigc.org/blogs/whats-in-the-bin-cities-waste-data)**
+  [IGC blog, with Victoria Delbridge]{.venue}
+:::
+
+## 2023
+
+::: {.pubs}
+- **[Green global value chains for sustainable regional development](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)**
+  [Regional Studies Association blog, with Riccardo Crescenzi]{.venue}
+  [[Republished on the LSE GILD blog](https://blogs.lse.ac.uk/gild/2024/03/19/green-global-value-chains-for-sustainable-regional-development/)]{.links}
+
+- **[How developing countries can embrace change and reap opportunities from sustainable urbanisation](https://www.weforum.org/agenda/2023/09/sustainable-urbanisation-in-developing-countries-adjusting-to-changing-opportunities/)**
+  [World Economic Forum, with Victoria Delbridge and Juliana Oliveira-Cunha]{.venue}
+
+- **[Leveraging opportunities from global value chains for regional development](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains)**
+  [LSE Research for the World, with Riccardo Crescenzi]{.venue}
+
+- **[Public policy considerations for climbing global value chains in Asia](https://www.hinrichfoundation.com/research/article/fdi/public-policy-considerations-for-climbing-global-value-chains-in-asia/)**
+  [Hinrich Foundation, with Riccardo Crescenzi]{.venue}
+
+- **[Quantifying sustainable urbanisation pathways in developing country cities](https://www.theigc.org/blogs/quantifying-sustainable-urbanisation-pathways-developing-country-cities)**
+  [IGC blog]{.venue}
+:::
+
+## 2022
+
+::: {.pubs}
+- **[How can policy makers be globally inclusive when it comes to sustainability?](https://insights.taylorandfrancis.com/sustainability/globally-inclusive-policy-sustainability)**
+  [Taylor & Francis Insights]{.venue}
+
+- **[Multiple pathways to upgrading in global value chains in Asia](https://www.hinrichfoundation.com/research/article/fdi/upgrading-global-value-chains-gvc-in-asia/)**
+  [Hinrich Foundation, with Riccardo Crescenzi]{.venue}
+
+- **[The role of inter-governmental transfers in financing Africa's cities](https://www.theigc.org/blog/the-role-of-inter-governmental-transfers-in-financing-africas-cities/)**
+  [IGC blog]{.venue}
+
+- **[Barriers for women in economics: A review of recent findings](https://www.theigc.org/blog/barriers-for-women-in-economics-a-review-of-recent-findings/)**
+  [IGC blog, with Ondine Berland and Ninon Moreau-Kastler]{.venue}
+:::
+
+## 2021
+
+::: {.pubs}
+- **[Learning from Lagos](https://www.thinkglobalhealth.org/article/learning-lagos)**
+  [Think Global Health, with Siobhan McDonough]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/learning-from-lagos/)]{.links}
+
+- **[Intermediate cities and climate action: Driving change through urban land use and governance](https://oecd-development-matters.org/2021/09/09/intermediate-cities-and-climate-action-driving-change-through-urban-land-use-and-governance/)**
+  [OECD Development Matters]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/intermediate-cites-and-climate-action-driving-change-through-urban-land-use-and-governance/)]{.links}
+
+- **[Intermediate cities: A missing piece in the climate change puzzle](https://oecd-development-matters.org/2021/09/08/intermediate-cities-a-missing-piece-in-the-climate-change-puzzle/)**
+  [OECD Development Matters]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/intermediate-cities-a-missing-piece-in-the-climate-change-puzzle/)]{.links}
+
+- **[How the pandemic can be a catalyst for city climate action](https://www.theigc.org/blog/how-the-pandemic-can-be-a-catalyst-for-city-climate-action/)**
+  [IGC blog, with Serge de Gheldere]{.venue}
+:::
+
+## 2020
+
+::: {.pubs}
+- **[The gateway to carbon pricing? Air pollution policy](https://www.weforum.org/agenda/2020/01/a-gateway-tax-for-helping-mitigate-climate-change/)**
+  [World Economic Forum, with Ondine Berland]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/the-gateway-to-carbon-pricing-air-pollution-policy/) [The European Sting](https://europeansting.com/2020/01/15/the-gateway-to-carbon-pricing-air-pollution-policy/)]{.links}
+
+- **[In defence of density](https://www.theigc.org/blog/in-defence-of-density/)**
+  [IGC blog, with Shlomo Angel, Patrick Lamson-Hall and Shahrukh Wani]{.venue}
+  [[Republished by the Marron Institute, NYU](https://marroninstitute.nyu.edu/blog/in-defence-of-density)]{.links}
+
+- **[Behavioural economics of lockdown compliance: In search of lost time and well-behaved neighbours](https://www.theigc.org/blog/behavioural-economics-of-lockdown-compliance-in-search-of-lost-time-and-well-behaved-neighbours/)**
+  [IGC blog, with Victoria Delbridge]{.venue}
+
+- **[Tendering trash: Lessons in urban waste management from Indian cities](https://www.theigc.org/blog/tendering-trash-lessons-in-urban-waste-management-from-indian-cities/)**
+  [IGC blog, with Sidharth Santhosh]{.venue}
+
+- **[Urbanisation in fragile societies: Thinking about Kabul](https://www.urbanet.info/urbanisation-in-fragile-societies-kabul/)**
+  [Urbanet, with Freshta Karim, Shoaib Rahim and Shahrukh Wani]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/urbanisation-in-fragile-societies-thinking-about-kabul/)]{.links}
+
+- **[Navigating the urban age](https://www.bsg.ox.ac.uk/sites/default/files/2019-11/BSG-OxfordGovernmentReview-Issue4%20WEB.pdf)**
+  [Oxford Government Review, with Shahrukh Wani]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/navigating-the-urban-age/)]{.links}
+
+- **[Urban data innovations: Three cities showing their smarts](https://www.theigc.org/blog/urban-data-innovations-three-cities-showing-their-smarts/)**
+  [IGC blog, with Victoria Delbridge]{.venue}
+:::
+
+## 2019
+
+::: {.pubs}
+- **[Climate change: Won or lost in cities or by cities?](https://www.weforum.org/agenda/2019/09/climate-change-won-or-lost-in-cities-or-by-cities/)**
+  [World Economic Forum]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/climate-change-won-or-lost-in-cities-or-by-cities/) [The European Sting](https://europeansting.com/2019/09/17/climate-change-won-or-lost-in-cities-or-by-cities/)]{.links}
+
+- **[Treedistribution: Combatting environmental inequality in cities](https://www.theigc.org/blog/treedistribution-combatting-environmental-inequality-in-cities/)**
+  [IGC blog]{.venue}
+
+- **[Inclusive growth for cities: Fuzzy, functional or forsaken?](https://blogs.worldbank.org/developmenttalk/inclusive-growth-cities-fuzzy-functional-or-forsaken)**
+  [World Bank blogs, with Neil Lee]{.venue}
+  [[Republished by the IGC](https://www.theigc.org/blog/inclusive-growth-for-cities-fuzzy-functional-or-forsaken/)]{.links}
+
+- **[Should I stay or should I go? Managing populations with urban to rural migration incentives](https://www.theigc.org/blog/should-i-stay-or-should-i-go-managing-populations-with-urban-to-rural-migration-incentives/)**
+  [IGC blog]{.venue}
+
+- **[Urban density and the promises of proximity](https://www.theigc.org/blog/urban-density-and-the-promises-of-proximity/)**
+  [IGC blog]{.venue}
+:::
+
+## Video and podcasts
+
+::: {.pubs}
+- **[Should we still care about net zero?](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero)**
+  [LSE iQ podcast, with Anna Valero, Akshat Rathi and Riccardo Crescenzi]{.venue}
+
+- **[Global value chains for regional development](https://www.youtube.com/watch?v=fIFIfQ4JgoQ)**
+  [Book launch, LSE, with Riccardo Crescenzi]{.venue}
+
+- **Green global value chains for sustainable development**
+  [Econ Films]{.venue}
+:::

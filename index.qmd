@@ -1,0 +1,75 @@
+---
+title: "Oliver Harman"
+description: "Economic geographer and spatial economist working on decentralisation, urbanisation and local public goods in Africa, and on global value chains and regional development."
+toc: false
+---
+
+::: {.lede}
+I study where authority and public money actually sit inside developing
+countries, and what that placement does to the places people live.
+:::
+
+I am a Research Officer in Economic Geography and Spatial Economics at LSE's
+Department of Geography and Environment and Global School of Sustainability,
+and Lecturer in Urban Economics at the African School of Economics' Africa
+Urban Lab. I am also a DPhil candidate in Sustainable Urban Development at the
+University of Oxford, where I am a Doctoral Affiliate of the Centre for the
+Study of African Economies and a Research Affiliate of the Blavatnik School of
+Government.
+
+[**Fields:** urban and regional economics; political economy of development;
+economic geography. **Regions:** sub-Saharan Africa and South Asia.]{.fields}
+
+::: {.featured}
+[Featured paper]{.label}
+
+[Status without Power: The Political Economy of Administrative Unit Creation in Uganda]{.paper-title}
+
+Uganda has repeatedly carved new administrative units out of old ones, often
+for political reasons. This paper treats that politically selected, block
+adoption of new units as a quasi-experiment and uses a staggered
+difference-in-differences design with spatial structure to measure what the
+new units actually do once they exist.
+
+[More on my research](research.qmd#featured-paper) &nbsp; Draft available on request
+:::
+
+My research has two strands. The first, and the subject of my thesis,
+*Power and Place*, is decentralisation and the provision of local public goods
+in African cities. I built a framework of capacity, authority and means,
+applied it to eight countries over three decades, and extended the Hooghe–Marks
+Regional Authority Index to the metropolitan tier, coding national legislation
+with large language models and validating the codings with in-country experts.
+The second strand asks how foreign investment and global value chains land in
+particular regions, and whether those regions capture anything durable from
+them as the economy turns green.
+
+Before and alongside the doctorate, I spent a decade working with city
+governments and national ministries across Africa, Asia and the Caribbean: as
+Cities Economist and then Senior Policy Economist on the International Growth
+Centre's [Cities that Work](https://www.theigc.org/initiatives/cities-work)
+initiative, and as an ODI Fellow in Guyana's Ministry of Communities. That
+[policy work](policy.qmd) has been taken up by decision-makers in 27 countries.
+
+I [teach](teaching.qmd) urban economics at LSE and the Africa Urban Lab, and
+co-convened the BREAD-IGC virtual PhD course in urban economics with Edward
+Glaeser. In 2026 I received the Class Teacher Award in LSE's Department of
+Geography and Environment.
+
+This site collects my [research](research.qmd), [teaching](teaching.qmd),
+[policy work](policy.qmd) and [commentary](commentary.qmd).
+
+My best email is <o.harman@lse.ac.uk>, and I am on
+[Google Scholar](https://scholar.google.com/citations?user=SLb3QHIAAAAJ) and
+[LinkedIn](https://www.linkedin.com/in/oharman/). If you are ever in London or
+Oxford, I am nearly always available for a cup of tea.
+
+## Updates
+
+::: {.updates}
+- [Jun 2026]{.date} ["Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy"](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/), with Riccardo Crescenzi, in LSE Business Review.
+- [May 2026]{.date} "Unequal Progress and Barriers for Women in Economics", with Ondine Berland and Ninon Moreau-Kastler, is in press at *Reviews of Economic Literature*.
+- [Apr 2026]{.date} Four working papers submitted to the International Growth Centre.
+- [Mar 2026]{.date} Presented a paper on public goods in Africa at the [CSAE Conference](https://www.csae.ox.ac.uk/), Oxford.
+- [Jan 2026]{.date} Joint work [presented at ASSA](https://www.aeaweb.org/conference/2026/program/1519).
+:::

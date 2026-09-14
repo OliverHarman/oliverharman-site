@@ -1,0 +1,275 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+$paper:        #fcfcfb;
+$ink:          #16232b;
+$ink-soft:     #59646b;
+$rule:         #dde1e0;
+$accent:       #1b6b5f;
+$accent-tint:  #edf3f1;
+
+$body-bg:      $paper;
+$body-color:   $ink;
+$link-color:   $accent;
+$font-family-sans-serif: "Source Serif 4", Georgia, serif;
+$font-size-root: 18px;
+$headings-font-weight: 600;
+
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$footer-bg: $paper;
+
+/*-- scss:rules --*/
+
+$ui: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+body {
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+
+main.content {
+  max-width: 40rem;   // ~68 characters at this size
+  padding-top: 1.5rem;
+}
+
+// ---- Navigation: quiet, sans, hairline base -------------------------------
+
+.navbar {
+  border-bottom: 1px solid $rule;
+  font-family: $ui;
+  font-size: 0.86rem;
+  padding-block: 0.35rem;
+}
+
+.navbar .navbar-brand {
+  font-family: $ui;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.navbar .nav-link {
+  color: $ink-soft !important;
+  padding-inline: 0.75rem !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: $ink !important;
+  box-shadow: inset 0 -2px 0 $accent;
+}
+
+// ---- Headings --------------------------------------------------------------
+
+h1, .title {
+  font-size: 2.1rem;
+  line-height: 1.2;
+  letter-spacing: -0.012em;
+  margin-bottom: 1.25rem;
+}
+
+h2 {
+  font-size: 1.32rem;
+  margin-top: 2.75rem;
+  padding-top: 0.9rem;
+  padding-bottom: 0;
+  border-top: 1px solid $rule;
+  border-bottom: none;
+}
+
+h3 {
+  font-size: 1.08rem;
+  margin-top: 1.9rem;
+}
+
+// ---- Home page opening -----------------------------------------------------
+// The one loud element on the site. Everything else stays disciplined.
+
+.lede {
+  font-size: 1.42rem;
+  line-height: 1.4;
+  letter-spacing: -0.008em;
+  margin-bottom: 1.75rem;
+  text-wrap: balance;
+}
+
+// ---- Featured paper block --------------------------------------------------
+
+.featured {
+  border-left: 3px solid $accent;
+  background: $accent-tint;
+  padding: 1.1rem 1.3rem;
+  margin: 2rem 0;
+
+  .label {
+    font-family: $ui;
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: $accent;
+    letter-spacing: 0.02em;
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .paper-title {
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 1.3;
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+
+  p { margin-bottom: 0.45rem; }
+  p:last-child { margin-bottom: 0; }
+}
+
+// ---- Publication list ------------------------------------------------------
+// Hanging indent mirrors how a reader scans a reference list.
+
+.pubs {
+  margin-top: 1.25rem;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  li {
+    padding-left: 1.4rem;
+    text-indent: -1.4rem;
+    margin-bottom: 1.65rem;
+    line-height: 1.5;
+  }
+
+  li > p { margin-bottom: 0; }
+
+  .authors,
+  .venue {
+    display: block;
+    text-indent: 0;
+    padding-left: 0;
+    font-family: $ui;
+    font-size: 0.82rem;
+    color: $ink-soft;
+    margin-top: 0.2rem;
+  }
+
+  .venue { font-style: normal; }
+
+  .desc {
+    display: block;
+    text-indent: 0;
+    font-size: 0.94rem;
+    margin-top: 0.35rem;
+  }
+
+  .links {
+    display: block;
+    text-indent: 0;
+    font-family: $ui;
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+  }
+
+  .links a { margin-right: 0.85rem; }
+}
+
+// ---- Links -----------------------------------------------------------------
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  text-decoration-color: rgba(27, 107, 95, 0.35);
+}
+
+a:hover { text-decoration-color: $accent; }
+
+a:focus-visible {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
+}
+
+// ---- Home page fields line -------------------------------------------------
+
+.fields {
+  font-family: $ui;
+  font-size: 0.86rem;
+  color: $ink-soft;
+}
+
+// ---- Dated lists: updates, presentations, grants ---------------------------
+
+.updates,
+.talks {
+  font-family: $ui;
+  font-size: 0.86rem;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  // Hanging indent rather than flex, so links and emphasis inside an item
+  // stay in the text flow instead of becoming separate columns.
+  li {
+    margin-bottom: 0.5rem;
+    padding-left: 6.05rem;
+    text-indent: -6.05rem;
+  }
+
+  li > p { margin-bottom: 0; }
+
+  .date {
+    color: $ink-soft;
+    display: inline-block;
+    width: 6.05rem;
+    text-indent: 0;
+  }
+}
+
+.updates,
+.talks { margin-top: 1.1rem; }
+
+.talks .amount {
+  color: $ink-soft;
+  white-space: nowrap;
+  margin-left: 0.4rem;
+
+  &::before { content: "· "; }
+}
+
+// ---- Table of contents -----------------------------------------------------
+
+#TOC, .sidebar nav[role="doc-toc"] {
+  font-family: $ui;
+  font-size: 0.8rem;
+
+  a { color: $ink-soft; text-decoration: none; }
+  a:hover, a.active { color: $accent; }
+}
+
+// ---- Footer ----------------------------------------------------------------
+
+.nav-footer {
+  border-top: 1px solid $rule;
+  font-family: $ui;
+  font-size: 0.8rem;
+  color: $ink-soft;
+  margin-top: 4rem;
+}
+
+// ---- Small screens ---------------------------------------------------------
+
+@media (max-width: 767px) {
+  main.content { padding-inline: 1.1rem; }
+  h1, .title { font-size: 1.7rem; }
+  .lede { font-size: 1.2rem; }
+  .updates li, .talks li { padding-left: 0; text-indent: 0; }
+  .updates .date, .talks .date { display: block; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

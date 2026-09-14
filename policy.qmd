@@ -1,0 +1,173 @@
+---
+title: "Policy work"
+description: "Policy research on municipal finance, global value chains and urban sustainability, written for governments in low-resource settings."
+---
+
+For a decade I wrote for finance ministries, city treasuries and mayoral teams
+across Africa, Asia and the Caribbean, mostly through the International Growth
+Centre's Cities that Work initiative. That work has 61 externally validated
+instances of uptake by decision-makers, across 27 countries and four
+international organisations, a measure audited by the IGC's government funder.
+
+The work below was written to be used rather than cited. Several pieces exist
+in French, Somali, Arabic or Hindi; ask if you need one.
+
+## Financing sustainable urban development
+
+::: {.pubs}
+- **Understanding the Urbanisation Impacts of Ethiopia's Land and Property Tax Reform: A Scoping Study**
+  [With Franklin, S., Tilahun Mengistu, S., and Molla, K.]{.authors}
+  [IGC Working Paper]{.venue}
+
+- **Mapping Municipal Finance Reform in Developing Countries** (2022)
+  [Interactive webpage]{.venue}
+  [[View](https://www.theigc.org/media-items/mapping-municipal-finance-reform-developing-countries)]{.links}
+
+- **Enhancing the Financial Position of Cities: Evidence from Kampala** (2022)
+  [With Delbridge, V., Haas, A., and Venables, A.J.]{.authors}
+  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-kampala/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_kampala_french.pdf)]{.links}
+
+- **Enhancing the Financial Position of Cities: Evidence from Dakar** (2022)
+  [With Delbridge, V., Dia Sarr, K., Haas, A., and Venables, A.J.]{.authors}
+  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-dakar/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_dakar_french.pdf)]{.links}
+
+- **Enhancing the Financial Position of Cities: Evidence from Hargeisa** (2022)
+  [With Delbridge, V., Haas, A., Venables, A.J., and Yusuf, A.]{.authors}
+  [IGC and UN-Habitat case study. French and Somali translations available]{.venue}
+  [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-hargeisa/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_hargeisa_french.pdf) [Somali](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_hargeisa_somali.pdf)]{.links}
+
+- **Enhancing the Financial Position of Cities: Evidence from Mzuzu** (2022)
+  [With Delbridge, V., Haas, A., Jangia, D., Manwaring, P., and Venables, A.J.]{.authors}
+  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-mzuzu/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_mzuzu_french.pdf)]{.links}
+
+- **Financing Sustainable Urban Development** (2021)
+  [Contributing author]{.authors}
+  [UN-Habitat and the European Commission. French translation available]{.venue}
+  [[Report](https://unhabitat.org/financing-sustainable-urban-development)]{.links}
+
+- **COVID-19 and Taxes: Policies for the Post-Pandemic Recovery** (2021)
+  [With Jensen, A., Naeem, F., Rukh, S., Saab, M., and Wilkinson, N.]{.authors}
+  [IGC Policy Brief. Arabic translation available]{.venue}
+  [[Brief](https://www.theigc.org/publication/covid-19-and-taxes-policies-for-the-post-pandemic-recovery/)]{.links}
+
+- **Urban Property Taxes in Pakistan's Punjab** (2020)
+  [With Shaikh, H., and Wani, S.]{.authors}
+  [IGC Policy Brief]{.venue}
+  [[Brief](https://www.theigc.org/publication/urban-property-taxes-in-pakistans-punjab/)]{.links}
+
+- **Key Considerations for Government Housing Provision in Somaliland** (2020)
+  [IGC Policy Note to the Ministry of Public Works, Land and Housing, Government of Somaliland]{.venue}
+:::
+
+## Global value chains and local development
+
+::: {.pubs}
+- **Climbing Up Global Value Chains: Leveraging FDI for Economic Development** (2022)
+  [With Crescenzi, R.]{.authors}
+  [Hinrich Foundation White Paper]{.venue}
+  [[Paper](https://www.hinrichfoundation.com/research/wp/fdi/global-value-chains-gvc-foreign-direct-investment-fdi-economic-development/)]{.links}
+
+- **Leveraging Opportunities from Global Value Chains for Regional Development** (2023)
+  [Toolkit for local governments in the North of England, Connected Places Catapult]{.venue}
+
+- **Written Evidence on Inward Foreign Direct Investment** (2021)
+  [With Crescenzi, R.]{.authors}
+  [UK Parliament call for evidence]{.venue}
+  [[Evidence](https://committees.parliament.uk/writtenevidence/23003/pdf/)]{.links}
+
+- **Public Policy Space: An Integrated Framework for the Analysis of Internationalisation and Territorial Upgrading** (2019)
+  [With Crescenzi, R., and Comotti, S.]{.authors}
+  [Report for the European Commission and the Government of Slovenia]{.venue}
+
+- **Move on Up! Building, Embedding and Reshaping Global Value Chains Through Investment Flows: Insights for Regional Innovation Policies** (2018)
+  [With Crescenzi, R., and Arnold, D.]{.authors}
+  [Background paper, OECD and European Commission workshop series *Broadening Innovation Policy: New Insights for Regions and Cities*]{.venue}
+  [[Paper](https://www.oecd.org/cfe/regionaldevelopment/CrescenziHarman%282018%29MoveOnUp.pdf)]{.links}
+:::
+
+The book and book chapters on this theme are listed under [research](research.qmd).
+
+## Sustainability and climate change
+
+::: {.pubs}
+- **Creating Cleaner Cities: Policy Options for Solid Waste Management** (2025)
+  [With Delbridge, V., Glaeser, E., Joshi, M., and Spence, E.]{.authors}
+  [IGC Synthesis Paper and Policy Toolkit]{.venue}
+  [[Paper](https://www.theigc.org/publications/creating-cleaner-cities-policy-options-solid-waste-management) [Toolkit](https://www.theigc.org/publications/policy-options-solid-waste-management)]{.links}
+
+- **Sustainable Urbanisation in Developing Countries: Cities as Places to Live** (2022)
+  [With Delbridge, V., Oliveira-Cunha, J., and Venables, A.J.]{.authors}
+  [IGC Growth Brief]{.venue}
+  [[Brief](https://www.theigc.org/reader/sustainable-urbanisation-in-developing-countries-cities-as-places-to-live/)]{.links}
+
+- **Sustainable Urbanisation in Developing Countries: Cities as Places to Innovate, Work and Trade** (2022)
+  [With Delbridge, V., Oliveira-Cunha, J., and Venables, A.J.]{.authors}
+  [IGC Growth Brief]{.venue}
+  [[Brief](https://www.theigc.org/reader/sustainable-urbanisation-in-developing-countries-cities-as-places-to-innovate-trade-and-work/)]{.links}
+
+- **Written Evidence on Climate Change, Development and COP26** (2021)
+  [With the International Growth Centre]{.authors}
+  [UK Parliament call for evidence]{.venue}
+
+- **Written Evidence on Local Air Quality Management** (2020)
+  [UK Parliament call for evidence]{.venue}
+
+- **Embedding Resilience: City Responses to Acute Shocks and Chronic Stresses** (2018)
+  [With Collier, P., Glaeser, E., and Venables, A.J.]{.authors}
+  [Global Future Cities Policy Framing Paper]{.venue}
+  [[Paper](https://www.globalfuturecities.org/node/168)]{.links}
+
+- **Innovation, Growth and the Environment**
+  [Contributor]{.authors}
+  [IGC Sustainability White Paper]{.venue}
+  [[Paper](https://www.theigc.org/publications/innovation-growth-and-environment)]{.links}
+:::
+
+## Cities, transport and migration
+
+::: {.pubs}
+- **IGC India Evidence Paper: Urbanisation, Rural Development and Migration** (2025)
+  [With Ratra, V., Bhimsaria, S., and Dobermann, T.]{.authors}
+  [IGC Evidence Paper, India Sustainable Growth Hub]{.venue}
+  [[Paper](https://www.theigc.org/publications/igc-india-evidence-paper-urbanisation-rural-development-and-migration)]{.links}
+
+- **The BRT and the Danfo: A Study of Lagos' Transport Reforms from 1999 to 2019** (2019)
+  [With Otunola, B., and Kriticos, S.]{.authors}
+  [IGC Cities that Work Case Study]{.venue}
+  [[Case study](https://www.theigc.org/publication/the-brt-and-the-danfo-a-case-study-of-lagos-transport-reforms-from-1999-2019/)]{.links}
+
+- **Assessment Framework for Measuring Economic Success in Transport, Land-Use Planning and Resilience Interventions** (2018)
+  [With Blake, M., Collier, P., Delbridge, V., Glaeser, E., and Venables, A.J.]{.authors}
+  [Global Future Cities Policy Paper]{.venue}
+  [[Paper](https://www.globalfuturecities.org/node/171)]{.links}
+:::
+
+## Government of Guyana
+
+::: {.pubs}
+- **Economist, then Senior Economist and ODI Fellow, Ministry of Communities** (2016–2018)
+  [Input to the *Green State Development Strategy* (Office of the President); *Addressing the Challenges Facing the Government Housing Programme* (with the Central Housing and Planning Authority and Ministry of Finance); municipal tax progression, local government renewable energy policy, economic profiles of Guyana's capital towns, and public financial management tools for municipalities]{.venue}
+:::
+
+## Programmes and partnerships
+
+::: {.pubs}
+- **India Sustainable Growth Hub** (2024–)
+  [Joint initiative of the IGC and the Indian Statistical Institute, Delhi, on low-carbon growth in India]{.venue}
+  [[Hub](https://www.theigc.org/countries/india/india-sustainable-growth-hub)]{.links}
+
+- **Transformative Economic Policy Programme, Bangladesh** (2020–2021)
+  [Thematic lead for cities research. FCDO. Scoping paper on green growth and research strategy on sustainable urbanisation]{.venue}
+  [[Programme](https://www.theigc.org/funding/bangladesh-tepp) [Research strategy](https://www.theigc.org/sites/default/files/2021/10/bangladesh-tepp-research-strategy-october2021.pdf)]{.links}
+
+- **Enhancing the Financial Position of Cities** (2019–2021)
+  [Focal point, phases 2 and 3, ten cities. European Commission with UN-Habitat. Policy engagement at the European Parliament in Brussels and a cities and experts workshop in Dakar]{.venue}
+  [[Collection](https://www.theigc.org/collections/enhancing-financial-position-cities)]{.links}
+
+- **Global Future Cities Programme** (2018–2021)
+  [Focal point for the academic partnership across 19 cities, providing financial and legal analysis of interventions. FCDO with UN-Habitat]{.venue}
+  [[Programme](https://www.globalfuturecities.org) [Launch](https://unhabitat.org/un-habitat-promotes-urban-prosperity-in-global-future-cities-programme)]{.links}
+:::
