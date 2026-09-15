@@ -287,6 +287,13 @@ h3 {
     font-family: $ui;
     font-size: 0.8rem;
     color: $ink-soft;
+
+    a {
+      color: inherit;
+      text-decoration-color: rgba(89, 100, 107, 0.4);
+    }
+
+    a:hover { color: $accent; }
   }
 
   > p:last-child {
@@ -330,6 +337,14 @@ h3 {
 
   .venue { font-style: normal; }
 
+  // Linked co-author names stay quiet: the text colour, with a faint underline
+  .authors a {
+    color: inherit;
+    text-decoration-color: rgba(89, 100, 107, 0.4);
+  }
+
+  .authors a:hover { color: $accent; }
+
   .desc {
     display: block;
     text-indent: 0;
@@ -346,6 +361,19 @@ h3 {
   }
 
   .links a { margin-right: 0.85rem; }
+
+  // Press, podcasts, videos and blog posts about a paper
+  .media {
+    display: block;
+    text-indent: 0;
+    font-family: $ui;
+    font-size: 0.8rem;
+    color: $ink-soft;
+    margin-top: 0.3rem;
+
+    strong { font-weight: 500; margin-right: 0.35rem; }
+    a { margin-right: 0.85rem; }
+  }
 
   // One line per edition of a recurring conference
   .edition {

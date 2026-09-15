@@ -30,7 +30,7 @@ and text-as-data.
   [**2025 cohort:** rated 4.8/5 as lecturer and 4.6/5 for the module; 98% rated it very valuable.]{.edition}
   [[Student feedback](#feedback-ase)]{.links}
 
-- **The Economics of Cities** (2024–2026)
+- **The Economics of Cities (GY210)** (2024–2026)
   [Guest teacher. BSc second and third year, Department of Geography and Environment, LSE. Convened by Prof. Henry Overman]{.venue}
   [Class Teacher Award, selected by the Head of Department (2026). Nominated for Outstanding Teacher of the Year by the LSE Students' Union (2025). Rated 4.9/5 (2026) and 4.6/5 (2025).]{.desc}
   [[Student feedback](#feedback-lse)]{.links}
@@ -93,7 +93,7 @@ Feedback on the module as a whole, which is taught by a team of lecturers.
 
 </details>
 
-### The Economics of Cities, LSE {#feedback-lse}
+### The Economics of Cities (GY210), LSE {#feedback-lse}
 
 ::: {.quote-lead .coral}
 "Oliver demonstrates exceptional dedication to his students, going above and beyond to ensure comprehensive understanding for every learner, including adapting to individual circumstances and learning differences. Described as 'the best' by students, his passionate delivery, particularly clear explanations of difficult concepts, and willingness to take on feedback and adapt his teaching approach exemplifies inspiring practice in education."

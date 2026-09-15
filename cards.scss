@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+// Floating cards: white boxes on a pale cool-grey page, in the spirit of
+// ondineberland.com. Listed after styles.scss in _quarto.yml, so it can be
+// switched off by removing it from the theme list.
+
+$canvas:      #f3f5f8;
+$card:        #ffffff;
+$card-line:   #e3e7ec;
+$card-shadow: 0 1px 2px rgba(22, 35, 43, 0.04), 0 6px 18px rgba(22, 35, 43, 0.06);
+$card-lift:   0 2px 4px rgba(22, 35, 43, 0.05), 0 12px 28px rgba(22, 35, 43, 0.09);
+
+@mixin floating-card {
+  background: $card;
+  border: 1px solid $card-line;
+  border-radius: 12px;
+  box-shadow: $card-shadow;
+}
+
+body,
+.nav-footer { background-color: $canvas; }
+
+.navbar { background-color: $card !important; }
+
+// Every publication, course and programme entry becomes its own card
+.pubs li {
+  @include floating-card;
+  padding: 1.05rem 1.3rem 1.1rem 2.7rem;
+  text-indent: -1.4rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: $card-lift;
+    transform: translateY(-1px);
+  }
+}
+
+// Dated lists, updates, work in progress and quotes sit in one card each
+.talks > ul,
+.updates > ul,
+.wip,
+.quote-lead {
+  @include floating-card;
+  padding: 1.1rem 1.3rem;
+}
+
+.updates { border-top: 0; }
+.wip > p:first-child .label { margin-top: 0; }
+
+// Keep each quote's colour bar, which the card border would otherwise replace
+.quote-lead { border-left: 4px solid #f2a93b; }
+.quote-lead.coral { border-left-color: #e4572e; }
+.quote-lead.sea { border-left-color: #2a9d8f; }
+.quote-lead.cobalt { border-left-color: #2f5da8; }
+
+// The featured paper is the loudest card
+.featured {
+  @include floating-card;
+  border-left: 4px solid #1b6b5f;
+  box-shadow: $card-lift;
+  padding: 1.4rem 1.6rem;
+}
+
+// The portrait gets a white frame, like a print pinned over the artwork
+.hero-portrait .hero-photo {
+  border: 5px solid $card;
+  border-radius: 10px;
+  box-shadow: $card-lift;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pubs li:hover { transform: none; }
+}

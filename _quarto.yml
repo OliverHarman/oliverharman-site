@@ -48,7 +48,7 @@ website:
 
   page-footer:
     left: "Oliver Harman &middot; o.harman@lse.ac.uk"
-    right: "Built with [Quarto](https://quarto.org)"
+    right: "[LSE profile](https://www.lse.ac.uk/people/oliver-harman) &middot; [Africa Urban Lab](https://www.asezanzibar.com/africa-urban-lab)"
 
 format:
   html:

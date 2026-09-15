@@ -35,7 +35,7 @@ Drafts not linked below are available on request.
   [Extends the Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. Constitutional and statutory instruments are coded in sequence with model assistance and validated against independent human coding.]{.desc}
 
 - **Green Foreign Direct Investment in Africa**
-  [Alvarez-Vilanova, J., Crescenzi, R., Harman, O., and Lippitsch, C.]{.authors}
+  [[Alvarez-Vilanova, J.](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), Harman, O., and [Lippitsch, C.](https://sites.google.com/view/christianlippitsch)]{.authors}
   [In preparation]{.venue}
   [The first systematic, taxonomy-based assessment of green FDI in Africa, classifying 9,935 greenfield projects (2013–2025) against the EU and Rwandan green taxonomies with large language models. More than one in six dollars of inward FDI is green, and three-fifths of that lies outside renewable energy and waste.]{.desc}
 
@@ -59,7 +59,7 @@ Drafts not linked below are available on request.
   </details>
 
 - **Degree of Urbanisation in Ethiopia**
-  [Franklin, S., Harman, O., Kakoulaki, G., Molla, K., and Read, M.]{.authors}
+  [[Franklin, S.](https://www.simonfranklin.co/), Harman, O., Kakoulaki, G., Molla, K., and Read, M.]{.authors}
   [In preparation]{.venue}
   [Ethiopia has not held a census since 2007, and central and regional estimates of its number of urban centres differ by a factor of nearly three. A replicable delineation built on the Global Human Settlement Layer reconciles the two counts and shows that Ethiopian urbanisation has been overwhelmingly extensive: urban built-up cover grew nearly four times faster than population.]{.desc}
 
@@ -77,10 +77,11 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Unequal Progress and Barriers for Women in Economics**
-  [Berland, O., Harman, O., and Moreau-Kastler, N. (2026)]{.authors}
+  [[Berland, O.](https://www.ondineberland.com/), Harman, O., and [Moreau-Kastler, N.](https://ninonmoreaukastler.com/) (2026)]{.authors}
   [*Reviews of Economic Literature*, 1. Open access. [doi:10.21627/aekcyv04](https://doi.org/10.21627/aekcyv04). Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
   [Reviews the literature on gender inequality in economics. Women now make up 26% of published economists but only 5% of those in the top percentile of research influence, where recent progress has, paradoxically, been concentrated.]{.desc}
   [[Article](https://doi.org/10.21627/aekcyv04) [Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4879332) [IGC version](https://www.theigc.org/publications/pipelines-or-pyramids-review-barriers-women-economics)]{.links}
+  [**Media and commentary:** [Barriers for women in economics (IGC blog)](https://www.theigc.org/blog/barriers-for-women-in-economics-a-review-of-recent-findings/)]{.media}
 
   <details class="abstract">
   <summary>Abstract</summary>
@@ -94,30 +95,32 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
-  [Crescenzi, R., and Harman, O. (2023)]{.authors}
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023)]{.authors}
   [Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
-  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [LSE Research for the World](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains)]{.links}
+  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/)]{.links}
+  [**Media and commentary:** [LSE Research for the World feature](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [What are global value chains? (LSE Research video)](https://www.youtube.com/watch?v=_sY8nbtDTTY) [Ideas Untrapped (podcast)](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)]{.media}
 
 - **Green Global Value Chains for Sustainable Regional Development**
-  [Crescenzi, R., and Harman, O.]{.authors}
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O.]{.authors}
   [Cambridge Elements, Cambridge University Press. In press]{.venue}
   [[Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
+  [**Media and commentary:** [RSA Summer Conference opening plenary (video)](https://www.youtube.com/watch?v=sNRER6fGE9c) [Sustainability in a fragmented world (RSA video)](https://www.youtube.com/watch?v=Vlg8Ty7w7tQ) [LSE iQ podcast](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero) [What Port Talbot teaches us (LSE Business Review)](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)]{.media}
 :::
 
 ### Book chapters
 
 ::: {.pubs}
 - **Local and Regional Development**
-  [Crescenzi, R., and Harman, O. (2026)]{.authors}
-  [In De Marchi, V., Rabellotti, R., and Van Assche, A. (eds), *Encyclopedia of Global Value Chains*, Edward Elgar]{.venue}
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2026)]{.authors}
+  [In [De Marchi, V.](https://www.esade.edu/faculty/valentina.demarchi), Rabellotti, R., and Van Assche, A. (eds), *Encyclopedia of Global Value Chains*, Edward Elgar]{.venue}
 
 - **From Local Regions in the EU to Those in Ukraine (and Back Again): How FDI and Global Value Chains Tie Our Local Economies Together**
-  [Crescenzi, R., and Harman, O. (2023)]{.authors}
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023)]{.authors}
   [Chapter 24 in Gorodnichenko, Y., and Rashkovan, V. (eds), *Supporting Ukraine: More Critical Than Ever*, CEPR Press]{.venue}
   [[Chapter](https://cepr.org/system/files/publication-files/182384-supporting_ukraine_more_critical_than_ever.pdf#page=118)]{.links}
 
 - **A Policy Framework for Infrastructure Development and Global Value Chains**
-  [Crescenzi, R., and Harman, O. (2021)]{.authors}
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2021)]{.authors}
   [Chapter 6 in *Asian Infrastructure Finance 2021: Sustaining Global Value Chains*, Asian Infrastructure Investment Bank]{.venue}
   [[Chapter](https://www.aiib.org/en/news-events/asian-infrastructure-finance/_common/pdf/AIIB-Asian-Infrastructure-Finance-2021.pdf#page=74)]{.links}
 :::
@@ -126,7 +129,7 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Power and Place: Decentralisation, Urbanisation and Local Economic Development in Africa**
-  [DPhil in Sustainable Urban Development, University of Oxford, in progress. Supervised by Vlad Mykhnenko]{.venue}
+  [DPhil in Sustainable Urban Development, University of Oxford, in progress. Supervised by [Vlad Mykhnenko](https://lifelong-learning.ox.ac.uk/profiles/vlad-mykhnenko)]{.venue}
   [The thesis asks where power sits in African urban government, and what follows from that placement. The first three results chapters measure it through a framework of capacity, authority and means (CAM): how citizens rate their governments, what the law grants them, and the fiscal resources behind both. The last two ask what follows for local public goods, and for the new cities Uganda created in 2020.]{.desc}
 :::
 
@@ -166,9 +169,9 @@ Drafts not linked below are available on request.
 ## Grants
 
 ::: {.talks}
-- [2025]{.date} **Green Foreign Direct Investment in Africa**, with J. Alvarez-Vilanova, R. Crescenzi and C. Lippitsch [£15k+]{.amount}
-- [2025]{.date} **Authority in African Cities**, International Growth Centre. Co-investigator, with V. Mykhnenko (PI) [£10k+]{.amount}
-- [2025]{.date} **Regional Studies Association Research Network on Green(ing) Global Value Chains for Sustainable Regional Development**, with V. De Marchi, R. Crescenzi and C. Hulke [£10k+]{.amount}
+- [2025]{.date} **Green Foreign Direct Investment in Africa**, with [J. Alvarez-Vilanova](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Lippitsch](https://sites.google.com/view/christianlippitsch) [£15k+]{.amount}
+- [2025]{.date} **Authority in African Cities**, International Growth Centre. Co-investigator, with [V. Mykhnenko](https://lifelong-learning.ox.ac.uk/profiles/vlad-mykhnenko) (PI) [£10k+]{.amount}
+- [2025]{.date} **Regional Studies Association Research Network on Green(ing) Global Value Chains for Sustainable Regional Development**, with [V. De Marchi](https://www.esade.edu/faculty/valentina.demarchi), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Hulke](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/carolin-hulke) [£10k+]{.amount}
 - [2024]{.date} **Urban Expansion and Drivers of Emissions in Cities**, with S. Barzin and C. Riom [£15k+]{.amount}
 - [2023]{.date} **Spatial Vulnerabilities in Punjab**, with G. Bryan, H. Shaikh and N. Tsivanidis [£15k+]{.amount}
 - [2021]{.date} **COVID-19 Economic Evidence Grant**, UKRI. Co-thematic lead, cities research [Programme £1m+]{.amount}
@@ -201,7 +204,7 @@ Drafts not linked below are available on request.
   [**6th** (2019, with the Inter-American Development Bank): three days on research, policy and city application [IGC](https://www.theigc.org/events/6th-urbanization-and-poverty-reduction-research-conference) [World Bank](http://worldbank.org/en/events/2019/05/02/6th-urbanization-and-poverty-reduction-research-conference) [Opening session](https://live.worldbank.org/6th-urbanization-and-poverty-reduction-conference)]{.edition}
 
 - **Regional Studies Association Research Network on Green Global Value Chains for Sustainable Regional Development** (2025–)
-  [With V. De Marchi, R. Crescenzi and C. Hulke]{.venue}
+  [With [V. De Marchi](https://www.esade.edu/faculty/valentina.demarchi), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Hulke](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/carolin-hulke)]{.venue}
   [[Network](https://www.regionalstudies.org/network/ggvc4srd/)]{.links}
 
 - **Special session co-organiser**
