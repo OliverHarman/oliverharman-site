@@ -10,8 +10,8 @@ toc: false
   <div class="hero-text">
     <p class="hero-name" aria-hidden="true">Oliver Harman</p>
     <p class="lede">I study how power and connection shape economic development:
-    where authority sits inside developing countries, and how places connect to
-    the global economy.</p>
+    how power is distributed within developing countries, and how places connect
+    to the global economy.</p>
   </div>
   <div class="hero-portrait">
     <img class="hero-art" src="assets/art.svg" alt="">
@@ -29,7 +29,8 @@ Study of African Economies and a Research Affiliate of the Blavatnik School of
 Government.
 
 [**Fields:** urban and regional economics; political economy of development;
-economic geography. **Regions:** sub-Saharan Africa and South Asia.]{.fields}
+global value chains and foreign direct investment. **Regions:** sub-Saharan
+Africa and South Asia.]{.fields}
 
 ::: {.featured}
 [Featured paper]{.label}
@@ -44,12 +45,15 @@ comparing the ten against cities that were declared but never commenced.
 [More on my research](research.qmd#featured-paper) &nbsp; Draft available on request
 :::
 
-On power, my thesis, *Power and Place*, asks where authority sits in African
-urban government and what follows from that placement. I measure it through a
-framework of capacity, authority and means, drawing on two decades of
-Afrobarometer surveys, a model-assisted coding of metropolitan legislation
-since the early 1990s, and IMF fiscal data, and then trace what it does to
-local public goods and to Uganda's new cities. On connection, I ask how foreign
+On power, my thesis, *Power and Place*, asks how power is distributed within
+African states and what follows for local economic development. I treat the
+power of urban governments as three things that need not move together:
+capacity, how well they perform in the eyes of their citizens; authority, what
+the law formally grants them; and means, the fiscal resources behind both. I
+measure each, drawing on two decades of Afrobarometer surveys, a model-assisted
+coding of metropolitan legislation since the early 1990s, and IMF fiscal data,
+and then trace what they do for local public goods and for Uganda's new cities,
+where status and resources changed but formal authority did not. On connection, I ask how foreign
 investment and global value chains land in particular regions, and whether
 those regions capture anything durable from them as the economy turns green.
 

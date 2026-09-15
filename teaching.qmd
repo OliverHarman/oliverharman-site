@@ -10,8 +10,9 @@ Students' Union for Outstanding Teacher of the Year the year before.
 
 ## Teaching interests
 
-Urban and regional economics; economic geography; the political economy of
-development and of local government; and applied quantitative methods for
+Urban and regional economics; global value chains and foreign direct
+investment; economic geography; the political economy of development and of
+local government; and applied quantitative methods for
 development, including causal inference with administrative and spatial data
 and text-as-data.
 
@@ -24,24 +25,118 @@ decentralisation or global value chains.
 - **The Economics of Cities** (2024–2026)
   [Guest teacher. BSc second and third year, Department of Geography and Environment, LSE. Convened by Prof. Henry Overman]{.venue}
   [Class Teacher Award, selected by the Head of Department (2026). Nominated for Outstanding Teacher of the Year by the LSE Students' Union (2025). Rated 4.9/5 (2026) and 4.6/5 (2025).]{.desc}
+  [[Student feedback](#feedback-lse)]{.links}
 
 - **BREAD-IGC Virtual PhD Course on Urban Economics** (2024)
   [Co-convener and co-host, with faculty lead Prof. Edward Glaeser]{.venue}
   [A nine-week certified course for PhD students. 1,436 students from 91 countries took part; 99% were satisfied, and 78% said the course affected their research trajectory.]{.desc}
-  [[Reading lists and lectures](https://www.theigc.org/events/bread-igc-virtual-phd-course-urban-economics)]{.links}
+  [[Reading lists and lectures](https://www.theigc.org/events/bread-igc-virtual-phd-course-urban-economics) [Student feedback](#feedback-bread)]{.links}
 
-- **Urban Economics** (2025–2026)
+- **Urban Economics** (2024–2026)
   [Lecturer and module co-creator. Professional Diploma, Africa Urban Lab, African School of Economics, Zanzibar]{.venue}
-  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background. Rated 4.8/5 as lecturer and 4.6/5 for the module (2025); 98% of students rated it very valuable.]{.desc}
+  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background. Rated 4.8/5 as lecturer and 4.6/5 for the module in 2025, with 98% rating it very valuable; 4.3/5 as lecturer in 2024, with 92% rating it very valuable.]{.desc}
+  [[Student feedback](#feedback-ase)]{.links}
 
 - **Using Economics in Government** (2023–2025)
   [Seminar leader. BSc third year, School of Politics and Economics, King's College London. Convened by Dr Maia King]{.venue}
   [Cohorts of 34, 44 and 46 students, with responsibility for marking. Rated 4.2/5 (2023), 4.8/5 (2024) and 4.7/5 (2025).]{.desc}
+  [[Student feedback](#feedback-kcl)]{.links}
 
 - **Winter School on Urban and Regional Economics in Africa** (2025)
   [Organising committee. University of Cape Town, with ERSA, the IGC and the World Bank]{.venue}
   [[Reading list and lectures](https://www.theigc.org/events/winter-school-urban-and-regional-economics-africa)]{.links}
 :::
+
+## What students say {#feedback}
+
+### The Economics of Cities, LSE {#feedback-lse}
+
+::: {.quote-lead .coral}
+"Oliver demonstrates exceptional dedication to his students, going above and beyond to ensure comprehensive understanding for every learner, including adapting to individual circumstances and learning differences. Described as 'the best' by students, his passionate delivery, particularly clear explanations of difficult concepts, and willingness to take on feedback and adapt his teaching approach exemplifies inspiring practice in education."
+[Head of Department]{.who}
+:::
+
+<details class="more">
+<summary>More from students</summary>
+
+- "Always upbeat and honest, reflective and adapts class format to student feedback - really have enjoyed class with Oliver!"
+- "Oliver was incredibly dedicated as a teacher and went above and beyond in ensuring comprehensive understanding for each student including working around any learning / circumstance differences [...]"
+- "I really appreciated your teaching style -- it was obvious you're knowledgeable and passionate about the subject and you've prepared me well for the exam."
+- "You were a phenomenal teacher who explained all the concepts very well and created a comfortable learning environment. Of all my classes this was the best taught and the one I felt most welcome in...."
+- "Very engaging and good at explaining problem sets"
+- "Articulates himself very well and makes difficult concepts seems simple."
+- "clear teaching, related concepts to real world applications"
+- "extremely helpful"
+- "teaching style is effective."
+- "passionate and dedicated to his lessons"
+- "very engaging and good at explaining difficult concepts"
+- "Amazing teacher".
+
+</details>
+
+### BREAD-IGC Virtual PhD Course on Urban Economics {#feedback-bread}
+
+::: {.quote-lead .sea}
+"the lectures were insightful, and the discussions truly expanded my understanding of urban economic dynamics"
+[Course participant]{.who}
+:::
+
+### Urban Economics, Africa Urban Lab {#feedback-ase}
+
+Feedback on the module as a whole, which is taught by a team of lecturers.
+
+::: {.quote-lead .marigold}
+"your teachings truly sparked my passion for urban economics. It completely reshaped my perspective and is the main reason I have decided to pursue this specific route for my doctoral research."
+[Town Planner, South Africa]{.who}
+:::
+
+<details class="more">
+<summary>More from the 2025 cohort</summary>
+
+- "An unforgettable learning moment." [Urban Advisor to the Prime Minister, Senegal]{.who}
+- "Based on the quality and relevance of the content, this is a masterpiece […] We have learned things that we never covered even at the master's level. […] The facilitators are passionate about what they do and genuinely want to see us grow." [Researcher, Uganda]{.who}
+- "The past couple of weeks have been nothing short of incredible!" [Policy Analyst, Kenya]{.who}
+- "We also covered Urban Economics, the dismal science, my experience was anything but." [Urban Developer, Kenya]{.who}
+- "I want to thank you once again for the life-time impact you guys have made on my life as an urban planner." [Urban Planner, Ghana]{.who}
+- "What strikes me in hindsight is how transferable this experience is to the field." [Urban Planner, Togo]{.who}
+- "one of the most meaningful experiences of my life" [Economic Development Analyst, Nigeria]{.who}
+- "Literally the best instructors that I have ever come across."
+- "This is the most interesting urban economics class I've attended so far"
+- "I actually never knew that I'd understand urban economics in 2 weeks"
+- "I would say you selected the right set of teachers, rich with content, yet approachable!"
+- "I found it more than working a years of degree."
+- "I had the privilege of learning under some of the world's best lecturers whose impact will be felt for years to come."
+- "hands-down one of the most worthwhile investments you can make in your career in urban development."
+
+</details>
+
+<details class="more">
+<summary>More from the 2024 cohort</summary>
+
+- "The course has deeply enlightened not only my understandings in urban economics, but it made me fully aware of the fragmented economies in Africa's growing cities" [Mayor, Degahbour City Administration, Ethiopia]{.who}
+- "Studying urban economics through an international lens has taught me the importance of context specific policies while highlighting universal principles like supply and demand, equity, innovation, and stakeholder collaboration." [Chief Planner, Ministry of Local Government and Rural Development, Zambia]{.who}
+- "By studying different city models and fiscal strategies, I've gained valuable insights into designing urban policies that are both context-specific and globally informed." [Assistant Director, State Department of Housing and Urban Development, Kenya]{.who}
+- "I want to thank all three instructors for their unwavering attention and commitment to teaching us urban economics"
+- "They are super brilliant in providing real world applications"
+- "Understanding how policies are made and the evaluation process behind it... has taught me to be more critical of the policies that will be brought up in my country"
+
+</details>
+
+### Using Economics in Government, King's College London {#feedback-kcl}
+
+::: {.quote-lead .cobalt}
+"Maia's and your course and teaching provided me with the best learning experience at King's so far."
+[Student]{.who}
+:::
+
+<details class="more">
+<summary>More from students</summary>
+
+- "I was deeply inspired by your expertise and genuinely appreciated the way you conducted your course, which greatly enriched my academic experience."
+- "I don't think I've ever had such detailed feedback"
+- "I felt comfortable talking to Oliver as not only is he very clear in his points but [...] very personable, happy and open to help"
+
+</details>
 
 ## Guest lectures
 

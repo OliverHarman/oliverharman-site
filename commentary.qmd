@@ -142,8 +142,26 @@ IGC blog.
 - **[Should we still care about net zero?](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero)**
   [LSE iQ podcast, with Anna Valero, Akshat Rathi and Riccardo Crescenzi]{.venue}
 
+- **[Sustainability in a fragmented world: Rethinking regional development through green global value chains](https://www.youtube.com/watch?v=Vlg8Ty7w7tQ)**
+  [Regional Studies Association]{.venue}
+
+- **[What are global value chains and why they matter for economic and regional development](https://www.youtube.com/watch?v=_sY8nbtDTTY)**
+  [LSE Research]{.venue}
+
+- **[Global value chains](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)**
+  [Ideas Untrapped]{.venue}
+
+- **[Resilient Ethiopia: Resilient cities](https://www.youtube.com/watch?v=X0LCDXsA8qc)**
+  [International Growth Centre. Chair, Technical Session II]{.venue}
+
+- **[Green global value chains for sustainable regional development](https://www.youtube.com/watch?v=sNRER6fGE9c)**
+  [Opening plenary, Regional Studies Association Summer Conference 2023]{.venue}
+
 - **[Global value chains for regional development](https://www.youtube.com/watch?v=fIFIfQ4JgoQ)**
   [Book launch, LSE, with Riccardo Crescenzi]{.venue}
+
+- **[Why cities matter for growth](https://www.youtube.com/watch?v=WoMAZQbBqDU)**
+  [International Growth Centre]{.venue}
 
 - **Green global value chains for sustainable development**
   [Econ Films]{.venue}

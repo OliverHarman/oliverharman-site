@@ -4,16 +4,15 @@ description: "Working papers, publications and data on decentralisation, urbanis
 ---
 
 My research is about how power and connection shape economic development. On
-power, I measure where authority and public money sit inside developing
-countries, through decentralisation and the provision of local public goods
-across African cities. On connection, I ask how foreign investment and global
-value chains land in particular regions, and whether the green transition
-changes who captures the value.
+power, I measure the capacity, authority and means of urban governments in
+Africa, and what they do for local public goods. On connection, I ask how
+foreign investment and global value chains land in particular regions, and
+whether the green transition changes who captures the value.
 
 [**Primary fields:** urban and regional economics; political economy of
-development; economic geography. **Secondary:** fiscal decentralisation and
-local public finance; global value chains and foreign direct investment;
-computational measurement of institutions.]{.fields}
+development; global value chains and foreign direct investment.
+**Secondary:** fiscal decentralisation and local public finance; economic
+geography; computational measurement of institutions.]{.fields}
 
 Drafts not linked below are available on request.
 
@@ -38,15 +37,38 @@ Drafts not linked below are available on request.
 - **Green Foreign Direct Investment in Africa**
   [Alvarez-Vilanova, J., Crescenzi, R., Harman, O., and Lippitsch, C.]{.authors}
   [In preparation]{.venue}
-  [Asks whether green investment in Africa builds industrial capability in the places that host it, or moves the value elsewhere.]{.desc}
+  [The first systematic, taxonomy-based assessment of green FDI in Africa, classifying 9,935 greenfield projects (2013–2025) against the EU and Rwandan green taxonomies with large language models. More than one in six dollars of inward FDI is green, and three-fifths of that lies outside renewable energy and waste.]{.desc}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Green foreign direct investment (GFDI) is increasingly recognised as a lever for sustainable development, yet its scale and scope across African economies remain poorly understood. Existing statistics rely on broad sectoral classifications that label renewable energy and waste as ‘green’ while overlooking greening dynamics across all other sectors. We address this gap by providing the first systematic, taxonomy-based assessment of GFDI in Africa. Combining project-level data on 9,935 greenfield investments (2013–2025) with the green taxonomies of the EU and Rwanda, and leveraging Large Language Models for activity-level classification, we distinguish between green FDI in renewable energy and waste, green FDI beyond energy, and non-green FDI. We embed these flows within a green global value chain framework that positions GFDI as a channel for upgrading. Three findings emerge. First, more than one in six dollars of inward FDI into Africa is classifiable as green, with three-fifths occurring outside renewable energy and waste. Second, beyond-energy GFDI concentrates in knowledge-intensive manufacturing, suggesting that upgrading beyond the energy sector is linked to industrial capability. Third, renewable energy and beyond-energy GFDI follow distinct spatial footprints with different policy implications. A comparative analysis of EU, Rwandan, and South African taxonomies reveals that taxonomy design directly shapes which investments governance systems can see, incentivise, and track.
+
+  </details>
 
 - **Transforming SME Integration into Global Value Chains**
-  [Harman, O., Shukla, R., and Nasir, R.]{.authors}
+  [Harman, O., and Shukla, R.]{.authors}
   [In preparation]{.venue}
+  [Programmes that connect small firms to multinational buyers are usually judged by how many come to trade with the buyer. Using a decade of records from TRANSFORM, a partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY, we find that an integration count reflects the buyer's purchasing decisions as much as the programme's work.]{.desc}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Programmes that connect small firms to multinational buyers are usually judged by the number that come to trade with the buyer. We ask what that number measures, using the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY in the form of a corporate accelerator. We use a regression across 90 enterprises, configurational analyses coded from the enterprises' own applications, and nineteen interviews with founders and with Unilever and programme staff. Sixteen per cent of enterprises ever integrated, and half of those relationships had lapsed by March 2026. What an enterprise brings to the programme predicts integration; what happens during it does not. In the programme team's retrospective record none of 24 enterprises without a Unilever relationship at entry integrated, against 14 of 66 with one; on the enterprises' own applications the gate is weaker; past it, no combination of what the enterprise itself brings, as recorded at entry, is sufficient. Enterprises referred by a Unilever local market team integrate at four times the rate of any other route; those funded under the environmental pillars no more often than those under the social ones. Staff interviews locate the reason on the buyer's side of the transaction: a contract needs several Unilever functions with unrelated objectives to agree at once, and an impact credential counts with the teams that fund pilots, not those that sign contracts. Enterprises that never integrated report capability, credibility and access to other buyers as often as those that did. An integration count therefore reflects the buyer's purchasing decisions as much as the programme's work; such programmes should also be judged on what their participants keep.
+
+  </details>
 
 - **Degree of Urbanisation in Ethiopia**
   [Franklin, S., Harman, O., Kakoulaki, G., Molla, K., and Read, M.]{.authors}
   [In preparation]{.venue}
+  [Ethiopia has not held a census since 2007, and central and regional estimates of its number of urban centres differ by a factor of nearly three. A replicable delineation built on the Global Human Settlement Layer reconciles the two counts and shows that Ethiopian urbanisation has been overwhelmingly extensive: urban built-up cover grew nearly four times faster than population.]{.desc}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Ethiopia has not conducted a population census since 2007, creating a policy gap and leaving policymakers without spatially disaggregated evidence on the country's urban transformation at a moment when consequential decisions about housing, fiscal transfers, and infrastructure investment are being made. Central and regional government estimates of the number of urban centres—approximately 900 and 2,600 respectively—diverge by a factor of nearly three. This study develops a replicable automated delineation pipeline, built entirely on the open access Global Human Settlement Layer at 100&nbsp;m pixel resolution, to identify, count, and track Ethiopian urban areas between 2005 and 2025. The pipeline applies a “grow and clip” procedure—population-dense cores are expanded using population-scaled buffers and clipped to observed built-up cover—producing 2,643 urban polygons in 2025, of which 997 have estimated populations above 5,000. We show that the 900-versus-2,600 discrepancy corresponds to different population thresholds applied to the same underlying settlement structure: both counts are recoverable from a single delineation output. The more consequential finding concerns the *character* of urbanisation. Built-up cover within delineated urban areas grew by 366 percent over two decades, nearly four times faster than estimated population growth, while core densities declined by 35 to 50 percent across most city size classes. Ethiopian urbanisation has been overwhelmingly extensive—driven by horizontal expansion rather than densification—with Addis Ababa as the principal exception. This pattern varies sharply by region: SNNP and Sidama experienced growth in city built cover exceeding 1,900 and 3,000 percent respectively from low bases, while Tigray's urban system grew by 85 percent, reflecting the disruption of conflict. By foregrounding directly observed physical measures—built cover and built volume—over population estimates derived from outdated demographic projections, the methodology remains informative where census data are severely outdated. The pipeline is fully parameterised and designed for replication in other data-scarce environments.
+
+  </details>
 :::
 
 ## Publications
