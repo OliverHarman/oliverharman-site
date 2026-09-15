@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - assets/
+    - cv/*.pdf
 
 website:
   title: "Oliver Harman"
@@ -28,6 +29,12 @@ website:
         text: Policy research
       - href: commentary.qmd
         text: Commentary
+      - text: CV
+        menu:
+          - text: Abridged CV (PDF)
+            href: cv/harman-cv-abridged.pdf
+          - text: Full CV (PDF)
+            href: cv/harman-cv-full.pdf
     right:
       - icon: envelope
         href: mailto:o.harman@lse.ac.uk

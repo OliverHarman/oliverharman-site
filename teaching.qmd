@@ -34,7 +34,9 @@ decentralisation or global value chains.
 
 - **Urban Economics** (2024–2026)
   [Lecturer and module co-creator. Professional Diploma, Africa Urban Lab, African School of Economics, Zanzibar]{.venue}
-  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background. Rated 4.8/5 as lecturer and 4.6/5 for the module in 2025, with 98% rating it very valuable; 4.3/5 as lecturer in 2024, with 92% rating it very valuable.]{.desc}
+  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background.]{.desc}
+  [**2024 cohort:** rated 4.3/5 as lecturer; 92% rated the module very valuable.]{.edition}
+  [**2025 cohort:** rated 4.8/5 as lecturer and 4.6/5 for the module; 98% rated it very valuable.]{.edition}
   [[Student feedback](#feedback-ase)]{.links}
 
 - **Using Economics in Government** (2023–2025)

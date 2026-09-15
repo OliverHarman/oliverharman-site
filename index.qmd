@@ -12,6 +12,10 @@ toc: false
     <p class="lede">I study how power and connection shape economic development:
     how power is distributed within developing countries, and how places connect
     to the global economy.</p>
+    <p class="hero-links">
+      <a href="cv/harman-cv-abridged.pdf">Abridged CV</a>
+      <a href="cv/harman-cv-full.pdf">Full CV</a>
+    </p>
   </div>
   <div class="hero-portrait">
     <img class="hero-art" src="assets/art.svg" alt="">

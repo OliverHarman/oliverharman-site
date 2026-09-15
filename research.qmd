@@ -21,7 +21,7 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Status without Power: The Political Economy of Administrative Unit Creation in Uganda**
   [Single-authored]{.authors}
-  [Submitted to the CSAE Conference 2027. Draws on the thesis chapter *Decentralisation and Development: Uganda's New Cities*]{.venue}
+  [Working paper. Draws on the thesis chapter *Decentralisation and Development: Uganda's New Cities*]{.venue}
   [On 1 July 2020 Uganda's ten new cities commenced together, a reform that changed their status and resources without decentralising formal authority. This paper asks which dimensions of local power that change actually moves, and which it leaves untouched. A block difference-in-differences compares the ten against cities declared but never commenced; a third arm of municipalities never declared separates commencement from declaration alone; and a boundary design compares areas inside and outside the pre-reform municipal limits. Outcomes come from a ministry budget panel, local public goods and satellite nightlights.]{.desc}
   [[Request draft](mailto:o.harman@lse.ac.uk?subject=Status%20without%20Power)]{.links}
 :::
@@ -29,7 +29,7 @@ Drafts not linked below are available on request.
 ## Working papers
 
 ::: {.pubs}
-- **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Eight Countries, 1994–2024**
+- **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024**
   [Harman, O., Hayward, J., and Sampó, G.]{.authors}
   [IGC Working Paper, in preparation]{.venue}
   [Extends the Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. Constitutional and statutory instruments are coded in sequence with model assistance and validated against independent human coding.]{.desc}
