@@ -240,6 +240,62 @@ h3 {
   p:last-child { margin-bottom: 0; }
 }
 
+// ---- Home page work in progress --------------------------------------------
+// A compact list under the featured paper, marked with the map's colour blocks.
+
+.wip {
+  margin: 0 0 2.2rem;
+
+  .label {
+    display: block;
+    font-family: $ui;
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: $accent;
+    margin: 1.3rem 0 0.5rem;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  li {
+    position: relative;
+    padding-left: 1.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.45;
+  }
+
+  li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.5em;
+    width: 0.5rem;
+    height: 0.5rem;
+    background: $coral;
+  }
+
+  li:nth-child(4n + 2)::before { background: $marigold; }
+  li:nth-child(4n + 3)::before { background: $sea; }
+  li:nth-child(4n + 4)::before { background: $cobalt; }
+
+  .with {
+    font-family: $ui;
+    font-size: 0.8rem;
+    color: $ink-soft;
+  }
+
+  > p:last-child {
+    font-family: $ui;
+    font-size: 0.82rem;
+    margin: 0.9rem 0 0;
+  }
+}
+
 // ---- Publication list ------------------------------------------------------
 // Hanging indent mirrors how a reader scans a reference list.
 

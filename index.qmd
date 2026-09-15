@@ -49,6 +49,22 @@ comparing the ten against cities that were declared but never commenced.
 [More on my research](research.qmd#featured-paper) &nbsp; Draft available on request
 :::
 
+::: {.wip}
+[In press]{.label}
+
+- *Green Global Value Chains for Sustainable Regional Development*. [With R. Crescenzi. Cambridge Elements, Cambridge University Press]{.with}
+- *Unequal Progress and Barriers for Women in Economics*. [With O. Berland and N. Moreau-Kastler. Reviews of Economic Literature]{.with}
+
+[Work in progress]{.label}
+
+- *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
+- *Green Foreign Direct Investment in Africa*. [With J. Alvarez-Vilanova, R. Crescenzi and C. Lippitsch]{.with}
+- *Transforming SME Integration into Global Value Chains*. [With R. Shukla]{.with}
+- *Degree of Urbanisation in Ethiopia*. [With S. Franklin, G. Kakoulaki, K. Molla and M. Read]{.with}
+
+[All working papers and abstracts](research.qmd#working-papers)
+:::
+
 On power, my thesis, *Power and Place*, asks how power is distributed within
 African states and what follows for local economic development. I treat the
 power of urban governments as three things that need not move together:
