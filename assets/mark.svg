@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+  <!-- Miniature of the abstract map artwork -->
+  <rect x="3" y="4" width="16" height="13" fill="#F2A93B"/>
+  <rect x="24" y="3" width="12" height="18" fill="#2F5DA8"/>
+  <rect x="4" y="26" width="13" height="11" fill="#2A9D8F"/>
+  <line x1="1" y1="22" x2="39" y2="22" stroke="#16232B" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="30" cy="22" r="5" fill="#E4572E"/>
+</svg>

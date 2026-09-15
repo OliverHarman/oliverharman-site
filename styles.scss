@@ -2,12 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 
-$paper:        #fcfcfb;
+$paper:        #ffffff;
 $ink:          #16232b;
 $ink-soft:     #59646b;
-$rule:         #dde1e0;
+$rule:         #e3e6e8;
 $accent:       #1b6b5f;
-$accent-tint:  #edf3f1;
+$accent-tint:  #eef4f2;
+
+// Splash palette, shared with assets/art.svg and assets/mark.svg
+$coral:        #e4572e;
+$marigold:     #f2a93b;
+$cobalt:       #2f5da8;
+$sea:          #2a9d8f;
 
 $body-bg:      $paper;
 $body-color:   $ink;
@@ -49,6 +55,11 @@ main.content {
   letter-spacing: 0.01em;
 }
 
+.navbar .navbar-logo {
+  max-height: 1.6rem;
+  margin-right: 0.15rem;
+}
+
 .navbar .nav-link {
   color: $ink-soft !important;
   padding-inline: 0.75rem !important;
@@ -68,6 +79,84 @@ h1, .title {
   letter-spacing: -0.012em;
   margin-bottom: 1.25rem;
 }
+
+// A short four-colour mark under inner page titles
+h1.title::after {
+  content: "";
+  display: block;
+  width: 4.4rem;
+  height: 0.3rem;
+  margin-top: 0.7rem;
+  border-radius: 0.15rem;
+  background: linear-gradient(90deg,
+    $coral 0 23%, transparent 23% 26%,
+    $marigold 26% 49%, transparent 49% 52%,
+    $sea 52% 74%, transparent 74% 77%,
+    $cobalt 77% 100%);
+}
+
+// ---- Home page hero: name and lede beside the portrait and artwork ---------
+
+// On the home page the hero shows the name, so the standard title stays in
+// the page for screen readers and search engines but is not drawn.
+body.home #title-block-header {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+// The hero is its own stacking context, so the artwork can sit behind both
+// the text and the photo.
+.hero {
+  position: relative;
+  z-index: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 12.5rem;
+  gap: 2.6rem;
+  align-items: center;
+  margin: 3.2rem 0 3.4rem;
+
+  .hero-name {
+    font-size: 2.4rem;
+    font-weight: 600;
+    line-height: 1.15;
+    letter-spacing: -0.012em;
+    margin: 0 0 1rem;
+  }
+
+  .lede { margin-bottom: 0; }
+}
+
+// Artwork is drawn on a 380 x 418 canvas with the photo at x 90-290, so it is
+// 190% of the photo's width and centred on it.
+.hero-portrait {
+  position: relative;
+
+  .hero-art {
+    position: absolute;
+    z-index: -1;
+    left: 50%;
+    top: 50%;
+    width: 190%;
+    max-width: none;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+  }
+
+  .hero-photo {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    border-radius: 3px;
+  }
+}
+
+body { overflow-x: clip; }
 
 h2 {
   font-size: 1.32rem;
@@ -265,6 +354,9 @@ a:focus-visible {
 @media (max-width: 767px) {
   main.content { padding-inline: 1.1rem; }
   h1, .title { font-size: 1.7rem; }
+  .hero { grid-template-columns: 1fr; gap: 3rem; margin-top: 2rem; }
+  .hero .hero-name { font-size: 2rem; }
+  .hero-portrait { order: -1; width: 10.5rem; margin: 1.5rem auto 0; }
   .lede { font-size: 1.2rem; }
   .updates li, .talks li { padding-left: 0; text-indent: 0; }
   .updates .date, .talks .date { display: block; }

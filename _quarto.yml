@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/
 
 website:
   title: "Oliver Harman"
@@ -12,7 +14,8 @@ website:
     card-style: summary_large_image
 
   navbar:
-    logo: ""
+    logo: assets/mark.svg
+    logo-alt: ""
     title: "Oliver Harman"
     left:
       - href: index.qmd

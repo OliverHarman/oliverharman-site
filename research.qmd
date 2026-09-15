@@ -3,12 +3,12 @@ title: "Research"
 description: "Working papers, publications and data on decentralisation, urbanisation and local public goods in Africa, and on global value chains and regional development."
 ---
 
-My research asks where authority and public money sit inside developing
-countries, and what that placement does to economic outcomes. One strand
-measures decentralisation and the provision of local public goods across
-African cities. The other asks how foreign investment and global value chains
-land in particular regions, and whether the green transition changes who
-captures the value.
+My research is about how power and connection shape economic development. On
+power, I measure where authority and public money sit inside developing
+countries, through decentralisation and the provision of local public goods
+across African cities. On connection, I ask how foreign investment and global
+value chains land in particular regions, and whether the green transition
+changes who captures the value.
 
 [**Primary fields:** urban and regional economics; political economy of
 development; economic geography. **Secondary:** fiscal decentralisation and
@@ -22,8 +22,8 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Status without Power: The Political Economy of Administrative Unit Creation in Uganda**
   [Single-authored]{.authors}
-  [Submitted to the CSAE Conference 2027]{.venue}
-  [Uganda has repeatedly carved new administrative units out of old ones, often for political reasons. This paper treats that politically selected, block adoption of new units as a quasi-experiment and uses a staggered difference-in-differences design with spatial structure to measure what the new units actually do once they exist.]{.desc}
+  [Submitted to the CSAE Conference 2027. Draws on the thesis chapter *Decentralisation and Development: Uganda's New Cities*]{.venue}
+  [On 1 July 2020 Uganda's ten new cities commenced together, a reform that changed their status and resources without decentralising formal authority. This paper asks which dimensions of local power that change actually moves, and which it leaves untouched. A block difference-in-differences compares the ten against cities declared but never commenced; a third arm of municipalities never declared separates commencement from declaration alone; and a boundary design compares areas inside and outside the pre-reform municipal limits. Outcomes come from a ministry budget panel, local public goods and satellite nightlights.]{.desc}
   [[Request draft](mailto:o.harman@lse.ac.uk?subject=Status%20without%20Power)]{.links}
 :::
 
@@ -33,7 +33,7 @@ Drafts not linked below are available on request.
 - **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Eight Countries, 1994–2024**
   [Harman, O., Hayward, J., and Sampó, G.]{.authors}
   [IGC Working Paper, in preparation]{.venue}
-  [Extends the Hooghe–Marks Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. National constitutional and statutory instruments are coded with large language models and validated against in-country experts and legislative sources.]{.desc}
+  [Extends the Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. Constitutional and statutory instruments are coded in sequence with model assistance and validated against independent human coding.]{.desc}
 
 - **Green Foreign Direct Investment in Africa**
   [Alvarez-Vilanova, J., Crescenzi, R., Harman, O., and Lippitsch, C.]{.authors}
@@ -71,7 +71,7 @@ Drafts not linked below are available on request.
 
 - **Green Global Value Chains for Sustainable Regional Development**
   [Crescenzi, R., and Harman, O.]{.authors}
-  [Cambridge Elements, Cambridge University Press. Under contract]{.venue}
+  [Cambridge Elements, Cambridge University Press. In press]{.venue}
   [[Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
 :::
 
@@ -98,17 +98,36 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Power and Place: Decentralisation, Urbanisation and Local Economic Development in Africa**
   [DPhil in Sustainable Urban Development, University of Oxford, in progress. Supervised by Vlad Mykhnenko]{.venue}
-  [Asks how decentralisation is changing across Africa and what follows for local economic development. The thesis builds a framework of capacity, authority and means, applies it to eight countries across three decades, and studies the creation of new administrative units in Uganda as a quasi-experiment.]{.desc}
+  [The thesis asks where power sits in African urban government, and what follows from that placement. The first three results chapters measure it through a framework of capacity, authority and means (CAM): how citizens rate their governments, what the law grants them, and the fiscal resources behind both. The last two ask what follows for local public goods, and for the new cities Uganda created in 2020.]{.desc}
+:::
+
+### Results chapters
+
+::: {.pubs}
+- **Urban Capacity**
+  [How urban government capacity compares with central government capacity across African regions, how that balance has moved since 2002, and whether urban settlement structure conditions it. Capacity is a composite of citizen-reported performance, trust, service delivery and the absence of corruption from Afrobarometer, compared with central government in the same country and survey round so that the question is the balance between tiers rather than the level of either.]{.desc}
+
+- **Metropolitan Authority**
+  [How much formal authority African metropolitan governments hold, how it has changed since the early 1990s, and how it compares globally. Constitutional and statutory instruments are coded against the metropolitan adaptation of the Regional Authority Index, read in sequence with model assistance and validated against independent human coding, with results for Ghana, Kenya, Malawi, Rwanda and Uganda. Case studies examine the gap between what statute grants and what governments exercise.]{.desc}
+
+- **Fiscal Means and CAM Integration**
+  [How large and how autonomous the fiscal footprint of African local government is, using IMF Government Finance Statistics, with revenue read alongside the power to raise it and expenditure alongside discretion over it. The chapter then brings capacity, authority and means together for the first time, at the metropolitan region and survey round.]{.desc}
+
+- **Local Public Goods in Africa**
+  [How local public goods can be measured across African urban areas, how provision is distributed and has changed over two decades, and whether trajectories vary with urbanisation. Four indicators built from enumerator observations, each applying a different theoretical filter, are triangulated and matched to urban population growth in a regional panel.]{.desc}
+
+- **Decentralisation and Development: Uganda's New Cities**
+  [Which dimensions of local power a change in city status and resources moves when formal authority is not decentralised alongside it. Developed as the [featured paper](#featured-paper) above.]{.desc}
 :::
 
 ## Data
 
 ::: {.pubs}
 - **RAI(Metro) Africa**
-  [A Regional Authority Index at the metropolitan tier for eight African countries, 1994–2024, coded from national legislation against the Hooghe–Marks codebook and validated with in-country experts. Open release of the data and coding pipeline in preparation]{.venue}
+  [A Regional Authority Index at the metropolitan tier for African countries since the early 1990s, coded from constitutional and statutory instruments with model assistance and validated against independent human coding. Open release of the data and coding pipeline in preparation]{.venue}
 
 - **CAM Africa Database**
-  [Capacity, authority and means indicators for sub-national governments across eight African countries. Citable deposit in preparation]{.venue}
+  [Capacity, authority and means indicators for African metropolitan regions, combining Afrobarometer, legislative and IMF fiscal data. Citable deposit in preparation]{.venue}
 
 - **Mapping Municipal Finance Reform in Developing Countries**
   [Interactive data visualisation, International Growth Centre]{.venue}
