@@ -27,22 +27,22 @@ in French, Somali, Arabic or Hindi; ask if you need one.
 
 - **Enhancing the Financial Position of Cities: Evidence from Kampala** (2022)
   [With Delbridge, V., Haas, A., and Venables, A.J.]{.authors}
-  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [IGC and UN-Habitat case study. French translation available. [doi:10.35489/bsg-igc-wp_2022/2](https://doi.org/10.35489/bsg-igc-wp_2022/2)]{.venue}
   [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-kampala/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_kampala_french.pdf)]{.links}
 
 - **Enhancing the Financial Position of Cities: Evidence from Dakar** (2022)
   [With Delbridge, V., Dia Sarr, K., Haas, A., and Venables, A.J.]{.authors}
-  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [IGC and UN-Habitat case study. French translation available. [doi:10.35489/bsg-igc-wp_2022/3](https://doi.org/10.35489/bsg-igc-wp_2022/3)]{.venue}
   [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-dakar/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_dakar_french.pdf)]{.links}
 
 - **Enhancing the Financial Position of Cities: Evidence from Hargeisa** (2022)
   [With Delbridge, V., Haas, A., Venables, A.J., and Yusuf, A.]{.authors}
-  [IGC and UN-Habitat case study. French and Somali translations available]{.venue}
+  [IGC and UN-Habitat case study. French and Somali translations available. [doi:10.35489/bsg-igc-wp_2022/4](https://doi.org/10.35489/bsg-igc-wp_2022/4)]{.venue}
   [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-hargeisa/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_hargeisa_french.pdf) [Somali](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_hargeisa_somali.pdf)]{.links}
 
 - **Enhancing the Financial Position of Cities: Evidence from Mzuzu** (2022)
   [With Delbridge, V., Haas, A., Jangia, D., Manwaring, P., and Venables, A.J.]{.authors}
-  [IGC and UN-Habitat case study. French translation available]{.venue}
+  [IGC and UN-Habitat case study. French translation available. [doi:10.35489/bsg-igc-wp_2022/5](https://doi.org/10.35489/bsg-igc-wp_2022/5)]{.venue}
   [[Report](https://www.theigc.org/publication/enhancing-the-financial-position-of-cities-evidence-from-mzuzu/) [French](https://www.theigc.org/wp-content/uploads/2022/04/fsud_report_case_studies_mzuzu_french.pdf)]{.links}
 
 - **Financing Sustainable Urban Development** (2021)
@@ -52,12 +52,12 @@ in French, Somali, Arabic or Hindi; ask if you need one.
 
 - **COVID-19 and Taxes: Policies for the Post-Pandemic Recovery** (2021)
   [With Jensen, A., Naeem, F., Rukh, S., Saab, M., and Wilkinson, N.]{.authors}
-  [IGC Policy Brief. Arabic translation available]{.venue}
+  [IGC Policy Brief. Arabic translation available. [doi:10.35489/bsg-igc-pb_2021/1](https://doi.org/10.35489/bsg-igc-pb_2021/1)]{.venue}
   [[Brief](https://www.theigc.org/publication/covid-19-and-taxes-policies-for-the-post-pandemic-recovery/)]{.links}
 
 - **Urban Property Taxes in Pakistan's Punjab** (2020)
   [With Shaikh, H., and Wani, S.]{.authors}
-  [IGC Policy Brief]{.venue}
+  [IGC Policy Brief. [doi:10.35489/bsg-igc-pb_2020/1](https://doi.org/10.35489/bsg-igc-pb_2020/1)]{.venue}
   [[Brief](https://www.theigc.org/publication/urban-property-taxes-in-pakistans-punjab/)]{.links}
 
 - **Key Considerations for Government Housing Provision in Somaliland** (2020)
@@ -102,12 +102,12 @@ The book and book chapters on this theme are listed under [research](research.qm
 
 - **Sustainable Urbanisation in Developing Countries: Cities as Places to Live** (2022)
   [With Delbridge, V., Oliveira-Cunha, J., and Venables, A.J.]{.authors}
-  [IGC Growth Brief]{.venue}
+  [IGC Growth Brief. [doi:10.35489/bsg-igc-wp_2022/026](https://doi.org/10.35489/bsg-igc-wp_2022/026)]{.venue}
   [[Brief](https://www.theigc.org/reader/sustainable-urbanisation-in-developing-countries-cities-as-places-to-live/)]{.links}
 
 - **Sustainable Urbanisation in Developing Countries: Cities as Places to Innovate, Work and Trade** (2022)
   [With Delbridge, V., Oliveira-Cunha, J., and Venables, A.J.]{.authors}
-  [IGC Growth Brief]{.venue}
+  [IGC Growth Brief. [doi:10.35489/bsg-igc-wp_2022/027](https://doi.org/10.35489/bsg-igc-wp_2022/027)]{.venue}
   [[Brief](https://www.theigc.org/reader/sustainable-urbanisation-in-developing-countries-cities-as-places-to-innovate-trade-and-work/)]{.links}
 
 - **Written Evidence on Climate Change, Development and COP26** (2021)
@@ -163,7 +163,7 @@ reform.
 ## Programmes and partnerships
 
 ::: {.pubs}
-- **India Sustainable Growth Hub** (2024–)
+- **India Sustainable Growth Hub** (2024–2026)
   [Joint initiative of the IGC and the Indian Statistical Institute, Delhi, on low-carbon growth in India]{.venue}
   [[Hub](https://www.theigc.org/countries/india/india-sustainable-growth-hub)]{.links}
 

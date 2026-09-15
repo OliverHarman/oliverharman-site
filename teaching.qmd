@@ -20,15 +20,12 @@ local government; and applied quantitative methods for
 development, including causal inference with administrative and spatial data
 and text-as-data.
 
-I would be glad to supervise PhD and master's students working on cities,
-decentralisation or global value chains.
-
 ## Courses
 
 ::: {.pubs}
 - **Urban Economics** (2024–2026)
   [Lecturer in Urban Economics and module co-creator. Professional Diploma, Africa Urban Lab, African School of Economics, Zanzibar]{.venue}
-  [Two days of the module teach causal quantitative methods to mid-career urban professionals with no economics background.]{.desc}
+  [Teaches the principles of urban economics and their applied usefulness in urban development, to mid-career urban professionals from across Africa.]{.desc}
   [**2024 cohort:** rated 4.3/5 as lecturer; 92% rated the module very valuable.]{.edition}
   [**2025 cohort:** rated 4.8/5 as lecturer and 4.6/5 for the module; 98% rated it very valuable.]{.edition}
   [[Student feedback](#feedback-ase)]{.links}

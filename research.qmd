@@ -78,7 +78,7 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Unequal Progress and Barriers for Women in Economics**
   [Berland, O., Harman, O., and Moreau-Kastler, N. (2026)]{.authors}
-  [*Reviews of Economic Literature*, 1. Open access. Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
+  [*Reviews of Economic Literature*, 1. Open access. [doi:10.21627/aekcyv04](https://doi.org/10.21627/aekcyv04). Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
   [Reviews the literature on gender inequality in economics. Women now make up 26% of published economists but only 5% of those in the top percentile of research influence, where recent progress has, paradoxically, been concentrated.]{.desc}
   [[Article](https://doi.org/10.21627/aekcyv04) [Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4879332) [IGC version](https://www.theigc.org/publications/pipelines-or-pyramids-review-barriers-women-economics)]{.links}
 
@@ -95,7 +95,7 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
   [Crescenzi, R., and Harman, O. (2023)]{.authors}
-  [Regional Studies Policy Impact Book Series, Routledge]{.venue}
+  [Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
   [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [LSE Research for the World](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains)]{.links}
 
 - **Green Global Value Chains for Sustainable Regional Development**
