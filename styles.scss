@@ -263,6 +263,17 @@ h3 {
   }
 
   .links a { margin-right: 0.85rem; }
+
+  // One line per edition of a recurring conference
+  .edition {
+    display: block;
+    text-indent: 0;
+    font-family: $ui;
+    font-size: 0.82rem;
+    margin-top: 0.35rem;
+
+    a { margin-left: 0.6rem; }
+  }
 }
 
 // ---- Collapsible abstracts and feedback ------------------------------------
@@ -312,6 +323,16 @@ details.more {
     padding-left: 0.9rem;
     border-left: 2px solid $rule;
     margin-bottom: 0.7rem;
+  }
+
+  // A dated list inside a fold-out keeps its own layout
+  .talks li {
+    font-family: $ui;
+    font-size: 0.86rem;
+    border-left: 0;
+    padding-left: 6.05rem;
+    text-indent: -6.05rem;
+    margin-bottom: 0.5rem;
   }
 }
 
@@ -433,7 +454,7 @@ a:focus-visible {
   .hero .hero-name { font-size: 2rem; }
   .hero-portrait { order: -1; width: 10.5rem; margin: 1.5rem auto 0; }
   .lede { font-size: 1.2rem; }
-  .updates li, .talks li { padding-left: 0; text-indent: 0; }
+  .updates li, .talks li, details.more .talks li { padding-left: 0; text-indent: 0; }
   .updates .date, .talks .date { display: block; }
 }
 

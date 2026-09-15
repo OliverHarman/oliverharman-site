@@ -1,13 +1,15 @@
 ---
-title: "Policy work"
+title: "Policy research"
 description: "Policy research on municipal finance, global value chains and urban sustainability, written for governments in low-resource settings."
 ---
 
-For a decade I wrote for finance ministries, city treasuries and mayoral teams
-across Africa, Asia and the Caribbean, mostly through the International Growth
-Centre's Cities that Work initiative. That work has 61 externally validated
-instances of uptake by decision-makers, across 27 countries and four
-international organisations, a measure audited by the IGC's government funder.
+For a decade I wrote for and worked alongside finance ministries, city
+treasuries and mayoral teams across Africa, Asia and the Caribbean, mostly
+through the International Growth Centre's Cities that Work initiative, and
+before that as an economist embedded in Guyana's Ministry of Communities. That
+work has 61 externally validated instances of uptake by decision-makers, across
+27 countries and four international organisations, a measure audited by the
+IGC's government funder. The [record is below](#policy-impact).
 
 The work below was written to be used rather than cited. Several pieces exist
 in French, Somali, Arabic or Hindi; ask if you need one.
@@ -147,6 +149,12 @@ The book and book chapters on this theme are listed under [research](research.qm
 
 ## Government of Guyana
 
+Before joining the IGC I was embedded in Guyana's Ministry of Communities,
+working closely with the Minister, Permanent Secretary and Head of Planning.
+Guyana held its first local government elections for 20 years in 2016, and I
+helped build local government capacity, particularly through municipal finance
+reform.
+
 ::: {.pubs}
 - **Economist, then Senior Economist and ODI Fellow, Ministry of Communities** (2016–2018)
   [Input to the *Green State Development Strategy* (Office of the President); *Addressing the Challenges Facing the Government Housing Programme* (with the Central Housing and Planning Authority and Ministry of Finance); municipal tax progression, local government renewable energy policy, economic profiles of Guyana's capital towns, and public financial management tools for municipalities]{.venue}
@@ -164,10 +172,71 @@ The book and book chapters on this theme are listed under [research](research.qm
   [[Programme](https://www.theigc.org/funding/bangladesh-tepp) [Research strategy](https://www.theigc.org/sites/default/files/2021/10/bangladesh-tepp-research-strategy-october2021.pdf)]{.links}
 
 - **Enhancing the Financial Position of Cities** (2019–2021)
-  [Focal point, phases 2 and 3, ten cities. European Commission with UN-Habitat. Policy engagement at the European Parliament in Brussels and a cities and experts workshop in Dakar]{.venue}
-  [[Collection](https://www.theigc.org/collections/enhancing-financial-position-cities)]{.links}
+  [Focal point, phases 2 and 3, ten cities. European Commission with UN-Habitat, with the IGC as academic partner co-creating and co-delivering the programme: a high-level policy session at the European Parliament in Brussels, a cities and experts workshop in Dakar following the European Investment Bank's Africa Day, and the case studies above]{.venue}
+  [[Collection](https://www.theigc.org/collections/enhancing-financial-position-cities) [European Parliament session](https://unhabitat.org/european-parliament-convenes-high-level-policy-session-on-urbanization-and-development) [Dakar workshop](https://www.theigc.org/event/cities-and-experts-meeting-strengthening-the-financing-position-and-investment-in-the-cities-of-developing-countries/)]{.links}
 
 - **Global Future Cities Programme** (2018–2021)
-  [Focal point for the academic partnership across 19 cities, providing financial and legal analysis of interventions. FCDO with UN-Habitat]{.venue}
+  [Focal point for the academic partnership across 19 cities in the strategic development phase: financial and legal analysis of interventions, evidence on thematic areas, and presentations to city stakeholders during charrettes. FCDO with UN-Habitat]{.venue}
   [[Programme](https://www.globalfuturecities.org) [Launch](https://unhabitat.org/un-habitat-promotes-urban-prosperity-in-global-future-cities-programme)]{.links}
 :::
+
+## Policy impact {#policy-impact}
+
+Since joining the IGC's Cities that Work initiative, my work has been taken up
+by the government decision-makers below, with each instance externally
+validated. The engagements vary in breadth and depth, and the list is not
+exhaustive. Policy impact from *Harnessing Global Value Chains for Regional
+Development* is tracked separately on the
+[LSE Global Investments and Local Development blog](https://blogs.lse.ac.uk/gild/books/).
+
+<details class="more">
+<summary>Engagement record, 2018–2025</summary>
+
+- **2025:** Egypt; Ethiopia; Kenya; Liberia; Malawi; Malaysia; Mozambique; Pakistan; South Africa; Zambia; Zanzibar, Tanzania.
+- **2024:** Freetown, Sierra Leone (Mayor); Punjab, Pakistan (Executive Director); Cape Town, South Africa (technical staff); Accra, Ghana (technical staff).
+- **2023:** Addis Ababa, Ethiopia (technical staff); Bangladesh (tax technical staff); Accra, Ghana (technical staff); Ethiopia (Advisor to the Prime Minister).
+- **2022:** Dhaka, Bangladesh (technical staff); Mymensingh, Bangladesh (Mayor and technical staff); Eldoret, Kenya (Mayor); Kampala, Uganda (Deputy Lord Mayor); Dakar, Senegal (Deputy Mayor); Tanzania (Minister of Housing); Yaoundé VII, Cameroon (Mayor); Niger (Minister of Territorial Administration); Mozambique (Minister of State Administration and Public Service); Rwanda (Minister of Local Government); Tanzania (Minister of Lands, Housing and Human Settlements); Arbaoua, Morocco (Mayor); N'Djamena District 4, Chad (Mayor); Mandlakazi, Mozambique (Mayor); Maputo, Mozambique (councillors); Kenya (Minister of Devolution); Trikala, Greece (Mayor); Bucharest District 2, Romania (Mayor).
+- **2021:** Kampala, Uganda (technical staff); Egypt (former Minister of State for Environment Affairs); Nebbi, Uganda (technical staff).
+- **2020:** Monrovia, Liberia (Mayor); Paraguay (former Minister of Habitat); Tengen, Germany (Mayor); Senegal (Minister of Town Planning, Housing and Public Hygiene); Dakar, Senegal (Mayor and technical staff); Kampala, Uganda (Executive Director and technical staff); Hargeisa, Somaliland (Mayor and technical staff); Lilongwe, Malawi (Executive Director and technical staff); Mzuzu, Malawi (technical staff); Freetown, Sierra Leone (Mayor); Punjab, Pakistan (technical staff); Somaliland (Ministry of Public Works, Land and Housing technical staff); Amman, Jordan (technical staff); Cape Town, South Africa (technical staff).
+- **2019:** Kabul, Afghanistan (Acting Mayor); Accra, Ghana (Mayor and technical staff); Kampala, Uganda (Executive Director and technical staff); Hargeisa, Somaliland (Mayor and technical staff).
+- **2018:** Bandung, Indonesia (technical staff); Surabaya, Indonesia (Mayor and technical staff); Abeokuta, Nigeria (technical staff); Lagos, Nigeria (technical staff); New Clark City, Philippines (technical staff); Cape Town, South Africa (technical staff); Johannesburg, South Africa (technical staff); Bangkok, Thailand (technical staff); Ho Chi Minh City, Vietnam (technical staff).
+
+</details>
+
+## Selected policy presentations
+
+::: {.talks}
+- [2024]{.date} *Introducing the Cities Spatial Model*. World Urban Forum, Cairo
+- [2024]{.date} *Resilient cities*, Technical Session II. [Resilient Ethiopia: Sustainable Growth in a Changing Climate](https://www.youtube.com/watch?v=X0LCDXsA8qc), Addis Ababa. Chair
+- [2023]{.date} *Challenges and Potential Measures of Solid Waste Management in Ethiopia*. Presentation to the Addis Ababa City and Federal Governments of Ethiopia
+- [2023]{.date} *Fiscal Decentralisation and Land and Property Tax in Bangladesh*. Resilient and Resurgent Bangladesh, Dhaka
+- [2023]{.date} *Fostering Sustainable and Liveable Cities in Rapidly Urbanising Bangladesh*. Dhaka. Moderator
+- [2022]{.date} *How to Optimise Own-Source Revenues of Local Governments in Developing Countries*. World Urban Forum, Katowice
+- [2022]{.date} *Positioning Developing Cities for a Green Growth Transition*; *Africities Tripartite Dialogue: Ministers, Mayors and Development Partners*. Africities, Kisumu
+- [2022]{.date} *Harnessing Green Global Value Chains for (Local) Development*. Climate Change Summit, Bucharest
+- [2022]{.date} *Climbing up Global Value Chains: Leveraging FDI for Economic Development*. Hinrich Foundation
+:::
+
+<details class="more">
+<summary>Earlier presentations, 2018–2021</summary>
+
+::: {.talks}
+- [2021]{.date} *Urban Solid Waste Management and Super Pollutants in Emerging Cities*. Innovate4Cities, with the IPCC, UN-Habitat and the Global Covenant of Mayors
+- [2021]{.date} *Infrastructure Projects for African Integration into Global Value Chains*. Senior policymakers in ministries of economy, finance and external trade in Côte d'Ivoire, Togo, Madagascar and Senegal
+- [2021]{.date} *[Funding and Financing City Governments](https://www.globalfuturecities.org/thematic-programme/25-february-session-5-project-finance-procurement)*. The 19 cities of the FCDO Global Future Cities Thematic Programme
+- [2021]{.date} *COVID-19 and Taxes: Policies for the Post-Pandemic Recovery*. FCDO Economic Growth and Tax Team Community of Practice, with co-authors
+- [2021]{.date} *Funding Urban Development Projects and Social Projects*. Lagos Urban Development Initiative
+- [2021]{.date} *Global Value Chains and Regional Innovation*. RSA Policy Expo, Regions Cities Industry webinar series, pre-launch of the policy impact book
+- [2021]{.date} *Connecting Back Better: GVC-Sensitive Policies for Regional Recovery*. Special Session 25, RSA Regions in Recovery Global E-Festival
+- [2020]{.date} *City Resilience through Time and Space*. Arup City Resilience Workshop, World Urban Forum, Abu Dhabi
+- [2020]{.date} *Enhancing the Financial Positions of Cities*. European Commission, World Urban Forum, Abu Dhabi
+- [2019]{.date} *Supporting the Urban Dimension of Development Cooperation*. Advisory Group Meeting and Policy Session, European Parliament, Brussels
+- [2019]{.date} *Economics of Land Use Planning*; *Accessing Opportunities*. World Bank South-South Knowledge Exchange, Cape Town
+- [2019]{.date} *The BRT and the Danfo*. IGC Community of Practice
+- [2019]{.date} *Designed to Succeed*. Saïd Business School and Blavatnik School of Government Early Career Researcher Series, Oxford
+- [2019]{.date} *Youth and the City*. Challenges of Government Conference, University of Oxford
+- [2018]{.date} *Land Value Capture*. UKBEAG policymaker training, London
+- [2018]{.date} *Analysis of Proposed Resilience and Transport Policies: Ho Chi Minh City*. UN-Habitat charrette, Ho Chi Minh City, with simultaneous translation
+:::
+
+</details>

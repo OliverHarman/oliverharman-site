@@ -57,12 +57,15 @@ where status and resources changed but formal authority did not. On connection, 
 investment and global value chains land in particular regions, and whether
 those regions capture anything durable from them as the economy turns green.
 
-Before and alongside the doctorate, I spent a decade working with city
+I came to research from a decade in policy. I worked with mayors, city
 governments and national ministries across Africa, Asia and the Caribbean: as
 Cities Economist and then Senior Policy Economist on the International Growth
 Centre's [Cities that Work](https://www.theigc.org/initiatives/cities-work)
-initiative, and as an ODI Fellow in Guyana's Ministry of Communities. That
-[policy work](policy.qmd) has been taken up by decision-makers in 27 countries.
+initiative, and before that as an ODI Fellow embedded in Guyana's Ministry of
+Communities. I was focal point for city programmes with UN-Habitat, the
+European Commission and the UK's FCDO, and my [policy research](policy.qmd)
+has 61 externally validated instances of uptake by decision-makers across 27
+countries.
 
 I [teach](teaching.qmd) urban economics at LSE and the Africa Urban Lab, and
 co-convened the BREAD-IGC virtual PhD course in urban economics with Edward
@@ -70,7 +73,7 @@ Glaeser. In 2026 I received the Class Teacher Award in LSE's Department of
 Geography and Environment.
 
 This site collects my [research](research.qmd), [teaching](teaching.qmd),
-[policy work](policy.qmd) and [commentary](commentary.qmd).
+[policy research](policy.qmd) and [commentary](commentary.qmd).
 
 My best email is <o.harman@lse.ac.uk>, and I am on
 [Google Scholar](https://scholar.google.com/citations?user=SLb3QHIAAAAJ) and

@@ -177,7 +177,6 @@ Drafts not linked below are available on request.
 - [2025]{.date} *Urban Government Capacity and Decentralisation Hotspots in Africa*. CSAE Conference, University of Oxford
 - [2024]{.date} *Urban Government Capacity and Decentralisation Hotspots in Africa*. ODI Global Public Financial Management Workshop, London; RSA Winter Conference, London; RSA Student and Early Career Conference, Cambridge
 - [2024]{.date} *Green Global Value Chains for Sustainable Regional Development*. International Business Seminar, Henley Business School, University of Reading
-- [2024]{.date} *Introducing the Cities Spatial Model*. World Urban Forum, Cairo
 - [2023]{.date} *Green Global Value Chains for Sustainable Regional Development*. Opening plenary, RSA Summer Conference, Ljubljana
 - [2023]{.date} *Upgrading as a Pathway to Structural Transformation*. UNU-WIDER and ACRC workshop on African urbanisation and structural transformation
 - [2022]{.date} *Harnessing Global Value Chains for Regional Development*. Book launch, LSE
@@ -188,8 +187,11 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Co-organiser, Urbanisation and Poverty Reduction Research Conference** (2019–2025)
-  [6th to 9th editions, with the World Bank and George Washington University]{.venue}
-  [[9th, Cape Town](https://www.theigc.org/events/9th-urbanization-and-development-conference) [8th](https://www.theigc.org/events/8th-urbanisation-and-poverty-reduction-conference) [7th](https://www.theigc.org/events/7th-urbanisation-and-poverty-reduction-research-conference) [6th](https://www.theigc.org/events/6th-urbanization-and-poverty-reduction-research-conference)]{.links}
+  [International conference and policy workshop, co-hosted with the World Bank and George Washington University]{.venue}
+  [**9th** (2024–25, with the City of Cape Town): *Urban economics in action: Addressing African cities' challenges* [IGC](https://www.theigc.org/events/9th-urbanization-and-development-conference) [World Bank](https://www.worldbank.org/en/events/2025/06/11/9th-urbanization-and-development-conference) [Videos](https://www.youtube.com/playlist?list=PL2gnsP0zo0wfeQ0QTwwcXB75bXVDpeFZP)]{.edition}
+  [**8th** (2023–24, with the Millennium Challenge Corporation): *Urban expansion and the future spatial organisation of cities* [IGC](https://www.theigc.org/events/8th-urbanisation-and-poverty-reduction-conference) [World Bank](https://www.worldbank.org/en/events/2024/03/07/8th-urbanization-and-poverty-reduction-research-conference) [Videos](https://www.youtube.com/playlist?list=PL2gnsP0zo0wd-e6N10GTEaxWjl_ysNP4I)]{.edition}
+  [**7th** (2022–23): *Climate change and sustainable cities* [IGC](https://www.theigc.org/events/7th-urbanisation-and-poverty-reduction-research-conference) [World Bank](https://www.worldbank.org/en/events/2023/01/30/7th-urbanization-and-poverty-reduction-research-conference) [Videos](https://www.youtube.com/playlist?list=PL2gnsP0zo0wfFQGtcz4mL3AszoTmJrpow)]{.edition}
+  [**6th** (2019, with the Inter-American Development Bank): three days on research, policy and city application [IGC](https://www.theigc.org/events/6th-urbanization-and-poverty-reduction-research-conference) [World Bank](http://worldbank.org/en/events/2019/05/02/6th-urbanization-and-poverty-reduction-research-conference) [Opening session](https://live.worldbank.org/6th-urbanization-and-poverty-reduction-conference)]{.edition}
 
 - **Regional Studies Association Research Network on Green Global Value Chains for Sustainable Regional Development** (2025–)
   [With V. De Marchi, R. Crescenzi and C. Hulke]{.venue}
