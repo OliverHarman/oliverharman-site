@@ -77,10 +77,17 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Unequal Progress and Barriers for Women in Economics**
-  [Berland, O., Harman, O., and Moreau-Kastler, N.]{.authors}
-  [In press, *Reviews of Economic Literature*, Stanford University Press. Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
-  [Reviews recent evidence on the barriers women face in economics. Gender gaps have narrowed over the past decade, but unevenly across institutions and countries and mostly at senior levels, and the evidence points to differences in evaluation standards, lower recognition of women's contributions and signs of a hostile environment.]{.desc}
-  [[Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4879332) [IGC version](https://www.theigc.org/publications/pipelines-or-pyramids-review-barriers-women-economics)]{.links}
+  [Berland, O., Harman, O., and Moreau-Kastler, N. (2026)]{.authors}
+  [*Reviews of Economic Literature*, 1. Open access. Earlier version: "Pipelines or pyramids: A review of barriers for women in economics", IGC Working Paper (2023)]{.venue}
+  [Reviews the literature on gender inequality in economics. Women now make up 26% of published economists but only 5% of those in the top percentile of research influence, where recent progress has, paradoxically, been concentrated.]{.desc}
+  [[Article](https://doi.org/10.21627/aekcyv04) [Working paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4879332) [IGC version](https://www.theigc.org/publications/pipelines-or-pyramids-review-barriers-women-economics)]{.links}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  This paper reviews the literature on gender inequality in the academic field of economics, highlighting both the unequal progress that women have experienced and the persistent barriers that they continue to face. Our analysis of this recent research and available data highlights that the reduction in women's absence in the field has been heterogeneous. While women now constitute 26% of published economists, their presence sharply declines at higher ranks, with only 5% representation among economists in the top percentile of research influence. Notably, recent progress has paradoxically concentrated at this highest level, indicating shifting institutional norms and evolving perceptions about women's contributions. We further explore how understanding women's behaviors and career choices, and gender biases in evaluation and workplace environments, contribute to women's underrepresentation in the field. Our discussion extends to the labor market for economists, drawing parallels with broader labor trends and examining how gender-biased treatment and hiring processes affect women's advancement. Finally, we turn to policy interventions that are key in promoting gender balance, focusing on networks, mentorship, role models, and representation.
+
+  </details>
 :::
 
 ### Books

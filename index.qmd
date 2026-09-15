@@ -50,10 +50,13 @@ comparing the ten against cities that were declared but never commenced.
 :::
 
 ::: {.wip}
+[Recently published]{.label}
+
+- *[Unequal Progress and Barriers for Women in Economics](https://doi.org/10.21627/aekcyv04)*. [With O. Berland and N. Moreau-Kastler. Reviews of Economic Literature, 2026]{.with}
+
 [In press]{.label}
 
 - *Green Global Value Chains for Sustainable Regional Development*. [With R. Crescenzi. Cambridge Elements, Cambridge University Press]{.with}
-- *Unequal Progress and Barriers for Women in Economics*. [With O. Berland and N. Moreau-Kastler. Reviews of Economic Literature]{.with}
 
 [Work in progress]{.label}
 
@@ -103,6 +106,7 @@ Oxford, I am nearly always available for a cup of tea.
 ## Updates
 
 ::: {.updates}
+- [Jul 2026]{.date} ["Unequal Progress and Barriers for Women in Economics"](https://doi.org/10.21627/aekcyv04), with Ondine Berland and Ninon Moreau-Kastler, published in *Reviews of Economic Literature* (open access).
 - [Jun 2026]{.date} ["Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy"](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/), with Riccardo Crescenzi, in LSE Business Review.
 - [May 2026]{.date} "Unequal Progress and Barriers for Women in Economics", with Ondine Berland and Ninon Moreau-Kastler, is in press at *Reviews of Economic Literature*.
 - [Apr 2026]{.date} Four working papers submitted to the International Growth Centre.
