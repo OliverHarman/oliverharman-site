@@ -17,9 +17,8 @@ toc: false
       <a href="cv/harman-cv-full.pdf">Full CV</a>
     </p>
   </div>
-  <div class="hero-portrait">
-    <img class="hero-art" src="assets/art.svg" alt="">
-    <img class="hero-photo" src="assets/oliver-harman.jpg" alt="Oliver Harman speaking on a panel">
+  <div class="hero-map">
+    <img src="assets/art-home.svg" alt="">
   </div>
 </div>
 ```

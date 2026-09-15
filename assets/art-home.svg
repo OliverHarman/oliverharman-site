@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 380" width="360" height="380">
+  <!-- Home page artwork: the original abstract map, with its uneven roads, filled in
+       where the photo used to sit, plus a chain rising out of the city and off the map,
+       like a global value chain connecting it to elsewhere. -->
+  <g style="mix-blend-mode:multiply">
+    <rect x="8" y="10" width="112" height="86" fill="#F2A93B"/>
+    <rect x="266" y="26" width="78" height="150" fill="#2F5DA8"/>
+    <rect x="0" y="238" width="98" height="136" fill="#F6C9BA"/>
+    <rect x="248" y="288" width="96" height="88" fill="#2A9D8F"/>
+    <rect x="128" y="232" width="74" height="60" fill="#F6C9BA"/>
+    <rect x="150" y="318" width="52" height="46" fill="#F2A93B"/>
+    <path d="M-12,142 C70,112 128,198 198,174 C268,150 290,242 372,226" fill="none" stroke="#9CC3E6" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <!-- Roads: deliberately uneven -->
+  <g stroke="#16232B" stroke-width="2.4" fill="none" stroke-linecap="round">
+    <line x1="0" y1="204" x2="360" y2="204"/>
+    <line x1="46" y1="0" x2="46" y2="380"/>
+    <line x1="300" y1="0" x2="300" y2="380"/>
+    <line x1="138" y1="0" x2="360" y2="128"/>
+  </g>
+
+  <!-- External link: a chain rising out of the city and off the map, like a global value chain -->
+  <g transform="translate(176,246) rotate(-75.6)" stroke="#16232B" stroke-width="2.2" stroke-linecap="round">
+      <rect x="11" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="51" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="91" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="131" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="171" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="211" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <rect x="251" y="-6.5" width="30" height="13" rx="6.5" fill="#FFFFFF" fill-opacity="0"/>
+      <line x1="0" y1="0" x2="17" y2="0" stroke-width="3.2"/>
+      <line x1="35" y1="0" x2="57" y2="0" stroke-width="3.2"/>
+      <line x1="75" y1="0" x2="97" y2="0" stroke-width="3.2"/>
+      <line x1="115" y1="0" x2="137" y2="0" stroke-width="3.2"/>
+      <line x1="155" y1="0" x2="177" y2="0" stroke-width="3.2"/>
+      <line x1="195" y1="0" x2="217" y2="0" stroke-width="3.2"/>
+      <line x1="235" y1="0" x2="257" y2="0" stroke-width="3.2"/>
+  </g>
+  <circle cx="176" cy="246" r="8" fill="#E4572E"/>
+  <!-- City nodes -->
+  <circle cx="300" cy="204" r="19" fill="#E4572E"/>
+  <circle cx="46" cy="204" r="10" fill="#E4572E"/>
+  <circle cx="46" cy="50" r="6.5" fill="#16232B"/>
+  <circle cx="300" cy="344" r="5.5" fill="#16232B"/>
+</svg>

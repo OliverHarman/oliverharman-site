@@ -9,7 +9,7 @@ $rule:         #e3e6e8;
 $accent:       #1b6b5f;
 $accent-tint:  #eef4f2;
 
-// Splash palette, shared with assets/art.svg and assets/mark.svg
+// Splash palette, shared with assets/art-home.svg and assets/mark.svg
 $coral:        #e4572e;
 $marigold:     #f2a93b;
 $cobalt:       #2f5da8;
@@ -154,32 +154,6 @@ body.home #title-block-header {
       background: $cobalt;
       border-color: $cobalt;
     }
-  }
-}
-
-// Artwork is drawn on a 380 x 418 canvas with the photo at x 90-290, so it is
-// 190% of the photo's width and centred on it.
-.hero-portrait {
-  position: relative;
-
-  .hero-art {
-    position: absolute;
-    z-index: -1;
-    left: 50%;
-    top: 50%;
-    width: 190%;
-    max-width: none;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-  }
-
-  .hero-photo {
-    position: relative;
-    display: block;
-    width: 100%;
-    aspect-ratio: 4 / 5;
-    object-fit: cover;
-    border-radius: 3px;
   }
 }
 
@@ -563,7 +537,6 @@ a:focus-visible {
   h1, .title { font-size: 1.7rem; }
   .hero { grid-template-columns: 1fr; gap: 3rem; margin-top: 2rem; }
   .hero .hero-name { font-size: 2rem; }
-  .hero-portrait { order: -1; width: 10.5rem; margin: 1.5rem auto 0; }
   .lede { font-size: 1.2rem; }
   .updates li, .talks li, details.more .talks li { padding-left: 0; text-indent: 0; }
   .updates .date, .talks .date { display: block; }

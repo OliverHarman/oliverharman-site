@@ -3,6 +3,12 @@ title: "Research"
 description: "Working papers, publications and data on decentralisation, urbanisation and local public goods in Africa, and on global value chains and regional development."
 ---
 
+```{=html}
+<figure class="page-photo side cobalt">
+  <img src="assets/photos/research-portrait.jpg" alt="Oliver Harman speaking on a panel">
+</figure>
+```
+
 My research is about how power and connection shape economic development. On
 power, I measure the capacity, authority and means of urban governments in
 Africa, and what they do for local public goods. On connection, I ask how

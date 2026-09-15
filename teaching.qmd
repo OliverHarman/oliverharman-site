@@ -1,7 +1,14 @@
 ---
 title: "Teaching"
-description: "Courses, guest lectures and student support in urban economics, economic geography and applied quantitative methods."
+description: "Courses, guest lectures and student support in urban economics, economic geography and using economics in government."
 ---
+
+```{=html}
+<figure class="page-photo marigold">
+  <img src="assets/photos/teaching-lecture-hall.jpg" alt="Oliver Harman teaching in a lecture hall at the Africa Urban Lab">
+  <figcaption>Teaching at the Africa Urban Lab, Zanzibar</figcaption>
+</figure>
+```
 
 Since 2024 I have been Lecturer in Urban Economics at the Africa Urban Lab of
 the African School of Economics in Zanzibar, where I co-created and teach the
@@ -16,9 +23,7 @@ Teacher of the Year the year before.
 
 Urban and regional economics; global value chains and foreign direct
 investment; economic geography; the political economy of development and of
-local government; and applied quantitative methods for
-development, including causal inference with administrative and spatial data
-and text-as-data.
+local government; and using economics in government.
 
 ## Courses
 
@@ -49,6 +54,13 @@ and text-as-data.
   [Organising committee. University of Cape Town, with ERSA, the IGC and the World Bank]{.venue}
   [[Reading list and lectures](https://www.theigc.org/events/winter-school-urban-and-regional-economics-africa)]{.links}
 :::
+
+```{=html}
+<figure class="page-photo coral">
+  <img src="assets/photos/teaching-field-visit.jpg" alt="Oliver Harman walking along the Stone Town seafront with Africa Urban Lab students">
+  <figcaption>On a field visit with Africa Urban Lab students, Stone Town, Zanzibar</figcaption>
+</figure>
+```
 
 ## What students say {#feedback}
 

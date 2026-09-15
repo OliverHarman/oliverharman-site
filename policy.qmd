@@ -3,6 +3,13 @@ title: "Policy research"
 description: "Policy research on municipal finance, global value chains and urban sustainability, written for governments in low-resource settings."
 ---
 
+```{=html}
+<figure class="page-photo sea wide">
+  <img src="assets/photos/policy-africities.jpg" alt="Oliver Harman on a panel of ministers and policymakers at the Africities summit">
+  <figcaption>Tripartite Dialogue Roundtable between Ministers, Mayors and Development Partners, with Julius Kitur, Mayor of Eldoret, and Doreen Nyanjura, Deputy Lord Mayor of Kampala. Africities Summit, Kisumu, Kenya, May 2022. Photo: UCLG Africa</figcaption>
+</figure>
+```
+
 For a decade I wrote for and worked alongside finance ministries, city
 treasuries and mayoral teams across Africa, Asia and the Caribbean, mostly
 through the International Growth Centre's Cities that Work initiative, and

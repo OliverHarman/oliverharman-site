@@ -53,8 +53,60 @@ $block-offset:   7px;
   @include map-block($block-marigold);
 }
 
-// Square off the photo to match
-.hero-portrait .hero-photo { border-radius: 0; }
+// Home page: the map on its own, beside the name and lede
+.hero {
+  grid-template-columns: minmax(0, 1fr) 19rem;
+}
+
+.hero-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+// Inner pages open with a photo sitting on a block of the page's colour
+.page-photo {
+  margin: 0.4rem $block-offset 2.4rem 0;
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border: 1px solid $block-ink;
+    box-shadow: $block-offset $block-offset 0 $block-cobalt;
+  }
+
+  figcaption {
+    font-family: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
+    font-size: 0.78rem;
+    color: #59646b;
+    margin-top: calc(0.55rem + #{$block-offset});
+  }
+
+  &.marigold img { box-shadow: $block-offset $block-offset 0 $block-marigold; }
+  &.sea img { box-shadow: $block-offset $block-offset 0 $block-sea; }
+  &.coral img { box-shadow: $block-offset $block-offset 0 $block-coral; }
+  &.wide img { aspect-ratio: 12 / 5; }
+
+  // A small portrait tucked beside the opening text
+  &.side {
+    float: right;
+    width: 10.5rem;
+    margin: 0.35rem $block-offset 1rem 1.6rem;
+
+    img { aspect-ratio: 4 / 5; }
+  }
+}
+
+// Sections start below a side photo rather than beside it
+main.content h2 { clear: both; }
+
+@media (max-width: 767px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero-map { order: -1; width: 15rem; margin: 0.5rem auto 0; }
+  .page-photo.side { width: 7.5rem; margin-left: 1rem; }
+}
 
 @media (prefers-reduced-motion: reduce) {
   .pubs li { transition: none; }
