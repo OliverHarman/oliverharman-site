@@ -70,8 +70,8 @@ in French, Somali, Arabic or Hindi; ask if you need one.
 - **Climbing Up Global Value Chains: Leveraging FDI for Economic Development** (2022)
   [With [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi)]{.authors}
   [Hinrich Foundation White Paper]{.venue}
-  [[Paper](https://www.hinrichfoundation.com/research/wp/fdi/global-value-chains-gvc-foreign-direct-investment-fdi-economic-development/)]{.links}
-  [**Media and commentary:** [Public policy considerations for climbing GVCs in Asia](https://www.hinrichfoundation.com/research/article/fdi/public-policy-considerations-for-climbing-global-value-chains-in-asia/) [Multiple pathways to upgrading in GVCs in Asia](https://www.hinrichfoundation.com/research/article/fdi/upgrading-global-value-chains-gvc-in-asia/)]{.media}
+  [[Paper](https://www.hinrichfoundation.com/research/wp/fdi/global-value-chains-gvc-foreign-direct-investment-fdi-economic-development)]{.links}
+  [**Media and commentary:** [Public policy considerations for climbing GVCs in Asia](https://www.hinrichfoundation.com/research/article/fdi/public-policy-considerations-for-climbing-global-value-chains-in-asia) [Multiple pathways to upgrading in GVCs in Asia](https://www.hinrichfoundation.com/research/article/fdi/upgrading-global-value-chains-gvc-in-asia)]{.media}
 
 - **Leveraging Opportunities from Global Value Chains for Regional Development** (2023)
   [Toolkit for local governments in the North of England, Connected Places Catapult]{.venue}
