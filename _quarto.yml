@@ -55,6 +55,7 @@ format:
     theme:
       - cosmo
       - styles.scss
+      - cards.scss
     toc: true
     toc-depth: 2
     toc-title: "On this page"

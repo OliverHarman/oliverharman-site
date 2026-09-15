@@ -2,75 +2,62 @@
 
 /*-- scss:rules --*/
 
-// Floating cards: white boxes on a pale cool-grey page, in the spirit of
-// ondineberland.com. Listed after styles.scss in _quarto.yml, so it can be
-// switched off by removing it from the theme list.
+// Map-block cards. Each entry is a square, outlined block on the white page.
+// On hover (or keyboard focus) it lifts and a flat block of colour from the
+// home-page artwork appears behind it, offset like the photo over the map.
+// Listed after styles.scss in _quarto.yml; remove it there to switch off.
 
-$canvas:      #f3f5f8;
-$card:        #ffffff;
-$card-line:   #e3e7ec;
-$card-shadow: 0 1px 2px rgba(22, 35, 43, 0.04), 0 6px 18px rgba(22, 35, 43, 0.06);
-$card-lift:   0 2px 4px rgba(22, 35, 43, 0.05), 0 12px 28px rgba(22, 35, 43, 0.09);
+$block-coral:    #e4572e;
+$block-marigold: #f2a93b;
+$block-sea:      #2a9d8f;
+$block-cobalt:   #2f5da8;
+$block-line:     #dfe3e6;
+$block-ink:      #16232b;
+$block-offset:   7px;
 
-@mixin floating-card {
-  background: $card;
-  border: 1px solid $card-line;
-  border-radius: 12px;
-  box-shadow: $card-shadow;
+@mixin map-block($colour) {
+  box-shadow: $block-offset $block-offset 0 $colour;
+  border-color: $block-ink;
 }
 
-body,
-.nav-footer { background-color: $canvas; }
-
-.navbar { background-color: $card !important; }
-
-// Every publication, course and programme entry becomes its own card
 .pubs li {
-  @include floating-card;
-  padding: 1.05rem 1.3rem 1.1rem 2.7rem;
+  --block: #{$block-coral};
+  background: #ffffff;
+  border: 1px solid $block-line;
+  border-radius: 0;
+  padding: 1rem 1.25rem 1.05rem 2.65rem;
   text-indent: -1.4rem;
-  margin-bottom: 1rem;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  margin-bottom: 0.9rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 
-  &:hover {
-    box-shadow: $card-lift;
-    transform: translateY(-1px);
+  &:nth-child(4n + 2) { --block: #{$block-marigold}; }
+  &:nth-child(4n + 3) { --block: #{$block-sea}; }
+  &:nth-child(4n + 4) { --block: #{$block-cobalt}; }
+
+  &:hover,
+  &:focus-within {
+    transform: translate(-3px, -3px);
+    box-shadow: $block-offset $block-offset 0 var(--block);
+    border-color: $block-ink;
   }
 }
 
-// Dated lists, updates, work in progress and quotes sit in one card each
-.talks > ul,
-.updates > ul,
-.wip,
-.quote-lead {
-  @include floating-card;
-  padding: 1.1rem 1.3rem;
-}
-
-.updates { border-top: 0; }
-.wip > p:first-child .label { margin-top: 0; }
-
-// Keep each quote's colour bar, which the card border would otherwise replace
-.quote-lead { border-left: 4px solid #f2a93b; }
-.quote-lead.coral { border-left-color: #e4572e; }
-.quote-lead.sea { border-left-color: #2a9d8f; }
-.quote-lead.cobalt { border-left-color: #2f5da8; }
-
-// The featured paper is the loudest card
+// The featured paper always sits on its block
 .featured {
-  @include floating-card;
-  border-left: 4px solid #1b6b5f;
-  box-shadow: $card-lift;
-  padding: 1.4rem 1.6rem;
+  background: #ffffff;
+  border: 1px solid $block-ink;
+  border-left: 4px solid $block-ink;
+  border-radius: 0;
+  padding: 1.3rem 1.5rem;
+  margin-right: $block-offset;
+  @include map-block($block-marigold);
 }
 
-// The portrait gets a white frame, like a print pinned over the artwork
-.hero-portrait .hero-photo {
-  border: 5px solid $card;
-  border-radius: 10px;
-  box-shadow: $card-lift;
-}
+// Square off the photo to match
+.hero-portrait .hero-photo { border-radius: 0; }
 
 @media (prefers-reduced-motion: reduce) {
-  .pubs li:hover { transform: none; }
+  .pubs li { transition: none; }
+  .pubs li:hover,
+  .pubs li:focus-within { transform: none; }
 }
