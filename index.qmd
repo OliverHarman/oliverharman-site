@@ -23,12 +23,13 @@ toc: false
 </div>
 ```
 
-I am Lecturer in Urban Economics at the African School of Economics'
-[Africa Urban Lab](https://www.asezanzibar.com/africa-urban-lab) in Zanzibar,
-where I have taught since 2024, and
+I am
 [Research Officer in Economic Geography and Spatial Economics](https://www.lse.ac.uk/people/oliver-harman)
 at LSE's Department of Geography and Environment and Global School of
-Sustainability. I am also a DPhil candidate in Sustainable Urban Development at the
+Sustainability. Alongside this role, I am Lecturer in Urban Economics at the
+African School of Economics'
+[Africa Urban Lab](https://www.asezanzibar.com/africa-urban-lab) in Zanzibar,
+where I have taught since 2024. I am also a DPhil candidate in Sustainable Urban Development at the
 University of Oxford, where I am a Doctoral Affiliate of the Centre for the
 Study of African Economies and a Research Affiliate of the Blavatnik School of
 Government.
@@ -91,7 +92,7 @@ European Commission and the UK's FCDO, and my [policy research](policy.qmd)
 has 61 externally validated instances of uptake by decision-makers across 27
 countries.
 
-I [teach](teaching.qmd) urban economics at the Africa Urban Lab and LSE, and
+I [teach](teaching.qmd) urban economics at LSE and the Africa Urban Lab, and
 co-convened the BREAD-IGC virtual PhD course in urban economics with Edward
 Glaeser. In 2026 I received the Class Teacher Award in LSE's Department of
 Geography and Environment.
