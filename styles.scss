@@ -361,6 +361,45 @@ h3 {
   }
 }
 
+// ---- Jump links to the themes on a long page -------------------------------
+
+.jump {
+  margin: 1.5rem 0 2.4rem;
+
+  p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+  }
+
+  a {
+    font-family: $ui;
+    font-size: 0.78rem;
+    color: $ink;
+    text-decoration: none;
+    border: 1px solid $rule;
+    padding: 0.34rem 0.74rem;
+    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  }
+
+  a:hover,
+  a:focus-visible {
+    color: $paper;
+    background: $coral;
+    border-color: $coral;
+  }
+
+  a:nth-of-type(4n + 2):hover,
+  a:nth-of-type(4n + 2):focus-visible { background: $marigold; border-color: $marigold; color: $ink; }
+
+  a:nth-of-type(4n + 3):hover,
+  a:nth-of-type(4n + 3):focus-visible { background: $sea; border-color: $sea; }
+
+  a:nth-of-type(4n + 4):hover,
+  a:nth-of-type(4n + 4):focus-visible { background: $cobalt; border-color: $cobalt; }
+}
+
 // ---- Collapsible abstracts and feedback ------------------------------------
 
 details.abstract,

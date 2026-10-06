@@ -3,6 +3,17 @@ title: "Policy research"
 description: "Policy research on municipal finance, global value chains and urban sustainability, written for governments in low-resource settings."
 ---
 
+::: {.jump}
+[Financing cities](#financing-sustainable-urban-development)
+[Global value chains](#global-value-chains-and-local-development)
+[Sustainability and climate](#sustainability-and-climate-change)
+[Cities, transport and migration](#cities-transport-and-migration)
+[Guyana](#government-of-guyana)
+[Programmes](#programmes-and-partnerships)
+[Policy impact](#policy-impact)
+[Presentations](#selected-policy-presentations)
+:::
+
 ```{=html}
 <figure class="page-photo sea wide">
   <img src="assets/photos/policy-africities.jpg" alt="Oliver Harman on a panel of ministers and policymakers at the Africities summit">
