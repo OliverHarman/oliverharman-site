@@ -74,6 +74,11 @@ in French, Somali, Arabic or Hindi; ask if you need one.
 ## Global value chains and local development
 
 ::: {.pubs}
+- **Upgrading through Global Value Chains and Foreign Investment as a Pathway to Structural Transformation in Zanzibar** (2026)
+  [With [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi)]{.authors}
+  [Policy paper]{.venue}
+  [Sets out how Zanzibar might upgrade through global value chains and foreign investment, drawing on our two books on the subject. It was shaped by a roundtable with the Zanzibar Research Centre for Socio-Economic and Policy Analysis, and continues work with the Zanzibar Investment Promotion Authority on its strategic plan for 2025–2030.]{.desc}
+
 - **Climbing Up Global Value Chains: Leveraging FDI for Economic Development** (2022)
   [With [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi)]{.authors}
   [Hinrich Foundation White Paper]{.venue}

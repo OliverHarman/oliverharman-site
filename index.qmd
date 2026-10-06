@@ -62,6 +62,7 @@ comparing the ten against cities that were declared but never commenced.
 
 [Work in progress]{.label}
 
+- *Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms*. [Single-authored]{.with}
 - *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
 - *Green Foreign Direct Investment in Africa*. [With [J. Alvarez-Vilanova](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Lippitsch](https://sites.google.com/view/christianlippitsch)]{.with}
 - *Transforming SME Integration into Global Value Chains*. [With R. Shukla]{.with}

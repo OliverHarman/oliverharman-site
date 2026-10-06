@@ -35,6 +35,19 @@ Drafts not linked below are available on request.
 ## Working papers
 
 ::: {.pubs}
+- **Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms**
+  [Single-authored]{.authors}
+  [Working paper, October 2026]{.venue}
+  [Guyana restored local elections in 2016 after 22 years and created new towns, but capital spending stayed with the centre. When the national government changed hands in 2020, councils held by the new opposition became 23 percentage points less likely to receive audited central capital works, while town status alone changed little.]{.desc}
+  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Authority%20without%20Means)]{.links}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Many decentralisation reforms give local governments elected councils while the centre keeps the money. I study Guyana, which restored local elections in 2016 after 22 years and created new towns, while equalising formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre. Councils held by the new opposition became 23 percentage points less likely to receive audited central capital works; night lights in these areas also fell behind, though less robustly. Town status alone had little effect. Local authority without fiscal means left councils dependent on central discretion, which followed partisan alignment.
+
+  </details>
+
 - **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024**
   [Harman, O., Hayward, J., and Sampó, G.]{.authors}
   [IGC Working Paper, in preparation]{.venue}
