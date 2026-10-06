@@ -40,6 +40,7 @@ IGC blog.
 
 - **[How developing countries can embrace change and reap opportunities from sustainable urbanisation](https://www.weforum.org/agenda/2023/09/sustainable-urbanisation-in-developing-countries-adjusting-to-changing-opportunities/)**
   [World Economic Forum, with Victoria Delbridge and Juliana Oliveira-Cunha]{.venue}
+  [[Spanish](https://es.weforum.org/stories/forum-institutional/asi-es-como-los-paises-en-desarrollo-pueden-equilibrar-crecimiento-con-urbanizacion-sostenible/)]{.links}
 
 - **[Leveraging opportunities from global value chains for regional development](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains)**
   [LSE Research for the World, with Riccardo Crescenzi]{.venue}
