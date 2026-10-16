@@ -213,7 +213,8 @@ Since joining the IGC's Cities that Work initiative, my work has been taken up
 by the government decision-makers below, with each instance externally
 validated. The engagements vary in breadth and depth, and the list is not
 exhaustive. Policy impact from *Harnessing Global Value Chains for Regional
-Development* is tracked separately on the
+Development* is set out on [the book's own page](harnessing-global-value-chains.qmd),
+and tracked on the
 [LSE Global Investments and Local Development blog](https://blogs.lse.ac.uk/gild/books/).
 
 <details class="more">

@@ -88,7 +88,7 @@ In a world facing environmental transformation, mobilising the capital, skills, 
 - **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
   [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023). Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
   [The earlier book, on upgrading through regional policy, foreign investment and trade, which this Element takes into the green transition]{.desc}
-  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155)]{.links}
+  [[About the book](harnessing-global-value-chains.qmd) [Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155)]{.links}
 
 - **Green Foreign Direct Investment in Africa**
   [[Alvarez-Vilanova, J.](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), Harman, O., and [Lippitsch, C.](https://sites.google.com/view/christianlippitsch)]{.authors}

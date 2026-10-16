@@ -28,6 +28,8 @@ website:
             text: Research overview
           - href: green-global-value-chains.qmd
             text: "Book: Green Global Value Chains"
+          - href: harnessing-global-value-chains.qmd
+            text: "Book: Harnessing Global Value Chains"
       - href: teaching.qmd
         text: Teaching
       - href: policy.qmd

@@ -39,29 +39,29 @@ global value chains and foreign direct investment. **Regions:** sub-Saharan
 Africa and South Asia.]{.fields}
 
 ::: {.featured}
-[Featured paper]{.label}
+[New book]{.label}
 
-[Status without Power: The Political Economy of Administrative Unit Creation in Uganda]{.paper-title}
+[Green Global Value Chains for Sustainable Development: Environmental Upgrading in a Fragmented Spatial Economy]{.paper-title}
 
-On 1 July 2020 Uganda's ten new cities commenced together, a reform that
-changed their status and resources without decentralising formal authority.
-This paper asks which dimensions of local power that change actually moves,
-comparing the ten against cities that were declared but never commenced.
+With [Riccardo Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi),
+I argue that green global value chains, and the green foreign direct investment
+that helps to build and reconfigure them, can support sustainable development
+across a fragmented spatial economy. Our organising idea is environmental
+upgrading, and we set out what governments can do with it.
 
-[More on my research](research.qmd#featured-paper) &nbsp; Draft available on request
+Cambridge University Press, October 2026, and open access on Cambridge Core.
+
+[About the book](green-global-value-chains.qmd) &nbsp; [Launch event, 18 November](https://www.lse.ac.uk/events/global-value-chains)
 :::
 
 ::: {.wip}
-[New book]{.label}
-
-- *[Green Global Value Chains for Sustainable Development](green-global-value-chains.qmd)*. [With [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi). Elements on Globalization and Global Supply Chains, Cambridge University Press, October 2026]{.with}
-
 [Recently published]{.label}
 
 - *[Unequal Progress and Barriers for Women in Economics](https://doi.org/10.21627/aekcyv04)*. [With [O. Berland](https://www.ondineberland.com/) and [N. Moreau-Kastler](https://ninonmoreaukastler.com/). Reviews of Economic Literature, 2026]{.with}
 
 [Work in progress]{.label}
 
+- *[Status without Power: The Political Economy of Administrative Unit Creation in Uganda](research.qmd#featured-paper)*. [Single-authored]{.with}
 - *Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms*. [Single-authored]{.with}
 - *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
 - *Green Foreign Direct Investment in Africa*. [With [J. Alvarez-Vilanova](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Lippitsch](https://sites.google.com/view/christianlippitsch)]{.with}

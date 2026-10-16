@@ -111,7 +111,8 @@ Drafts not linked below are available on request.
 - **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
   [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023)]{.authors}
   [Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
-  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/)]{.links}
+  [Written for regional policymakers, on what a region can do about its position in global production. Reviewed in *Regional Studies*, *Economic Geography* and *European Planning Studies*, and cited in policy documents from the World Bank, the OECD and the United Nations.]{.desc}
+  [[About the book](harnessing-global-value-chains.qmd) [Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Chapter 2 (author's version)](https://researchonline.lse.ac.uk/id/eprint/141230/1/Crescenzi_Harman_2022_Ch2_GVCs_regions.pdf) [Associated materials](https://blogs.lse.ac.uk/gild/books/)]{.links}
   [**Media and commentary:** [LSE Research for the World feature](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [What are global value chains? (LSE Research video)](https://www.youtube.com/watch?v=_sY8nbtDTTY) [Ideas Untrapped (podcast)](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)]{.media}
 :::
 

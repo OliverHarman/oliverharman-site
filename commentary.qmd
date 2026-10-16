@@ -152,6 +152,9 @@ IGC blog.
 - **[Global value chains](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)**
   [Ideas Untrapped]{.venue}
 
+- **Governance Uncovered**
+  [Podcast of the Governance and Local Development Institute, University of Gothenburg, on *Harnessing Global Value Chains for Regional Development* and its application]{.venue}
+
 - **[Resilient Ethiopia: Resilient cities](https://www.youtube.com/watch?v=X0LCDXsA8qc)**
   [International Growth Centre. Chair, Technical Session II]{.venue}
 
