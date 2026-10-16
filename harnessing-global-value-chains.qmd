@@ -4,6 +4,13 @@ subtitle: "How to Upgrade through Regional Policy, FDI and Trade"
 description: "The 2023 Regional Studies Policy Impact Book by Riccardo Crescenzi and Oliver Harman, with its reviews, the policy documents that cite it, and the governments and agencies that have used it."
 ---
 
+```{=html}
+<figure class="book-cover sea">
+  <img src="assets/book-harnessing-cover.jpg" alt="Cover of Harnessing Global Value Chains for Regional Development">
+  <figcaption>Routledge, 2023</figcaption>
+</figure>
+```
+
 [Riccardo Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi)
 and I wrote this book for the people who have to make regional policy decisions.
 It asks what a region can realistically do about its position in global
@@ -139,6 +146,19 @@ Studies Association brought scholars together to discuss it in its
 [Regions, Cities and Industry webinar series](https://www.regionalstudies.org/news/global-value-chains-and-regional-innovation/).
 
 ## Media, podcasts and teaching materials
+
+```{=html}
+<figure class="video">
+  <div class="video-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/_sY8nbtDTTY"
+      title="What are global value chains and why they matter for economic and regional development"
+      loading="lazy" allowfullscreen
+      allow="accelerometer; encrypted-media; picture-in-picture; web-share"></iframe>
+  </div>
+  <figcaption>What global value chains are, and why they matter for regional
+  development. Made with LSE Research.</figcaption>
+</figure>
+```
 
 ::: {.pubs}
 - **LSE Research for the World**
