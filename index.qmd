@@ -19,6 +19,8 @@ toc: false
   </div>
   <div class="hero-map">
     <img src="assets/art-home.svg" alt="">
+    <p class="art-note">After Kandinsky, who studied law and economics in Moscow
+    before turning to painting.</p>
   </div>
 </div>
 ```

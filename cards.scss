@@ -64,6 +64,14 @@ $block-offset:   7px;
   height: auto;
 }
 
+.hero-map .art-note {
+  font-family: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
+  font-size: 0.74rem;
+  line-height: 1.45;
+  color: #59646b;
+  margin: 0.7rem 0 0;
+}
+
 // Inner pages open with a photo sitting on a block of the page's colour
 .page-photo {
   margin: 0.4rem $block-offset 2.4rem 0;
