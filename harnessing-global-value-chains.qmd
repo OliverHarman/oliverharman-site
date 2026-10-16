@@ -60,7 +60,9 @@ and LSE listed it among its
 
 ## Cited in policy documents
 
-The documents below cite the book or the working draft that preceded it.
+The documents below cite the book or the working draft that preceded it. The
+list comes from the book's impact report and from Overton, and was last added
+to in October 2026.
 
 ::: {.pubs}
 - **Asian Infrastructure Investment Bank**
@@ -71,16 +73,25 @@ The documents below cite the book or the working draft that preceded it.
   [[*An Investment Perspective on Global Value Chains*](https://openknowledge.worldbank.org/entities/publication/49fa218e-d636-55a7-94ac-7e5b552aa73c); [*Using Investment Policies to Stimulate Global Value Chain Participation*](https://elibrary.worldbank.org/doi/abs/10.1596/978-1-4648-1683-3_ch4)]{.venue}
 
 - **OECD**
-  [[*Does FDI Benefit Incumbent SMEs?*](https://www.oecd-ilibrary.org/urban-rural-and-regional-development/does-fdi-benefit-incumbent-smes_47763241-en); [*Measuring the Attractiveness of Regions*](https://www.oecd.org/cfe/measuring-the-attractiveness-of-regions-fbe44086-en.htm); [*Rethinking Regional Attractiveness in the New Global Environment*](https://www.oecd.org/publications/rethinking-regional-attractiveness-in-the-new-global-environment-a9448db4-en.htm); [*Subnational Investment Promotion and Decentralisation in the OECD*](https://www.oecd.org/en/publications/subnational-investment-promotion-and-decentralisation-in-the-oecd_ffd0927d-en.html); *FDI Qualities Review of Croatia*; *Enhancing Rural Innovation in Canada*]{.venue}
+  [[*Does FDI Benefit Incumbent SMEs?*](https://www.oecd-ilibrary.org/urban-rural-and-regional-development/does-fdi-benefit-incumbent-smes_47763241-en); [*Measuring the Attractiveness of Regions*](https://www.oecd.org/cfe/measuring-the-attractiveness-of-regions-fbe44086-en.htm); [*Rethinking Regional Attractiveness in the New Global Environment*](https://www.oecd.org/publications/rethinking-regional-attractiveness-in-the-new-global-environment-a9448db4-en.htm); [*Subnational Investment Promotion and Decentralisation in the OECD*](https://www.oecd.org/en/publications/subnational-investment-promotion-and-decentralisation-in-the-oecd_ffd0927d-en.html); [*Connecting FDI and SMEs for Productivity and Innovation in Europe*](https://doi.org/10.1787/9848e952-en) (2026); [*Assessing the Socio-economic Impact of Foreign Direct Investment in Latin America and the Caribbean*](https://doi.org/10.1787/fd8fb41c-en) (2025), also [in Spanish](https://doi.org/10.1787/13c7d291-es); [*Place-based Industrial Policy*](https://doi.org/10.1787/43edc0df-en); [*OECD Economic Surveys: Ukraine 2025*](https://doi.org/10.1787/940cee85-en); [*Enhancing Rural Innovation in Canada*](https://doi.org/10.1787/a9919c66-en); *FDI Qualities Review of Croatia*]{.venue}
 
-- **European Union, Publications Office**
-  [[*The Human-Centred City*](https://op.europa.eu/en/publication-detail/-/publication/5b85a079-2255-11ea-af81-01aa75ed71a1/language-en); [*Foreign Direct Investment, Global Value Chains and Regional Economic Development in Europe*](https://op.europa.eu/en/publication-detail/-/publication/f5396c1c-db7c-11ea-adf7-01aa75ed71a1); [*Where Global Value Chains Go Local*](https://ec.europa.eu/regional_policy/information-sources/publications/reports/2022/where-global-value-chains-go-local-eu-regions-global-value-chain-creation-and-local-upgrading_en); *Forging a Sustainable Future Together*; *The Future of EU Cohesion*]{.venue}
+- **European Union**
+  [[*The Human-Centred City*](https://op.europa.eu/en/publication-detail/-/publication/5b85a079-2255-11ea-af81-01aa75ed71a1/language-en); [*Foreign Direct Investment, Global Value Chains and Regional Economic Development in Europe*](https://op.europa.eu/en/publication-detail/-/publication/f5396c1c-db7c-11ea-adf7-01aa75ed71a1); [*Where Global Value Chains Go Local*](https://ec.europa.eu/regional_policy/information-sources/publications/reports/2022/where-global-value-chains-go-local-eu-regions-global-value-chain-creation-and-local-upgrading_en); [*Forging a Sustainable Future Together*](https://doi.org/10.2776/143512); and, from the European Parliamentary Research Service, [*The Future of EU Cohesion: Scenarios and Their Impacts on Regional Inequalities*](https://www.europarl.europa.eu/RegData/etudes/STUD/2024/762854/EPRS_STU(2024)762854_EN.pdf)]{.venue}
+
+- **Asian Development Bank**
+  [[*Buyer Market Power, Transport Mode, and Exchange Rate Shocks*](https://www.adb.org/sites/default/files/publication/1101346/ewp-825-buyer-market-power-transport-mode.pdf), ADB Economics Working Paper 825 (2025)]{.venue}
+
+- **Centre for Inclusive Trade Policy**
+  [[*European Regional Resilience to Supply Shocks Diffused through Global Value Chains*](https://citp.ac.uk/wp-content/uploads/2025_European-regional-resilience-to-supply-shocks-diffused-through-GVCs_CITP_WP028.pdf), CITP Working Paper 028 (2025)]{.venue}
+
+- **Environment for Development**
+  [*Global Sustainability in an Interconnected World: The Role of the EU in Trade and Value Chains*, written for the EU's Sustainability Performances, Evidence and Scenarios project (2026)]{.venue}
 
 - **World Intellectual Property Organization**
   [[*The Geography of Innovation: Local Hotspots, Global Networks*](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2019.pdf) and its [companion report on global innovation networks](https://www.wipo.int/publications/en/details.jsp?id=4471)]{.venue}
 
 - **United Nations**
-  [Economic Commission for Latin America and the Caribbean, *Foreign Direct Investment in Latin America and the Caribbean 2024*; United Nations Development Programme, [*Human Development Report 2023/24: Breaking the Gridlock*](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24reporten.pdf)]{.venue}
+  [Economic Commission for Latin America and the Caribbean, [*Foreign Direct Investment in Latin America and the Caribbean 2024*](https://digitallibrary.un.org/record/4067510); United Nations Development Programme, [*Human Development Report 2023/24: Breaking the Gridlock*](https://hdr.undp.org/system/files/documents/global-report-document/hdr2023-24reporten.pdf)]{.venue}
 :::
 
 ## Evidence to parliaments and reviews
