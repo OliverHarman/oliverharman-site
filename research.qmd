@@ -20,6 +20,12 @@ development; global value chains and foreign direct investment.
 **Secondary:** fiscal decentralisation and local public finance; economic
 geography; computational measurement of institutions.]{.fields}
 
+A new Cambridge Element with Riccardo Crescenzi,
+*[Green Global Value Chains for Sustainable Development](green-global-value-chains.qmd)*,
+is published in October 2026 and will also be open access on Cambridge Core. An
+[LSE public event](https://www.lse.ac.uk/events/global-value-chains) on 18 November
+marks it.
+
 Drafts not linked below are available on request.
 
 ## Featured paper
@@ -92,6 +98,23 @@ Drafts not linked below are available on request.
 
 ## Publications
 
+### Books
+
+::: {.pubs}
+- **Green Global Value Chains for Sustainable Development: Environmental Upgrading in a Fragmented Spatial Economy**
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2026)]{.authors}
+  [Elements on Globalization and Global Supply Chains, Cambridge University Press, October 2026. Also open access on Cambridge Core]{.venue}
+  [We argue that green global value chains, and the green foreign direct investment that helps to build and reconfigure them, can support sustainable development across a fragmented spatial economy. The Element advances the concept of environmental upgrading, introduces the Green Smile Curve with a typology of green, brown and ordinary chains, gives new evidence on the geography of green investment, and proposes a policy framework for governments.]{.desc}
+  [[About the book](green-global-value-chains.qmd) [Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy) [Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
+  [**Media and commentary:** [RSA Summer Conference opening plenary (video)](https://www.youtube.com/watch?v=sNRER6fGE9c) [Sustainability in a fragmented world (RSA video)](https://www.youtube.com/watch?v=Vlg8Ty7w7tQ) [LSE iQ podcast](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero) [What Port Talbot teaches us (LSE Business Review)](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)]{.media}
+
+- **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
+  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023)]{.authors}
+  [Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
+  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/)]{.links}
+  [**Media and commentary:** [LSE Research for the World feature](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [What are global value chains? (LSE Research video)](https://www.youtube.com/watch?v=_sY8nbtDTTY) [Ideas Untrapped (podcast)](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)]{.media}
+:::
+
 ### Articles
 
 ::: {.pubs}
@@ -108,22 +131,6 @@ Drafts not linked below are available on request.
   This paper reviews the literature on gender inequality in the academic field of economics, highlighting both the unequal progress that women have experienced and the persistent barriers that they continue to face. Our analysis of this recent research and available data highlights that the reduction in women's absence in the field has been heterogeneous. While women now constitute 26% of published economists, their presence sharply declines at higher ranks, with only 5% representation among economists in the top percentile of research influence. Notably, recent progress has paradoxically concentrated at this highest level, indicating shifting institutional norms and evolving perceptions about women's contributions. We further explore how understanding women's behaviors and career choices, and gender biases in evaluation and workplace environments, contribute to women's underrepresentation in the field. Our discussion extends to the labor market for economists, drawing parallels with broader labor trends and examining how gender-biased treatment and hiring processes affect women's advancement. Finally, we turn to policy interventions that are key in promoting gender balance, focusing on networks, mentorship, role models, and representation.
 
   </details>
-:::
-
-### Books
-
-::: {.pubs}
-- **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
-  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2023)]{.authors}
-  [Regional Studies Policy Impact Book Series, Routledge. [doi:10.4324/9781003356141](https://doi.org/10.4324/9781003356141)]{.venue}
-  [[Book](https://www.taylorfrancis.com/books/mono/10.4324/9781003356141/harnessing-global-value-chains-regional-development-riccardo-crescenzi-oliver-harman) [Overview (open access)](https://www.tandfonline.com/doi/full/10.1080/2578711X.2022.2099155) [Associated materials](https://blogs.lse.ac.uk/gild/books/)]{.links}
-  [**Media and commentary:** [LSE Research for the World feature](https://www.lse.ac.uk/research/research-for-the-world/economics/leveraging-global-value-chains) [Book launch (video)](https://www.youtube.com/watch?v=fIFIfQ4JgoQ) [What are global value chains? (LSE Research video)](https://www.youtube.com/watch?v=_sY8nbtDTTY) [Ideas Untrapped (podcast)](https://www.youtube.com/watch?v=l90ZD9Hg0Yw)]{.media}
-
-- **Green Global Value Chains for Sustainable Regional Development**
-  [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O.]{.authors}
-  [Cambridge Elements, Cambridge University Press. In press]{.venue}
-  [[Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
-  [**Media and commentary:** [RSA Summer Conference opening plenary (video)](https://www.youtube.com/watch?v=sNRER6fGE9c) [Sustainability in a fragmented world (RSA video)](https://www.youtube.com/watch?v=Vlg8Ty7w7tQ) [LSE iQ podcast](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero) [What Port Talbot teaches us (LSE Business Review)](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)]{.media}
 :::
 
 ### Book chapters

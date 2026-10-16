@@ -584,3 +584,44 @@ a:focus-visible {
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+
+// ---- Book page: subtitle and publication details ---------------------------
+
+#title-block-header .subtitle {
+  font-family: $ui;
+  font-size: 1rem;
+  font-weight: 400;
+  color: $ink-soft;
+  margin: 0.2rem 0 1.5rem;
+}
+
+.book-meta {
+  font-family: $ui;
+  font-size: 0.86rem;
+  margin-top: 1.1rem;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+    padding-left: 6.05rem;
+    text-indent: -6.05rem;
+  }
+
+  li > p { margin-bottom: 0; }
+
+  .k {
+    color: $ink-soft;
+    display: inline-block;
+    width: 6.05rem;
+    text-indent: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .book-meta li { padding-left: 0; text-indent: 0; }
+  .book-meta .k { display: block; }
+}

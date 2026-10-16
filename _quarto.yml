@@ -22,8 +22,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Research overview
+          - href: green-global-value-chains.qmd
+            text: "Book: Green Global Value Chains"
       - href: teaching.qmd
         text: Teaching
       - href: policy.qmd
