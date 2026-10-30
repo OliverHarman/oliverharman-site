@@ -1,13 +1,13 @@
 ---
 title: "Green Global Value Chains for Sustainable Development"
 subtitle: "Environmental Upgrading in a Fragmented Spatial Economy"
-description: "A Cambridge Element by Riccardo Crescenzi and Oliver Harman on green global value chains, green foreign direct investment and environmental upgrading. Out in October 2026 from Cambridge University Press, and open access on Cambridge Core."
+description: "A Cambridge Element by Riccardo Crescenzi and Oliver Harman on green global value chains, green foreign direct investment and environmental upgrading. Out on 11 November 2026 from Cambridge University Press, open access on Cambridge Core."
 ---
 
 ```{=html}
 <figure class="book-cover">
   <img src="assets/book-ggvc-cover.jpg" alt="Cover of Green Global Value Chains for Sustainable Development, Cambridge University Press">
-  <figcaption>Cambridge University Press, October 2026</figcaption>
+  <figcaption>Cambridge University Press, 11 November 2026</figcaption>
 </figure>
 ```
 
@@ -26,7 +26,7 @@ higher-value activities, and in doing so it reshapes natural capital. The
 Element is short, at 75 pages, and it is written for researchers and for the
 governments and agencies that have to act on this agenda.
 
-[**[Pre-order from Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy)** &nbsp;·&nbsp; Open access on Cambridge Core from publication]{.fields}
+[**[Read it on Cambridge Core](https://www.cambridge.org/core/elements/green-global-value-chains-for-sustainable-development/60FD5F061805ABB92DE2190A91B8F95A)** &nbsp;·&nbsp; Open access from 11 November 2026 &nbsp;·&nbsp; [Print copies from Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy)]{.fields}
 
 ## Launch event
 
@@ -74,7 +74,7 @@ In a world facing environmental transformation, mobilising the capital, skills, 
 ::: {.book-meta}
 - [Authors]{.k} [Riccardo Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and Oliver Harman, London School of Economics and Political Science
 - [Series]{.k} Elements on Globalization and Global Supply Chains, Cambridge University Press
-- [Published]{.k} October 2026, 75 pages
+- [Published]{.k} 11 November 2026, 75 pages
 - [Formats]{.k} Paperback (ISBN 9781009623759), hardback and ebook, and open access on Cambridge Core
 :::
 

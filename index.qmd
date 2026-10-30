@@ -49,7 +49,7 @@ that helps to build and reconfigure them, can support sustainable development
 across a fragmented spatial economy. Our organising idea is environmental
 upgrading, and we set out what governments can do with it.
 
-Cambridge University Press, October 2026, and open access on Cambridge Core.
+Cambridge University Press, 11 November 2026, open access on Cambridge Core.
 
 [About the book](green-global-value-chains.qmd) &nbsp; [Launch event, 18 November](https://www.lse.ac.uk/events/global-value-chains)
 :::
@@ -61,12 +61,14 @@ Cambridge University Press, October 2026, and open access on Cambridge Core.
 
 [Work in progress]{.label}
 
-- *[Status without Power: The Political Economy of Administrative Unit Creation in Uganda](research.qmd#featured-paper)*. [Single-authored]{.with}
+- *[Status without Power: City Creation, Central Transfers and Local Public Goods in Uganda](research.qmd#featured-paper)*. [Single-authored]{.with}
 - *Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms*. [Single-authored]{.with}
+- *Moving the Seat of Government and the Growth of African Towns*. [Single-authored]{.with}
 - *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
 - *Green Foreign Direct Investment in Africa*. [With [J. Alvarez-Vilanova](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Lippitsch](https://sites.google.com/view/christianlippitsch)]{.with}
-- *Transforming SME Integration into Global Value Chains*. [With R. Shukla]{.with}
-- *Degree of Urbanisation in Ethiopia*. [With [S. Franklin](https://www.simonfranklin.co/), G. Kakoulaki, K. Molla and M. Read]{.with}
+- *[Transforming Small and Medium Enterprise Integration into Global Value Chains](https://www.theigc.org/sites/default/files/2026-10/Harman%20and%20Shukla%20Working%20Paper%20September%202026.pdf)*. [With R. Shukla. IGC Working Paper, 2026]{.with}
+- *Measuring Urban Growth from Built Cover Where the Census Is Old*. [With [S. Franklin](https://www.simonfranklin.co/), G. Kakoulaki, K. Molla and M. Read]{.with}
+- *Valuing Land with Auctions: Implications for Land Taxation in Addis Ababa*. [With [S. Franklin](https://www.simonfranklin.co/), S. T. Mengistu and K. Molla]{.with}
 
 [All working papers and abstracts](research.qmd#working-papers)
 :::
@@ -110,7 +112,7 @@ Oxford, I am nearly always available for a cup of tea.
 
 ::: {.updates}
 - [Nov 2026]{.date} ["Can global value chains go green? Trade, investment and the net-zero development challenge"](https://www.lse.ac.uk/events/global-value-chains), an LSE public event marking the book, on 18 November with Erik Berglöf, Riccardo Crescenzi, Ralph de Haas and Daria Taglioni, chaired by Jonathan Pershing. On campus and online.
-- [Oct 2026]{.date} *Green Global Value Chains for Sustainable Development*, with Riccardo Crescenzi, is published this month by Cambridge University Press, and will also be open access on Cambridge Core. [About the book](green-global-value-chains.qmd).
+- [Nov 2026]{.date} *Green Global Value Chains for Sustainable Development*, with Riccardo Crescenzi, goes online at Cambridge University Press on 11 November, open access on Cambridge Core. [About the book](green-global-value-chains.qmd).
 - [Jul 2026]{.date} ["Unequal Progress and Barriers for Women in Economics"](https://doi.org/10.21627/aekcyv04), with Ondine Berland and Ninon Moreau-Kastler, published in *Reviews of Economic Literature* (open access).
 - [Jun 2026]{.date} ["Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy"](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/), with Riccardo Crescenzi, in LSE Business Review.
 - [May 2026]{.date} "Unequal Progress and Barriers for Women in Economics", with Ondine Berland and Ninon Moreau-Kastler, is in press at *Reviews of Economic Literature*.

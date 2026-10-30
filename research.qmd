@@ -22,7 +22,7 @@ geography; computational measurement of institutions.]{.fields}
 
 A new Cambridge Element with Riccardo Crescenzi,
 *[Green Global Value Chains for Sustainable Development](green-global-value-chains.qmd)*,
-is published in October 2026 and will also be open access on Cambridge Core. An
+goes online at Cambridge University Press on 11 November 2026, open access. An
 [LSE public event](https://www.lse.ac.uk/events/global-value-chains) on 18 November
 marks it.
 
@@ -31,11 +31,18 @@ Drafts not linked below are available on request.
 ## Featured paper
 
 ::: {.pubs}
-- **Status without Power: The Political Economy of Administrative Unit Creation in Uganda**
+- **Status without Power: City Creation, Central Transfers and Local Public Goods in Uganda**
   [Single-authored]{.authors}
-  [Working paper. Draws on the thesis chapter *Decentralisation and Development: Uganda's New Cities*]{.venue}
-  [On 1 July 2020 Uganda's ten new cities commenced together, a reform that changed their status and resources without decentralising formal authority. This paper asks which dimensions of local power that change actually moves, and which it leaves untouched. A block difference-in-differences compares the ten against cities declared but never commenced; a third arm of municipalities never declared separates commencement from declaration alone; and a boundary design compares areas inside and outside the pre-reform municipal limits. Outcomes come from a ministry budget panel, local public goods and satellite nightlights.]{.desc}
+  [Working paper, October 2026. Drawn from the thesis *Power and Place*]{.venue}
+  [Uganda declared fifteen new cities in 2020, ten of which commenced together on 1 July and five never did. Commencement brought a budget line, an elected council and parliamentary seats, and no new legal powers or revenue authority. A block difference-in-differences compares the ten against the cities declared but never commenced; a third arm of municipalities never declared separates commencement from declaration alone; and a boundary design compares areas inside and outside the pre-reform municipal limits. City budgets rose by 13.36 billion shillings a year while their parent districts' and neighbours' budgets fell, local public goods and night-time light showed no detectable change within four years, and the periphery absorbed to meet the population threshold did not catch up.]{.desc}
   [[Request draft](mailto:o.harman@lse.ac.uk?subject=Status%20without%20Power)]{.links}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Much of Africa's urban growth is happening in secondary cities, and governments create them by decree. Economics has studied one way of doing so, splitting existing units. I study a second, upgrading, using Uganda's declaration of fifteen new cities in 2020 — regional growth centres under its National Urban Policy, meant to anchor regional economies and draw growth away from the capital — ten of which commenced and five never did. Commencement brought a budget line, an elected council and parliamentary seats, and no new legal powers or revenue authority. Comparing commenced with never-commenced cities, old municipal cores with territory absorbed to meet a population threshold, and neighbouring councils by road distance, I find that city budgets rose by 13.36 billion shillings a year while their parent districts' and neighbours' budgets fell, so that little new money reached the territory and the development grant did not rise; that local public goods and night-time light showed no detectable change within four years; and that the absorbed periphery, already behind the land left outside the city, did not catch up. Status and earmarked transfers arrived without devolved power, and services had not followed by the end of the window, a pattern that fits money without power, though a horizon this short cannot rule out a response that is merely slow.
+
+  </details>
 :::
 
 ## Working papers
@@ -44,13 +51,26 @@ Drafts not linked below are available on request.
 - **Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms**
   [Single-authored]{.authors}
   [Working paper, October 2026]{.venue}
-  [Guyana restored local elections in 2016 after 22 years and created new towns, but capital spending stayed with the centre. When the national government changed hands in 2020, councils held by the new opposition became 23 percentage points less likely to receive audited central capital works, while town status alone changed little.]{.desc}
+  [Guyana restored local elections in 2016 after 22 years, created four towns, and equalised formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre without changing any council. Councils held by the party that lost national office became 22 percentage points less likely to receive audited central capital works, which ethnic composition does not explain, while town status brought central investment and little else.]{.desc}
   [[Request draft](mailto:o.harman@lse.ac.uk?subject=Authority%20without%20Means)]{.links}
 
   <details class="abstract">
   <summary>Abstract</summary>
 
-  Many decentralisation reforms give local governments elected councils while the centre keeps the money. I study Guyana, which restored local elections in 2016 after 22 years and created new towns, while equalising formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre. Councils held by the new opposition became 23 percentage points less likely to receive audited central capital works; night lights in these areas also fell behind, though less robustly. Town status alone had little effect. Local authority without fiscal means left councils dependent on central discretion, which followed partisan alignment.
+  Decentralisation reforms often give councils elections and legal status while the centre keeps the money. Guyana restored local elections in 2016 after 22 years, created four towns, and equalised formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre without changing any council. Councils held by the party that lost national office became 22 percentage points less likely to receive audited central capital works, which ethnic composition does not explain. Town status brought central investment and little else. Authority without means left councils dependent on central discretion, which followed party.
+
+  </details>
+
+- **Moving the Seat of Government and the Growth of African Towns**
+  [Single-authored]{.authors}
+  [Working paper, October 2026]{.venue}
+  [Governments that move a seat of government, or create a region or district, expect people, economic activity and public services to follow the offices. I test that expectation on a register of 38 contests and moves of seats of government in 12 African countries in which the towns that lost are documented, comparing each new seat with the runner-up that would otherwise have hosted it, and both with towns of similar size in regions that were not reformed.]{.desc}
+  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Moving%20the%20Seat%20of%20Government)]{.links}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Governments that move a seat of government out of a crowded city, or create a region or district, expect people, economic activity and public services to follow the offices, and the city left behind to decongest. Behind the expectation is a claim that the offices, contracts, services and status a seat brings can redirect urban growth. I test it with a register of 38 contests and moves of seats of government in 12 African countries in which the towns that lost are documented. I compare each new seat with the runner-up that would otherwise have hosted it, and compare both with towns of similar size in regions that were not reformed, using night-time light, built-up area and three measures of population. Reforms went to regions that were already growing faster than the rest of their country, and within those regions the towns chosen as seats grew no faster than the others, so a comparison with towns elsewhere credits the seat with most of its region's growth. Within a decade, built-up surface around the new seats rose faster than around towns elsewhere, much as it did across their region, and their population did not grow. Light rose by an imprecise amount that one event carries, and the rise is clear only around the seats of Kenya's counties, which received an elected government and a budget of their own, and even there people did not follow. The runners-up lost nothing and kept growing faster in the censuses, and the few towns that lost an existing seat give mixed evidence. In Uganda, 80 new districts did not raise the presence of local public goods. Over decades, new national capitals outgrew other large towns only where the executive and its ministries moved.
 
   </details>
 
@@ -71,27 +91,40 @@ Drafts not linked below are available on request.
 
   </details>
 
-- **Transforming SME Integration into Global Value Chains**
+- **Transforming Small and Medium Enterprise Integration into Global Value Chains**
   [Harman, O., and Shukla, R.]{.authors}
-  [In preparation]{.venue}
-  [Programmes that connect small firms to multinational buyers are usually judged by how many come to trade with the buyer. Using a decade of records from TRANSFORM, a partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY, we find that an integration count reflects the buyer's purchasing decisions as much as the programme's work.]{.desc}
+  [IGC Working Paper GBR-26101, October 2026]{.venue}
+  [Programmes that connect small firms to multinational buyers are usually judged by how many come to trade with the buyer. Using the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY, we find that an integration count reflects the buyer's purchasing decisions as much as the programme's work.]{.desc}
+  [[Working paper](https://www.theigc.org/sites/default/files/2026-10/Harman%20and%20Shukla%20Working%20Paper%20September%202026.pdf)]{.links}
 
   <details class="abstract">
   <summary>Abstract</summary>
 
-  Programmes that connect small firms to multinational buyers are usually judged by the number that come to trade with the buyer. We ask what that number measures, using the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY in the form of a corporate accelerator. We use a regression across 90 enterprises, configurational analyses coded from the enterprises' own applications, and nineteen interviews with founders and with Unilever and programme staff. Sixteen per cent of enterprises ever integrated, and half of those relationships had lapsed by March 2026. What an enterprise brings to the programme predicts integration; what happens during it does not. In the programme team's retrospective record none of 24 enterprises without a Unilever relationship at entry integrated, against 14 of 66 with one; on the enterprises' own applications the gate is weaker; past it, no combination of what the enterprise itself brings, as recorded at entry, is sufficient. Enterprises referred by a Unilever local market team integrate at four times the rate of any other route; those funded under the environmental pillars no more often than those under the social ones. Staff interviews locate the reason on the buyer's side of the transaction: a contract needs several Unilever functions with unrelated objectives to agree at once, and an impact credential counts with the teams that fund pilots, not those that sign contracts. Enterprises that never integrated report capability, credibility and access to other buyers as often as those that did. An integration count therefore reflects the buyer's purchasing decisions as much as the programme's work; such programmes should also be judged on what their participants keep.
+  Programmes that connect small firms to multinational buyers are expected to produce a link to the buyer, and the usual measure of whether they did is a count of the firms that came to trade with it. We ask what that count measures, using the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY in the form of an impact accelerator. We use a regression across 90 enterprises, configurational analyses coded from the enterprises' own applications, and nineteen interviews with founders and with Unilever and programme staff. Sixteen per cent of enterprises ever integrated, and half of those relationships had lapsed by March 2026. Whether the buyer's side saw a use for the proposed project at entry predicts integration, and ratings of the link during the project add nothing. In the programme team's record, none of 24 enterprises whose project offered Unilever nothing it could use integrated, against 14 of 66 whose project did. A prior relationship with Unilever raises the rate above that threshold and is not necessary for it. Among enterprises the buyer had matched to a use at entry, no combination of what the enterprise itself brings, as recorded at entry, is sufficient for integration. Enterprises referred by a Unilever local market team, every one of them already known to the business, integrate at four times the rate of any other route. Those funded under the environmental pillars integrate no more often than those under the social ones. Staff interviews place the reason on the buyer's side of the transaction. A contract needs several Unilever functions with unrelated objectives to agree at once, and an impact credential counts with the teams that fund pilots and carries no weight with those that sign contracts. Enterprises that never integrated report gains in capability and access to other buyers more often than those that did. An integration count therefore reflects the buyer's purchasing decisions as much as the programme's work, and such programmes should also be judged on what their participants keep.
 
   </details>
 
-- **Degree of Urbanisation in Ethiopia**
+- **Measuring Urban Growth from Built Cover Where the Census Is Old**
   [[Franklin, S.](https://www.simonfranklin.co/), Harman, O., Kakoulaki, G., Molla, K., and Read, M.]{.authors}
   [In preparation]{.venue}
-  [Ethiopia has not held a census since 2007, and central and regional estimates of its number of urban centres differ by a factor of nearly three. A replicable delineation built on the Global Human Settlement Layer reconciles the two counts and shows that Ethiopian urbanisation has been overwhelmingly extensive: urban built-up cover grew nearly four times faster than population.]{.desc}
+  [In the 2020 round of censuses, 17 African countries and territories holding 45 percent of the continent's population held none. Where the census is old, satellite population layers carry the old count forward by assumption. We measure urban growth from built cover instead, defining each urban area as a dense core with the built-up land within walking distance of it. In Ethiopia, last counted in 2007, the method finds 961 urban areas in 2025, and Uganda's census of 2024, taken after the layers were made, validates the account.]{.desc}
 
   <details class="abstract">
   <summary>Abstract</summary>
 
-  Ethiopia has not conducted a population census since 2007, creating a policy gap and leaving policymakers without spatially disaggregated evidence on the country's urban transformation at a moment when consequential decisions about housing, fiscal transfers, and infrastructure investment are being made. Central and regional government estimates of the number of urban centres—approximately 900 and 2,600 respectively—diverge by a factor of nearly three. This study develops a replicable automated delineation pipeline, built entirely on the open access Global Human Settlement Layer at 100&nbsp;m pixel resolution, to identify, count, and track Ethiopian urban areas between 2005 and 2025. The pipeline applies a “grow and clip” procedure—population-dense cores are expanded using population-scaled buffers and clipped to observed built-up cover—producing 2,643 urban polygons in 2025, of which 997 have estimated populations above 5,000. We show that the 900-versus-2,600 discrepancy corresponds to different population thresholds applied to the same underlying settlement structure: both counts are recoverable from a single delineation output. The more consequential finding concerns the *character* of urbanisation. Built-up cover within delineated urban areas grew by 366 percent over two decades, nearly four times faster than estimated population growth, while core densities declined by 35 to 50 percent across most city size classes. Ethiopian urbanisation has been overwhelmingly extensive—driven by horizontal expansion rather than densification—with Addis Ababa as the principal exception. This pattern varies sharply by region: SNNP and Sidama experienced growth in city built cover exceeding 1,900 and 3,000 percent respectively from low bases, while Tigray's urban system grew by 85 percent, reflecting the disruption of conflict. By foregrounding directly observed physical measures—built cover and built volume—over population estimates derived from outdated demographic projections, the methodology remains informative where census data are severely outdated. The pipeline is fully parameterised and designed for replication in other data-scarce environments.
+  Governments allocate public resources according to where people live, but in the 2020 round of censuses 17 African countries and territories, home to 45 percent of the continent's population, held none. Where the census is old, urban growth is measured with satellite gridded population layers or official projections, and both carry an old count forward by assumption. We propose a way of measuring urban growth that does not depend on how an old census is divided. Each urban area is a dense core with the built-up land within walking distance of it, and its growth is measured from built cover, which satellites observe. In Ethiopia, last counted in 2007, the method finds 961 urban areas in 2025, and over twenty years most of the growth of built cover in those present since 2005 lay on land they added. Measures that rest on population depend on which layer is used. Two layers built on the same census disagree on how many urban areas exceed 50,000 people and on whether their density rose or fell, because each spreads the census by its own rule and none observes how towns grow. Uganda's census of 2024, taken after the layers were made, validates this account, since layers built from small census units place urban population close to the count. Against the same count, our delineation is more selective than the dartboard and follows household access to grid electricity more closely.
+
+  </details>
+
+- **Valuing Land with Auctions: Implications for Land Taxation in Addis Ababa**
+  [[Franklin, S.](https://www.simonfranklin.co/), Harman, O., Mengistu, S. T., and Molla, K.]{.authors}
+  [In preparation]{.venue}
+  [Ethiopia's land and property tax of 2025 asks every city to assess urban land at market value, in a country that keeps no record of sales. Using 305 Addis Ababa plots recovered from scanned site plans and linked to the bids paid for them, we ask what the city's public tenders reveal about land value, and whether its own cost-based benchmark captures that value well enough to tax.]{.desc}
+
+  <details class="abstract">
+  <summary>Abstract</summary>
+
+  Urban land is worth what it can reach and what the city may become, and taxing that value favours compact building. Ethiopia's 2025 land and property tax requires market-value assessment where sales are unrecorded. Using 305 Addis Ababa plots located from site plans, we ask what auction prices reveal about land value and whether the city's cost-based price captures it. Buyers pay for access to the centre and services, and local growth carries no detectable premium. A distance-and-size model values unseen locations and rounds within assessors' standards. The benchmark does no better than a flat rate and burdens cheaper land.
 
   </details>
 :::
@@ -103,9 +136,9 @@ Drafts not linked below are available on request.
 ::: {.pubs}
 - **Green Global Value Chains for Sustainable Development: Environmental Upgrading in a Fragmented Spatial Economy**
   [[Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), and Harman, O. (2026)]{.authors}
-  [Elements on Globalization and Global Supply Chains, Cambridge University Press, October 2026. Also open access on Cambridge Core]{.venue}
+  [Elements on Globalization and Global Supply Chains, Cambridge University Press, 11 November 2026. Open access on Cambridge Core]{.venue}
   [We argue that green global value chains, and the green foreign direct investment that helps to build and reconfigure them, can support sustainable development across a fragmented spatial economy. The Element advances the concept of environmental upgrading, introduces the Green Smile Curve with a typology of green, brown and ordinary chains, gives new evidence on the geography of green investment, and proposes a policy framework for governments.]{.desc}
-  [[About the book](green-global-value-chains.qmd) [Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy) [Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
+  [[About the book](green-global-value-chains.qmd) [Cambridge Core](https://www.cambridge.org/core/elements/green-global-value-chains-for-sustainable-development/60FD5F061805ABB92DE2190A91B8F95A) [Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy) [Short version (RSA blog)](https://www.regionalstudies.org/rsa-blog/blog2023sss24651/)]{.links}
   [**Media and commentary:** [RSA Summer Conference opening plenary (video)](https://www.youtube.com/watch?v=sNRER6fGE9c) [Sustainability in a fragmented world (RSA video)](https://www.youtube.com/watch?v=Vlg8Ty7w7tQ) [LSE iQ podcast](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero) [What Port Talbot teaches us (LSE Business Review)](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)]{.media}
 
 - **Harnessing Global Value Chains for Regional Development: How to Upgrade through Regional Policy, FDI and Trade**
