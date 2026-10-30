@@ -156,7 +156,7 @@ Drafts not linked below are available on request.
 
 ::: {.pubs}
 - **Power and Place: Decentralisation, Urbanisation and Local Economic Development in Africa**
-  [DPhil in Sustainable Urban Development, University of Oxford, in progress. Supervised by [Vlad Mykhnenko](https://lifelong-learning.ox.ac.uk/profiles/vlad-mykhnenko)]{.venue}
+  [DPhil in Sustainable Urban Development, University of Oxford, submitted October 2026. Supervised by [Vlad Mykhnenko](https://lifelong-learning.ox.ac.uk/profiles/vlad-mykhnenko)]{.venue}
   [The thesis asks where power sits in African urban government, and what follows from that placement. The first three results chapters measure it through a framework of capacity, authority and means (CAM): how citizens rate their governments, what the law grants them, and the fiscal resources behind both. The last two ask what follows for local public goods, and for the new cities Uganda created in 2020.]{.desc}
 :::
 
