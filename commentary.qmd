@@ -10,6 +10,9 @@ IGC blog.
 ## 2026
 
 ::: {.pubs}
+- **[Can we solve the climate crisis under capitalism?](https://blogs.lse.ac.uk/lsereviewofbooks/2026/11/09/cop-31-can-we-solve-the-climate-crisis-under-capitalism-nick-stern-robert-falkner-giulia-leonelli-laurie-parsons-riccardo-crescenzi-oliver-harman/)**
+  [LSE Review of Books, with Riccardo Crescenzi. A COP31 feature with contributions from Nicholas Stern, Giulia Claudia Leonelli, Laurie Parsons and Robert Falkner]{.venue}
+
 - **[Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)**
   [LSE Business Review, with Riccardo Crescenzi]{.venue}
 :::
