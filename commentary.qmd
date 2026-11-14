@@ -13,6 +13,9 @@ IGC blog.
 - **[Can we solve the climate crisis under capitalism?](https://blogs.lse.ac.uk/lsereviewofbooks/2026/11/09/cop-31-can-we-solve-the-climate-crisis-under-capitalism-nick-stern-robert-falkner-giulia-leonelli-laurie-parsons-riccardo-crescenzi-oliver-harman/)**
   [LSE Review of Books, with Riccardo Crescenzi. A COP31 feature with contributions from Nicholas Stern, Giulia Claudia Leonelli, Laurie Parsons and Robert Falkner]{.venue}
 
+- **[From harnessing GVCs to green GVCs: The last chapter became the first](https://www.regionalstudies.org/news/from-harnessing-gvcs-to-green-gvcs-the-last-chapter-became-the-first/)**
+  [Regional Studies Association, with Riccardo Crescenzi. On how the final chapter of *Harnessing Global Value Chains for Regional Development* became the starting point for the new book]{.venue}
+
 - **[Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)**
   [LSE Business Review, with Riccardo Crescenzi]{.venue}
 :::
