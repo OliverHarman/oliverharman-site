@@ -94,6 +94,32 @@ In a world facing environmental transformation, mobilising the capital, skills, 
   [[Alvarez-Vilanova, J.](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), Harman, O., and [Lippitsch, C.](https://sites.google.com/view/christianlippitsch)]{.authors}
   [Working paper, in preparation]{.venue}
   [Companion empirical work on the geography of green investment, classifying 9,935 greenfield projects against the EU and Rwandan green taxonomies. [More on the research page](research.qmd#working-papers)]{.desc}
+  [[Green investment in Africa (IGC blog)](https://www.theigc.org/blogs/green-foreign-direct-investment-africa)]{.links}
+:::
+
+## At the LSE Festival {#lse-festival}
+
+```{=html}
+<figure class="page-photo coral">
+  <img src="assets/photos/ggvc-lse-festival.jpg" alt="Oliver Harman with visitors at the 'Holding the powerful to account' wall of the LSE Festival exhibition, in front of a map of a pear's route from Argentina through Thailand to the United States">
+  <figcaption>The "Holding the powerful to account" wall, LSE Festival exhibition, June 2026. Photo: Maria Moore, LSE</figcaption>
+</figure>
+```
+
+Riccardo Crescenzi and I took the Element's argument to the 2026 LSE Festival,
+*How to save the planet*, with a panel in its exhibition and a public debate on
+green industrial policy.
+
+::: {.pubs}
+- **[Why must a pear cross three continents before reaching a lunchbox?](https://www.lse.ac.uk/Events/LSE-Festival/2026/LF26-Holdingpowerfultoaccount-foodmiles.pdf)**
+  [Exhibition panel, with Riccardo Crescenzi. *How to save the planet*, the LSE Festival exhibition in the Great Hall of the Marshall Building, 15 June to 2 July 2026]{.venue}
+  [A pear grown in Argentina, packaged in Thailand and sold in the United States travels 18,000 miles. The panel follows that journey to show how a well-governed global value chain can reduce environmental harm and benefit the local economy.]{.desc}
+  [[Panel (PDF)](https://www.lse.ac.uk/Events/LSE-Festival/2026/LF26-Holdingpowerfultoaccount-foodmiles.pdf) [About the exhibition](https://www.lse.ac.uk/events/lse-festival/2026/lse-festival-exhibition)]{.links}
+
+- **[Green industrial policy: balancing national goals and global integration](https://www.lse.ac.uk/events/lse-festival/2026/green-industrial-policy)**
+  [LSE Festival panel, 16 June 2026, with Anna Valero, David Willetts and Louise Hellem, chaired by Riccardo Crescenzi]{.venue}
+  [The panel asked how green industrial policy can deliver sustainable growth, what part global value chains play in reaching net zero, and why making everything at home may have unintended economic and environmental consequences.]{.desc}
+  [[Video, from my contribution at 32:30](https://www.youtube.com/watch?v=Q4jl9RzZLRU&t=1950s) [Event page](https://www.lse.ac.uk/events/lse-festival/2026/green-industrial-policy)]{.links}
 :::
 
 ## Talks and media
@@ -101,6 +127,7 @@ In a world facing environmental transformation, mobilising the capital, skills, 
 ::: {.talks}
 - [2026]{.date} ["Can we solve the climate crisis under capitalism?"](https://blogs.lse.ac.uk/lsereviewofbooks/2026/11/09/cop-31-can-we-solve-the-climate-crisis-under-capitalism-nick-stern-robert-falkner-giulia-leonelli-laurie-parsons-riccardo-crescenzi-oliver-harman/), with Riccardo Crescenzi, in LSE Review of Books, a COP31 feature with contributions from Nicholas Stern, Giulia Claudia Leonelli, Laurie Parsons and Robert Falkner
 - [2026]{.date} ["From harnessing GVCs to green GVCs: The last chapter became the first"](https://www.regionalstudies.org/news/from-harnessing-gvcs-to-green-gvcs-the-last-chapter-became-the-first/), with Riccardo Crescenzi, for the Regional Studies Association
+- [2026]{.date} ["Green investment in Africa is larger — and more concentrated — than statistics show"](https://www.theigc.org/blogs/green-foreign-direct-investment-africa), IGC blog, from the companion research on green foreign direct investment in Africa
 - [2026]{.date} ["Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy"](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/), with Riccardo Crescenzi, in LSE Business Review
 - [2025–]{.date} [RSA Research Network on Green(ing) Global Value Chains for Sustainable Regional Development](https://www.regionalstudies.org/network/ggvc4srd/), with V. De Marchi, R. Crescenzi and C. Hulke
 - [2024]{.date} *Green Global Value Chains for Sustainable Regional Development*. International Business Seminar, Henley Business School, University of Reading

@@ -16,6 +16,13 @@ IGC blog.
 - **[From harnessing GVCs to green GVCs: The last chapter became the first](https://www.regionalstudies.org/news/from-harnessing-gvcs-to-green-gvcs-the-last-chapter-became-the-first/)**
   [Regional Studies Association, with Riccardo Crescenzi. On how the final chapter of *Harnessing Global Value Chains for Regional Development* became the starting point for the new book]{.venue}
 
+- **[Green investment in Africa is larger — and more concentrated — than statistics show](https://www.theigc.org/blogs/green-foreign-direct-investment-africa)**
+  [IGC blog, on behalf of Juan Alvarez-Vilanova, Riccardo Crescenzi, James Hayward, Christian Lippitsch and Till Meissner]{.venue}
+
+- **[Why must a pear cross three continents before reaching a lunchbox?](https://www.lse.ac.uk/Events/LSE-Festival/2026/LF26-Holdingpowerfultoaccount-foodmiles.pdf)**
+  [Exhibition panel, with Riccardo Crescenzi, in *How to save the planet*, the LSE Festival exhibition]{.venue}
+  [[About the exhibition](https://www.lse.ac.uk/events/lse-festival/2026/lse-festival-exhibition)]{.links}
+
 - **[Made in Britain, or designed in Britain? What Port Talbot teaches us about the green economy](https://blogs.lse.ac.uk/businessreview/2026/06/13/made-in-britain-or-designed-in-britain-what-port-talbot-teaches-us-about-the-green-economy/)**
   [LSE Business Review, with Riccardo Crescenzi]{.venue}
 :::
@@ -146,6 +153,9 @@ IGC blog.
 ## Video and podcasts
 
 ::: {.pubs}
+- **[Green industrial policy: balancing national goals and global integration](https://www.youtube.com/watch?v=Q4jl9RzZLRU&t=1950s)**
+  [LSE Festival panel, with Anna Valero, David Willetts and Louise Hellem, chaired by Riccardo Crescenzi. My contribution starts at 32:30]{.venue}
+
 - **[Should we still care about net zero?](https://www.lse.ac.uk/lse-player/should-we-still-care-about-net-zero)**
   [LSE iQ podcast, with Anna Valero, Akshat Rathi and Riccardo Crescenzi]{.venue}
 
