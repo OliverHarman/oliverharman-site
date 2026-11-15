@@ -31,11 +31,11 @@ Drafts not linked below are available on request.
 ## Featured paper
 
 ::: {.pubs}
-- **Status without Power: City Creation, Central Transfers and Local Public Goods in Uganda**
+- **Decentralisation by Proliferation in Uganda**
   [Single-authored]{.authors}
   [Working paper, October 2026. Drawn from the thesis *Power and Place*]{.venue}
   [Uganda declared fifteen new cities in 2020, ten of which commenced together on 1 July and five never did. Commencement brought a budget line, an elected council and parliamentary seats, and no new legal powers or revenue authority. A block difference-in-differences compares the ten against the cities declared but never commenced; a third arm of municipalities never declared separates commencement from declaration alone; and a boundary design compares areas inside and outside the pre-reform municipal limits. City budgets rose by 13.36 billion shillings a year while their parent districts' and neighbours' budgets fell, local public goods and night-time light showed no detectable change within four years, and the periphery absorbed to meet the population threshold did not catch up.]{.desc}
-  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Status%20without%20Power)]{.links}
+  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Decentralisation%20by%20Proliferation)]{.links}
 
   <details class="abstract">
   <summary>Abstract</summary>
@@ -48,11 +48,11 @@ Drafts not linked below are available on request.
 ## Working papers
 
 ::: {.pubs}
-- **Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms**
+- **Local Authorities without Means in Guyana**
   [Single-authored]{.authors}
   [Working paper, October 2026]{.venue}
-  [Guyana restored local elections in 2016 after 22 years, created four towns, and equalised formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre without changing any council. Councils held by the party that lost national office became 22 percentage points less likely to receive audited central capital works, which ethnic composition does not explain, while town status brought central investment and little else.]{.desc}
-  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Authority%20without%20Means)]{.links}
+  [Guyana restored local elections in 2016 after 22 years, created four towns, and equalised formula transfers by design. The national alternation of August 2020 reversed every council's alignment with the centre without changing any council. I build a council panel of audited central capital works for 2012–2024 from the Auditor General's reports, with inference by randomisation over the party labels of the sixteen treated councils. Councils held by the party that lost national office became 22 percentage points less likely to receive central capital works, which ethnic composition does not explain, while town status brought central investment and little else.]{.desc}
+  [[Request draft](mailto:o.harman@lse.ac.uk?subject=Local%20Authorities%20without%20Means)]{.links}
 
   <details class="abstract">
   <summary>Abstract</summary>
@@ -64,7 +64,7 @@ Drafts not linked below are available on request.
 - **Moving the Seat of Government and the Growth of African Towns**
   [Single-authored]{.authors}
   [Working paper, October 2026]{.venue}
-  [Governments that move a seat of government, or create a region or district, expect people, economic activity and public services to follow the offices. I test that expectation on a register of 38 contests and moves of seats of government in 12 African countries in which the towns that lost are documented, comparing each new seat with the runner-up that would otherwise have hosted it, and both with towns of similar size in regions that were not reformed.]{.desc}
+  [Governments that move a seat of government, or create a region or district, expect people, economic activity and public services to follow the offices. I test that expectation on a register of 38 contests and moves of seats of government in 12 African countries in which the towns that lost are documented, comparing each new seat with the runner-up that would otherwise have hosted it, and both with towns of similar size in regions that were not reformed, by synthetic difference-in-differences on night-time light, built-up area and population.]{.desc}
   [[Request draft](mailto:o.harman@lse.ac.uk?subject=Moving%20the%20Seat%20of%20Government)]{.links}
 
   <details class="abstract">
@@ -74,7 +74,7 @@ Drafts not linked below are available on request.
 
   </details>
 
-- **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024**
+- **Measuring Metropolitan Authority in Africa: A Regional Authority Index for Eight Countries, 1994–2024**
   [Harman, O., Hayward, J., and Sampó, G.]{.authors}
   [IGC Working Paper, in preparation]{.venue}
   [Extends the Regional Authority Index to the metropolitan tier, where Africa has had almost no coverage. Constitutional and statutory instruments are coded in sequence with model assistance and validated against independent human coding.]{.desc}
@@ -82,7 +82,7 @@ Drafts not linked below are available on request.
 - **Green Foreign Direct Investment in Africa**
   [[Alvarez-Vilanova, J.](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [Crescenzi, R.](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi), Harman, O., and [Lippitsch, C.](https://sites.google.com/view/christianlippitsch)]{.authors}
   [In preparation]{.venue}
-  [The first systematic, taxonomy-based assessment of green FDI in Africa, classifying 9,935 greenfield projects (2013–2025) against the EU and Rwandan green taxonomies with large language models. More than one in six dollars of inward FDI is green, and three-fifths of that lies outside renewable energy and waste.]{.desc}
+  [The first systematic, taxonomy-based assessment of green FDI in Africa. A coding pipeline assisted by large language models classifies 9,935 greenfield projects (2013–2025) against the EU and Rwandan green taxonomies and compares what each counts as green. More than one in six dollars of inward FDI is green, and three-fifths of that lies outside renewable energy and waste.]{.desc}
   [**Media and commentary:** [Green investment in Africa is larger — and more concentrated — than statistics show (IGC blog)](https://www.theigc.org/blogs/green-foreign-direct-investment-africa)]{.media}
 
   <details class="abstract">
@@ -95,7 +95,7 @@ Drafts not linked below are available on request.
 - **Transforming Small and Medium Enterprise Integration into Global Value Chains**
   [Harman, O., and Shukla, R.]{.authors}
   [IGC Working Paper GBR-26101, October 2026]{.venue}
-  [Programmes that connect small firms to multinational buyers are usually judged by how many come to trade with the buyer. Using the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY, we find that an integration count reflects the buyer's purchasing decisions as much as the programme's work.]{.desc}
+  [Programmes that connect small firms to multinational buyers are usually judged by how many come to trade with the buyer. We study the internal record of TRANSFORM, a decade-long partnership between Unilever, the UK's Foreign, Commonwealth and Development Office and EY, with a regression across 90 enterprises, qualitative comparative analysis coded from their applications, and nineteen interviews. We find that an integration count reflects the buyer's purchasing decisions as much as the programme's work.]{.desc}
   [[Working paper](https://www.theigc.org/sites/default/files/2026-10/Harman%20and%20Shukla%20Working%20Paper%20September%202026.pdf)]{.links}
 
   <details class="abstract">
@@ -201,7 +201,7 @@ Drafts not linked below are available on request.
   [How urban government capacity compares with central government capacity across African regions, how that balance has moved since 2002, and whether urban settlement structure conditions it. Capacity is a composite of citizen-reported performance, trust, service delivery and the absence of corruption from Afrobarometer, compared with central government in the same country and survey round so that the question is the balance between tiers rather than the level of either.]{.desc}
 
 - **Metropolitan Authority**
-  [How much formal authority African metropolitan governments hold, how it has changed since the early 1990s, and how it compares globally. Constitutional and statutory instruments are coded against the metropolitan adaptation of the Regional Authority Index, read in sequence with model assistance and validated against independent human coding, with results for Ghana, Kenya, Malawi, Rwanda and Uganda. Case studies examine the gap between what statute grants and what governments exercise.]{.desc}
+  [How much formal authority African metropolitan governments hold, how it has changed since the early 1990s, and how it compares globally. Constitutional and statutory instruments are coded against the metropolitan adaptation of the Regional Authority Index, read in sequence with model assistance and validated against independent human coding, with results for Ghana, Kenya, Malawi, Rwanda, Sierra Leone, Tanzania, Uganda and Zambia. Case studies examine the gap between what statute grants and what governments exercise.]{.desc}
 
 - **Fiscal Means and CAM Integration**
   [How large and how autonomous the fiscal footprint of African local government is, using IMF Government Finance Statistics, with revenue read alongside the power to raise it and expenditure alongside discretion over it. The chapter then brings capacity, authority and means together for the first time, at the metropolitan region and survey round.]{.desc}

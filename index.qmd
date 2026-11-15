@@ -61,10 +61,10 @@ Cambridge University Press, 11 November 2026, open access on Cambridge Core.
 
 [Work in progress]{.label}
 
-- *[Status without Power: City Creation, Central Transfers and Local Public Goods in Uganda](research.qmd#featured-paper)*. [Single-authored]{.with}
-- *Authority without Means: Partisan Alignment and Central Investment after Guyana's Local Government Reforms*. [Single-authored]{.with}
+- *[Decentralisation by Proliferation in Uganda](research.qmd#featured-paper)*. [Single-authored]{.with}
+- *Local Authorities without Means in Guyana*. [Single-authored]{.with}
 - *Moving the Seat of Government and the Growth of African Towns*. [Single-authored]{.with}
-- *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Five Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
+- *Measuring Metropolitan Authority in Africa: A Regional Authority Index for Eight Countries, 1994–2024*. [With J. Hayward and G. Sampó]{.with}
 - *Green Foreign Direct Investment in Africa*. [With [J. Alvarez-Vilanova](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-alvarez-vilanova), [R. Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and [C. Lippitsch](https://sites.google.com/view/christianlippitsch)]{.with}
 - *[Transforming Small and Medium Enterprise Integration into Global Value Chains](https://www.theigc.org/sites/default/files/2026-10/Harman%20and%20Shukla%20Working%20Paper%20September%202026.pdf)*. [With R. Shukla. IGC Working Paper, 2026]{.with}
 - *Measuring Urban Growth from Built Cover Where the Census Is Old*. [With [S. Franklin](https://www.simonfranklin.co/), G. Kakoulaki, K. Molla and M. Read]{.with}
