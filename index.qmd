@@ -49,9 +49,9 @@ that helps to build and reconfigure them, can support sustainable development
 across a fragmented spatial economy. Our organising idea is environmental
 upgrading, and we set out what governments can do with it.
 
-Cambridge University Press, 11 November 2026, open access on Cambridge Core.
+Published by Cambridge University Press in November 2026, free to read on Cambridge Core.
 
-[About the book](green-global-value-chains.qmd) &nbsp; [Launch event, 18 November](https://www.lse.ac.uk/events/global-value-chains)
+[Read it free](https://doi.org/10.1017/9781009623766) &nbsp; [About the book](green-global-value-chains.qmd) &nbsp; [Launch event, 18 November](https://www.lse.ac.uk/events/global-value-chains)
 :::
 
 ::: {.wip}
@@ -111,8 +111,8 @@ Oxford, I am nearly always available for a cup of tea.
 ## Updates
 
 ::: {.updates}
+- [Nov 2026]{.date} *Green Global Value Chains for Sustainable Development*, with Riccardo Crescenzi, published by Cambridge University Press on 18 November, open access on Cambridge Core. [Read it free](https://doi.org/10.1017/9781009623766) or see [about the book](green-global-value-chains.qmd).
 - [Nov 2026]{.date} ["Can global value chains go green? Trade, investment and the net-zero development challenge"](https://www.lse.ac.uk/events/global-value-chains), an LSE public event marking the book, on 18 November with Erik Berglöf, Riccardo Crescenzi, Ralph de Haas and Daria Taglioni, chaired by Jonathan Pershing. On campus and online.
-- [Nov 2026]{.date} *Green Global Value Chains for Sustainable Development*, with Riccardo Crescenzi, goes online at Cambridge University Press on 11 November, open access on Cambridge Core. [About the book](green-global-value-chains.qmd).
 - [Nov 2026]{.date} ["Can we solve the climate crisis under capitalism?"](https://blogs.lse.ac.uk/lsereviewofbooks/2026/11/09/cop-31-can-we-solve-the-climate-crisis-under-capitalism-nick-stern-robert-falkner-giulia-leonelli-laurie-parsons-riccardo-crescenzi-oliver-harman/), a COP31 feature in LSE Review of Books with contributions from Nicholas Stern, Giulia Claudia Leonelli, Laurie Parsons and Robert Falkner. Riccardo Crescenzi and I wrote ours from [the book](green-global-value-chains.qmd).
 - [Nov 2026]{.date} ["From harnessing GVCs to green GVCs: The last chapter became the first"](https://www.regionalstudies.org/news/from-harnessing-gvcs-to-green-gvcs-the-last-chapter-became-the-first/), with Riccardo Crescenzi, for the Regional Studies Association, on how the new book grew out of the final chapter of *Harnessing Global Value Chains for Regional Development*.
 - [Oct 2026]{.date} ["Green investment in Africa is larger — and more concentrated — than statistics show"](https://www.theigc.org/blogs/green-foreign-direct-investment-africa), on the IGC blog, from our IGC-funded research on green foreign direct investment in Africa with Juan Alvarez-Vilanova, Riccardo Crescenzi, James Hayward, Christian Lippitsch and Till Meissner.

@@ -1,13 +1,13 @@
 ---
 title: "Green Global Value Chains for Sustainable Development"
 subtitle: "Environmental Upgrading in a Fragmented Spatial Economy"
-description: "A Cambridge Element by Riccardo Crescenzi and Oliver Harman on green global value chains, green foreign direct investment and environmental upgrading. Out on 11 November 2026 from Cambridge University Press, open access on Cambridge Core."
+description: "A Cambridge Element by Riccardo Crescenzi and Oliver Harman on green global value chains, green foreign direct investment and environmental upgrading. Published by Cambridge University Press in November 2026, open access on Cambridge Core."
 ---
 
 ```{=html}
 <figure class="book-cover">
   <img src="assets/book-ggvc-cover.jpg" alt="Cover of Green Global Value Chains for Sustainable Development, Cambridge University Press">
-  <figcaption>Cambridge University Press, 11 November 2026</figcaption>
+  <figcaption>Cambridge University Press, November 2026</figcaption>
 </figure>
 ```
 
@@ -23,10 +23,11 @@ spatial economy.
 Our organising idea is environmental upgrading. Participation in these chains
 can move firms, regions and countries towards cleaner production and
 higher-value activities, and in doing so it reshapes natural capital. The
-Element is short, at 75 pages, and it is written for researchers and for the
-governments and agencies that have to act on this agenda.
+Element is short, at about a hundred pages of text, and it is written for
+researchers and for the governments and agencies that have to act on this
+agenda. It is free to read and to reuse.
 
-[**[Read it on Cambridge Core](https://www.cambridge.org/core/elements/green-global-value-chains-for-sustainable-development/60FD5F061805ABB92DE2190A91B8F95A)** &nbsp;·&nbsp; Open access from 11 November 2026 &nbsp;·&nbsp; [Print copies from Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy)]{.fields}
+[**[Read it free on Cambridge Core](https://doi.org/10.1017/9781009623766)** &nbsp;·&nbsp; [Download the PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/60FD5F061805ABB92DE2190A91B8F95A/9781009623773AR.pdf/green-global-value-chains-for-sustainable-development.pdf) &nbsp;·&nbsp; [Print copies from Cambridge University Press](https://www.cambridge.org/gb/universitypress/subjects/politics-international-relations/political-economy/green-global-value-chains-sustainable-development-environmental-upgrading-fragmented-spatial-economy)]{.fields}
 
 ## Launch event
 
@@ -63,6 +64,20 @@ Centre.
 :::
 
 <details class="abstract">
+<summary>Contents</summary>
+
+- Prologue: How Do They Work?
+- 1 Setting the Scene
+- 2 What Are They?
+- 3 What Lies Beneath?
+- 4 Why Do They Matter?
+- 5 How to Measure Them?
+- 6 How to Harness Them?
+- Epilogue: What Can Be Done Next?
+
+</details>
+
+<details class="abstract">
 <summary>Publisher's description</summary>
 
 In a world facing environmental transformation, mobilising the capital, skills, and knowledge required for decarbonisation and wider sustainability remains a formidable challenge. We argue that Green Global Value Chains (GGVCs)—and the Green Foreign Direct Investment (GFDI) that helps to build and reconfigure them—are central to this shift and can support sustainable development across a fragmented spatial economy. We advance the concept of environmental upgrading, showing how participation in GGVCs can move firms, regions, and countries towards cleaner production and higher-value activities while reshaping natural capital. This work has three aims. First, it offers a unified conceptual perspective on how GVCs shape environmental and development outcomes, introducing the Green Smile Curve and a typology of green, brown, and ordinary value chains. Second, it provides new empirical evidence on the geography of GFDI. Third, it proposes a GGVCs-sensitive policy framework—centred on building, embedding, and reshaping value chains—to help governments leverage GGVCs.
@@ -74,8 +89,11 @@ In a world facing environmental transformation, mobilising the capital, skills, 
 ::: {.book-meta}
 - [Authors]{.k} [Riccardo Crescenzi](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/riccardo-crescenzi) and Oliver Harman, London School of Economics and Political Science
 - [Series]{.k} Elements on Globalization and Global Supply Chains, Cambridge University Press
-- [Published]{.k} 11 November 2026, 75 pages
-- [Formats]{.k} Paperback (ISBN 9781009623759), hardback and ebook, and open access on Cambridge Core
+- [Published]{.k} Online 18 November 2026, 127 pages
+- [DOI]{.k} [10.1017/9781009623766](https://doi.org/10.1017/9781009623766)
+- [Open access]{.k} Free to read and reuse under a Creative Commons Attribution licence ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), funded by the LSE Open Access Books fund
+- [Formats]{.k} Online and PDF on Cambridge Core (ISBN 9781009623766), hardback (ISBN 9781009623773) and paperback (ISBN 9781009623759)
+- [Cite as]{.k} Crescenzi, R., and Harman, O. (2026). *Green Global Value Chains for Sustainable Development: Environmental Upgrading in a Fragmented Spatial Economy*. Elements on Globalization and Global Supply Chains. Cambridge University Press. [doi:10.1017/9781009623766](https://doi.org/10.1017/9781009623766)
 :::
 
 ## Earlier and shorter versions
